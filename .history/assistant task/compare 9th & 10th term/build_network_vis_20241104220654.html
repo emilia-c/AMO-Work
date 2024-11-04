@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MEP and Assistant Network</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body {
+            background: lightgrey;
+            margin: 0;
+        }
+        #network {
+            width: 800px;
+            height: 600px;
+            background: white;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="network"></div>
+    <script>
+        // Your data
+        const graphData = {
+            nodes: [
+                {"id": "Abir AL-SAHLANI", "label": "Abir AL-SAHLANI", "type": "mep", "group": "Renew"},
+                {"id": "Adam JARUBAS", "label": "Adam JARUBAS", "type": "mep", "group": "EPP"},
+                {"id": "Anna Sophia BENGTSSON", "label": "Anna Sophia BENGTSSON", "type": "assistant", "assistant_type": "accredited"},
+                {"id": "John August HULTENGAARD", "label": "John August HULTENGAARD", "type": "assistant", "assistant_type": "accredited"},
+                {"id": "Tyra Louise LUNDBERG", "label": "Tyra Louise LUNDBERG", "type": "assistant", "assistant_type": "accredited"},
+                {"id": "Sylwia Joanna BETKOWSKA", "label": "Sylwia Joanna BETKOWSKA", "type": "assistant", "assistant_type": "accredited"},
+                {"id": "Borys Maria BRZEZINSKI", "label": "Borys Maria BRZEZINSKI", "type": "assistant", "assistant_type": "accredited"},
+                {"id": "Linn Christina Brunhilde OETTERLI", "label": "Linn Christina Brunhilde OETTERLI", "type": "assistant", "assistant_type": "accredited"},
+                {"id": "Lukasz WILKOSZ", "label": "Lukasz WILKOSZ", "type": "assistant", "assistant_type": "accredited"},
+                {"id": "Monika JAGIELLO", "label": "Monika JAGIELLO", "type": "assistant", "assistant_type": "accredited_grouping"}
+            ],
+            edges: [
+                { from: "Abir AL-SAHLANI", to: "Anna Sophia BENGTSSON" },
+                { from: "Abir AL-SAHLANI", to: "John August HULTENGAARD" },
+                { from: "Abir AL-SAHLANI", to: "Tyra Louise LUNDBERG" },
+                { from: "Adam JARUBAS", to: "Sylwia Joanna BETKOWSKA" },
+                { from: "Adam JARUBAS", to: "Borys Maria BRZEZINSKI" },
+                { from: "Adam JARUBAS", to: "Linn Christina Brunhilde OETTERLI" },
+                { from: "Abir AL-SAHLANI", to: "Lukasz WILKOSZ" },
+                { from: "Abir AL-SAHLANI", to: "Monika JAGIELLO" }
+            ]
+        };
+
+        // Create node and edge datasets
+        const nodes = new vis.DataSet(graphData.nodes);
+        const edges = new vis.DataSet(graphData.edges);
+
+        // Calculate sizes and colors for MEP nodes
+        const mepNodeSize = {};
+        graphData.edges.forEach(edge => {
+            if (edge.from in mepNodeSize) {
+                mepNodeSize[edge.from]++;
+            } else {
+                mepNodeSize[edge.from] = 1;
+            }
+        });
+
+        // Update node sizes based on connections
+        nodes.forEach(node => {
+            if (node.type === "mep") {
+                node.size = (mepNodeSize[node.id] || 0) * 5 + 10; // Base size + size per connection
+                // Assign color based on group
+                node.color = node.group === "Renew" ? "lightgreen" : node.group === "EPP" ? "lightblue" : "gray";
+            } else {
+                node.size = 8; // Standard size for assistants
+                node.color = "orange"; // Color for assistants
+            }
+        });
+
+        // Create a network
+        const container = document.getElementById('network');
+        const data = {
+            nodes: nodes,
+            edges: edges
+        };
+        const options = {
+            physics: true, // Enable physics for dynamic layout
+            nodes: {
+                shape: 'dot', // Node shape
+                font: {
+                    size: 14 // Font size for labels
+                }
+            }
+        };
+        const network = new vis.Network(container, data, options);
+    </script>
+</body>
+</html>

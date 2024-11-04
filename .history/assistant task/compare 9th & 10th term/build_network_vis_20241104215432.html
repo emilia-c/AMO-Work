@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MEP and Assistant Network</title>
+    <script src="https://cdn.jsdelivr.net/npm/@sigmajs/sigma@2.3.1/build/sigma.min.js"></script>
+    <style>
+        #container {
+            width: 100%;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+
+    <script>
+        // Fetch and process the graph data from JSON
+        fetch('graph_data_test.json')  // No local path, just the filename
+            .then(response => response.json())
+            .then(graphData => {
+                // Prepare graph structure for Sigma.js
+                const graph = new sigma.classes.graph();
+
+                // Add nodes
+                graphData.nodes.forEach(node => {
+                    graph.addNode(node.id, {
+                        label: node.label,
+                        x: Math.random(),
+                        y: Math.random(),
+                        size: node.type === "mep" ? 15 : 8,
+                        color: node.type === "mep" ? "blue" : (node.assistant_type === "accredited" ? "orange" : "green"),
+                        type: node.type,
+                        group: node.group,
+                        term: node.term,
+                        assistant_type: node.assistant_type
+                    });
+                });
+
+                // Add edges
+                graphData.edges.forEach(edge => {
+                    graph.addEdge(edge.source + "-" + edge.target, edge.source, edge.target, {
+                        color: "#888"
+                    });
+                });
+
+                // Create the Sigma renderer
+                const container = document.getElementById("container");
+                const renderer = new sigma({
+                    graph: graph,
+                    container: container,
+                    settings: {
+                        defaultNodeColor: "#ccc",
+                        edgeColor: "default",
+                        defaultEdgeColor: "#888",
+                        labelThreshold: 10,
+                    }
+                });
+
+                renderer.refresh();
+            })
+            .catch(error => console.error("Error loading graph data:", error));
+    </script>
+</body>
+</html>

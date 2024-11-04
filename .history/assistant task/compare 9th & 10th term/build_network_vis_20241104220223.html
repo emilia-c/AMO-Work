@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sigma.js Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/@sigmajs/sigma@2.4.0/build/sigma.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/graphology@0.25.4/graphology.umd.min.js"></script>
+    <style>
+        body {
+            background: lightgrey;
+            margin: 0;
+        }
+        #container {
+            width: 800px;
+            height: 600px;
+            background: white;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Create a graphology graph
+            const graph = new graphology.Graph();
+
+            // Add nodes
+            graph.addNode("1", { label: "Node 1", x: 0, y: 0, size: 10, color: "blue" });
+            graph.addNode("2", { label: "Node 2", x: 1, y: 1, size: 20, color: "red" });
+
+            // Add an edge between the nodes
+            graph.addEdge("1", "2", { size: 5, color: "purple" });
+
+            // Instantiate sigma.js and render the graph
+            const container = document.getElementById("container");
+            const sigmaInstance = new sigma({
+                graph: graph,
+                container: container,
+                settings: {
+                    defaultNodeColor: "#ccc",
+                    edgeColor: "default",
+                    defaultEdgeColor: "#888",
+                }
+            });
+        });
+    </script>
+</body>
+</html>

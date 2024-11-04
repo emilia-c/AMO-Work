@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MEP and Assistant Network Visualization</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body {
+            background: lightgrey;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        #network {
+            width: 800px;
+            height: 600px;
+            background: white;
+            margin: auto;
+            border: 1px solid #aaa;
+        }
+        #legend {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: white;
+            border: 1px solid #aaa;
+            padding: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+        }
+        .legend-item {
+            margin: 5px 0;
+        }
+        .color-box {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            margin-right: 5px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div id="network"></div>
+    <div id="legend">
+        <strong>Party Colors</strong>
+        <div class="legend-item"><span class="color-box" style="background: lightgreen;"></span> Renew</div>
+        <div class="legend-item"><span class="color-box" style="background: lightblue;"></span> EPP</div>
+        <div class="legend-item"><span class="color-box" style="background: pink;"></span> S&D</div>
+        <div class="legend-item"><span class="color-box" style="background: orange;"></span> Assistants</div>
+    </div>
+
+    <script>
+        // Assuming this is your graph_data in JSON format
+        const graph_data = {
+            "nodes": [
+                {"id": "Abir AL-SAHLANI", "label": "Abir AL-SAHLANI", "type": "mep", "group": "Renew"},
+                {"id": "Anna Sophia BENGTSSON", "label": "Anna Sophia BENGTSSON", "type": "assistant", "group": null, "assistant_type": "accredited"},
+                {"id": "John August HULTENGAARD", "label": "John August HULTENGAARD", "type": "assistant", "group": null, "assistant_type": "accredited"},
+                {"id": "Adam JARUBAS", "label": "Adam JARUBAS", "type": "mep", "group": "EPP"},
+                {"id": "Adrian-Dragoș BENEA", "label": "Adrian-Dragoș BENEA", "type": "mep", "group": "S&D"},
+                {"id": "Agnes JONGERIUS", "label": "Agnes JONGERIUS", "type": "mep", "group": "S&D"}
+            ],
+            "edges": [
+                {"source": "Abir AL-SAHLANI", "target": "Anna Sophia BENGTSSON"},
+                {"source": "Abir AL-SAHLANI", "target": "John August HULTENGAARD"},
+                {"source": "Adam JARUBAS", "target": "Anna Sophia BENGTSSON"},
+                {"source": "Adrian-Dragoș BENEA", "target": "John August HULTENGAARD"},
+                {"source": "Agnes JONGERIUS", "target": "John August HULTENGAARD"}
+            ]
+        };
+
+        // Create node and edge datasets
+        const nodes = new vis.DataSet(graph_data.nodes);
+        const edges = new vis.DataSet(graph_data.edges);
+
+        // Calculate sizes for MEP nodes
+        const mepNodeSize = {};
+        graph_data.edges.forEach(edge => {
+            if (edge.source in mepNodeSize) {
+                mepNodeSize[edge.source]++;
+            } else {
+                mepNodeSize[edge.source] = 1;
+            }
+        });
+
+        // Update node sizes and colors based on connections and groups
+        nodes.forEach(node => {
+            if (node.type === "mep") {
+                node.size = (mepNodeSize[node.id] || 0) * 5 + 10; // Base size + size per connection
+                node.color = node.group === "Renew" ? "lightgreen" :
+                             node.group === "EPP" ? "lightblue" :
+                             node.group === "S&D" ? "pink" : "gray"; // Assign colors for groups
+            } else {
+                node.size = 8; // Standard size for assistants
+                node.color = "orange"; // Color for assistants
+            }
+        });
+
+        // Create a network
+        const container = document.getElementById('network');
+        const data = { nodes: nodes, edges: edges };
+        const options = {
+            physics: true, // Enable physics for dynamic layout
+            nodes: {
+                shape: 'dot', // Node shape
+                font: { size: 14 } // Font size for labels
+            }
+        };
+
+        const network = new vis.Network(container, data, options);
+
+        // Add click event to nodes
+        network.on("click", function (params) {
+            if (params.nodes.length > 0) {
+                const nodeId = params.nodes[0];
+                const clickedNode = nodes.get(nodeId);
+                alert(`Clicked on node: ${clickedNode.label}`);
+            }
+        });
+    </script>
+</body>
+</html>

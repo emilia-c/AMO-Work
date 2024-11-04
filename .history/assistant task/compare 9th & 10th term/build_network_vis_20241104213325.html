@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MEP and Assistant Network</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/2.3.1/sigma.min.js"></script>
+    <style>
+        #container {
+            width: 100%;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+
+    <script>
+        // Load the JSON file and initialize the graph
+        fetch("graph_data.json")
+            .then(response => response.json())
+            .then(graphData => {
+                // Create Sigma graph instance
+                const container = document.getElementById('container');
+                const sigmaInstance = new sigma({
+                    container: container,
+                    settings: {
+                        labelThreshold: 8,
+                    }
+                });
+
+                // Process nodes and edges
+                graphData.nodes.forEach(node => {
+                    sigmaInstance.graph.addNode({
+                        id: node.id,
+                        label: node.label,
+                        x: Math.random(),
+                        y: Math.random(),
+                        size: node.type === "mep" ? 15 : 8,  // Adjust size based on type
+                        color: node.type === "mep" ? "blue" : (node.assistant_type === "accredited" ? "orange" : "green"),
+                        group: node.group,
+                        term: node.term
+                    });
+                });
+
+                graphData.edges.forEach(edge => {
+                    sigmaInstance.graph.addEdge({
+                        id: edge.source + '-' + edge.target,
+                        source: edge.source,
+                        target: edge.target,
+                        color: "#888"
+                    });
+                });
+
+                // Render the graph
+                sigmaInstance.refresh();
+            })
+            .catch(error => console.error("Error loading graph data:", error));
+    </script>
+</body>
+</html>

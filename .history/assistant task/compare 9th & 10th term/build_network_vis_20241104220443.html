@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vis.js Example</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body {
+            background: lightgrey;
+            margin: 0;
+        }
+        #network {
+            width: 800px;
+            height: 600px;
+            background: white;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="network"></div>
+    <script>
+        // Create an array with nodes
+        const nodes = new vis.DataSet([
+            { id: 1, label: 'Node 1', color: 'blue' },
+            { id: 2, label: 'Node 2', color: 'red' }
+        ]);
+
+        // Create an array with edges
+        const edges = new vis.DataSet([
+            { from: 1, to: 2, color: { color: 'purple', highlight: 'orange' } }
+        ]);
+
+        // Create a network
+        const container = document.getElementById('network');
+        const data = {
+            nodes: nodes,
+            edges: edges
+        };
+        const options = {
+            physics: false // Disable physics for a static layout
+        };
+        const network = new vis.Network(container, data, options);
+    </script>
+</body>
+</html>

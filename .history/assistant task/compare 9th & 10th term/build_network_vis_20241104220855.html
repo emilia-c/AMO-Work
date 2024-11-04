@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MEP and Assistant Network</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body {
+            background: lightgrey;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        #network {
+            width: 800px;
+            height: 600px;
+            background: white;
+            margin: auto;
+        }
+        #legend {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: white;
+            border: 1px solid #aaa;
+            padding: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+        }
+        .legend-item {
+            margin: 5px 0;
+        }
+        .color-box {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            margin-right: 5px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div id="network"></div>
+    <div id="legend">
+        <strong>Party Colors</strong>
+        <div class="legend-item"><span class="color-box" style="background: lightgreen;"></span> Renew</div>
+        <div class="legend-item"><span class="color-box" style="background: lightblue;"></span> EPP</div>
+        <div class="legend-item"><span class="color-box" style="background: gray;"></span> Other</div>
+        <div class="legend-item"><span class="color-box" style="background: orange;"></span> Assistant</div>
+    </div>
+
+    <script>
+        // Load graph data from graph_data.json
+        fetch('graph_data.json')
+            .then(response => response.json())
+            .then(graphData => {
+                // Create node and edge datasets
+                const nodes = new vis.DataSet(graphData.nodes);
+                const edges = new vis.DataSet(graphData.edges);
+
+                // Calculate sizes and colors for MEP nodes
+                const mepNodeSize = {};
+                graphData.edges.forEach(edge => {
+                    if (edge.from in mepNodeSize) {
+                        mepNodeSize[edge.from]++;
+                    } else {
+                        mepNodeSize[edge.from] = 1;
+                    }
+                });
+
+                // Update node sizes and colors based on connections and groups
+                nodes.forEach(node => {
+                    if (node.type === "mep") {
+                        node.size = (mepNodeSize[node.id] || 0) * 5 + 10; // Base size + size per connection
+                        node.color = node.group === "Renew" ? "lightgreen" :
+                                     node.group === "EPP" ? "lightblue" : "gray"; // Assign colors
+                    } else {
+                        node.size = 8; // Standard size for assistants
+                        node.color = "orange"; // Color for assistants
+                    }
+                });
+
+                // Create a network
+                const container = document.getElementById('network');
+                const data = { nodes: nodes, edges: edges };
+                const options = {
+                    physics: true, // Enable physics for dynamic layout
+                    nodes: {
+                        shape: 'dot', // Node shape
+                        font: { size: 14 } // Font size for labels
+                    }
+                };
+
+                const network = new vis.Network(container, data, options);
+
+                // Add click event to nodes
+                network.on("click", function (params) {
+                    if (params.nodes.length > 0) {
+                        const nodeId = params.nodes[0];
+                        const clickedNode = nodes.get(nodeId);
+                        alert(`Clicked on node: ${clickedNode.label}`);
+                    }
+                });
+            })
+            .catch(error => console.error("Error loading graph data:", error));
+    </script>
+</body>
+</html>

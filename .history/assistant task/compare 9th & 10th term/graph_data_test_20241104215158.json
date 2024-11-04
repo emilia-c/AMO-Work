@@ -1,0 +1,9 @@
+{
+    "nodes": [
+        {"id": "MEP_1", "label": "MEP 1", "type": "mep", "group": "Renew", "term": 9, "assistant_type": null},
+        {"id": "Assistant_1", "label": "Assistant 1", "type": "assistant", "group": null, "term": null, "assistant_type": "accredited"}
+    ],
+    "edges": [
+        {"source": "MEP_1", "target": "Assistant_1"}
+    ]
+}
