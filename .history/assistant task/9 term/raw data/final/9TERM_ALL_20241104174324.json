@@ -13143,15 +13143,15 @@
         "country": "Cyprus",
         "date_scraped": "Added manually",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Marina SAVVIDOU",
                 "Nicolas VIOLARIS"
             ],
-            "Accredited assistants (grouping)": [],
-            "Paying agents": [
+            "accredited_assistants_grouping": [],
+            "paying_agents": [
                 "Rombus Services LTD"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Αντιγονη Αντωνα",
                 "Μιχαηλ Αζοβιδης",
                 "Ανδριανα Χαριλαου",
@@ -13159,8 +13159,8 @@
                 "ΣΤΕΛΙΟΣ ΣΤΑΥΡΙΝΙΔΗΣ",
                 "Marios DIMITRIOU"
             ],
-            "Service providers": [],
-            "Trainees": [
+            "service_providers": [],
+            "trainees": [
                 "Ariana PASPALIDE",
                 "Nikos SYMEOU",
                 "Danai MAVROUDI"
@@ -13172,8 +13172,8 @@
         "party": "Patriots for Europe Group",
         "country": "Spain",
         "assistants": {
-            "Accredited assistants": [],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants": [],
+            "accredited_assistants_grouping": [
                 "Maria Paloma ADRADOS COART",
                 "Juan BAYOD RODRIGO",
                 "Jose CADENAS RABAIXET",
@@ -13197,24 +13197,24 @@
                 "Fernando Jose NUNEZ ROBRES PATINO",
                 "Bibiana CARRETO PEREZ BARBADILLO"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "MAJER CONSULTING SL"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Pablo ZUAZO PRADEL"
             ],
-            "Service providers": [
-                "Oscar COROMINAS NOGAL",
-                "ARENAS DE LA TINAJITA S.L."
-            ],
-            "Trainees": [
-                "Pablo PEREZ MERINO"
-            ],
-            "Local assistants (grouping)": [
+            "local_assistants_grouping": [
                 "Juan FONTAN LUCIO-VILLEGAS",
                 "Alfonso IRIARTE MUNOZ-SECA",
                 "Nicolas GUTIÉRREZ SAIZ",
                 "IGNACIO CAMPILLO PEREZ"
+            ],
+            "service_providers": [
+                "Oscar COROMINAS NOGAL",
+                "ARENAS DE LA TINAJITA S.L."
+            ],
+            "trainees": [
+                "Pablo PEREZ MERINO"
             ]
         },
         "date_scraped": "Added manually"
@@ -13224,11 +13224,11 @@
         "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
         "country": "Germany",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Nora SEFA",
                 "Christian NEUMANN"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Hannah CORNELSEN",
                 "Jacinta Maria KAISER",
                 "Malte MARKERT",
@@ -13238,15 +13238,15 @@
                 "Hannah CORNELSEN",
                 "Jacinta Maria KAISER"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "Bunzel und Partner STB"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Andrea GAEDE",
                 "Henrik HOFMANN"
             ],
-            "Service providers": [],
-            "Trainees": [
+            "service_providers": [],
+            "trainees": [
                 "Emely Marie SCHAEFER"
             ]
         },
@@ -13257,10 +13257,10 @@
         "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
         "country": "Spain",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Angel LAZARO BUSTAMANTE"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Laura BALLARIN CEREZA",
                 "Izaskun BERNAL CERDEIRA",
                 "Eduardo BLANCO BUZON",
@@ -13330,9 +13330,9 @@
                 "Rosa Maria BALAS TORRES",
                 "MARTA CASARES LARA"
             ],
-            "Paying agents": [],
-            "Local assistants": [],
-            "Service providers": []
+            "paying_agents": [],
+            "local_assistants": [],
+            "service_providers": []
         },
         "date_scraped": "Added manually"
     },
@@ -13341,10 +13341,10 @@
         "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
         "country": "Spain",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Tania Belen LOPEZ MENDEZ"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Laura BALLARIN CEREZA",
                 "Izaskun BERNAL CERDEIRA",
                 "Eduardo BLANCO BUZON",
@@ -13417,9 +13417,9 @@
                 "MARIA MERCEDES GARCIA MUNOZ",
                 "Marta CASARES LARA"
             ],
-            "Paying agents": [],
-            "Local assistants": [],
-            "Service providers": []
+            "paying_agents": [],
+            "local_assistants": [],
+            "service_providers": []
         },
         "date_scraped": "Added manually"
     },
@@ -13428,7 +13428,7 @@
         "party": "Group of the European People's Party (Christian Democrats)",
         "country": "Spain",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Candelaria GORRI LAGUNA",
                 "Laura PASCUAL TRUJILLO",
                 "Maria Jesus MOLINA HURTADO",
@@ -13439,7 +13439,7 @@
                 "Marta RUFINO CAMPOS",
                 "Malena GOUTILLE LAZARO"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Carlos Casimiro SALVADOR ARMENDARIZ",
                 "Silvia HITOS",
                 "Teresa VILLA GOMEZ",
@@ -13450,14 +13450,14 @@
                 "Jesus GARCIA ALBERTI",
                 "Carmen Macarena MARTINEZ MATEO"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "GERBONSA Y ESCANDELL, S.L."
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Francisco GARCIA DE LA PUERTA",
                 "Malena GOUTILLE LAZARO"
             ],
-            "Service providers": [
+            "service_providers": [
                 "ANALISIS ECONOMICO INTEGRAL S.L.N.E.",
                 "INDIE COMMUNICATIONS S.L"
             ]
@@ -13469,11 +13469,11 @@
         "party": "The Left group in the European Parliament - GUE/NGL",
         "country": "Spain",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Miguel José GARCIA JONES",
                 "Abraham VELARDE GONZALEZ"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Carlos Casimiro SALVADOR ARMENDARIZ",
                 "Silvia HITOS",
                 "Beatriz CARO NIETO",
@@ -13484,15 +13484,15 @@
                 "Jesus GARCIA ALBERTI",
                 "Carmen Macarena MARTINEZ MATEO"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "CONSULTING DE ECONOMISTAS SA",
                 "GERBONSA Y ESCANDELL, S.L.",
                 "CE CONSULTING EMPRESARIAL ESPANA S.L (Ex-3905)"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Cristina GARCIA COLMENAR"
             ],
-            "Service providers": [
+            "service_providers": [
                 "Pedro MIELGO CIMAS"
             ]
         },
@@ -13503,11 +13503,11 @@
         "party": "Group of the European People's Party (Christian Democrats)",
         "country": "Spain",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Miguel José GARCIA JONES",
                 "Abraham VELARDE GONZALEZ"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Carlos Casimiro SALVADOR ARMENDARIZ",
                 "Silvia HITOS",
                 "Beatriz CARO NIETO",
@@ -13518,11 +13518,11 @@
                 "Jesus GARCIA ALBERTI",
                 "Carmen Macarena MARTINEZ MATEO"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "GERBONSA Y ESCANDELL, S.L."
             ],
-            "Local assistants": [],
-            "Service providers": [
+            "local_assistants": [],
+            "service_providers": [
                 "Pedro MIELGO CIMAS"
             ]
         },
@@ -13533,21 +13533,21 @@
         "country": "Italy",
         "party": "Patriots for Europe Group",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Paola Francesca GRAZIANO",
                 "Andrea GUGLIELMI",
                 "Luca PAVANATO"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Rocco SARLI",
                 "Annunziata CARNEVALE",
                 "Alisea GIORDANO"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "Dario Salvatore Giovanni BIONDI",
                 "FIMACCOUNT SPRL"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Marcello ARMENIA",
                 "Marcello PULVIRENTI",
                 "Gianfranco Salvatore VITALE",
@@ -13565,7 +13565,7 @@
                 "Victoria GRIFFING",
                 "Maria PAPPALARDO"
             ],
-            "Service providers": [
+            "service_providers": [
                 "MICHELA PETRINA",
                 "BRUXELLES EUROPE Asbl",
                 "Giuseppa VEGNA",
@@ -13581,14 +13581,14 @@
         "country": "Spain",
         "party": "Group of the European People's Party (Christian Democrats)",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Francisco de Paula Gambus Millet",
                 "Francesc Gambús",
                 "Fernando DIAZ MARTINEZ",
                 "Macarena MARTIN SEGURADO",
                 "Elena MATO MALDONADO"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Pedro MIELGO CIMAS",
                 "Carlos Casimiro SALVADOR ARMENDARIZ",
                 "Silvia HITOS",
@@ -13600,16 +13600,16 @@
                 "Jesus GARCIA ALBERTI",
                 "Carmen Macarena MARTINEZ MATEO"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "GB ASESORES",
                 "GERBONSA Y ESCANDELL, S.L."
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Luis POMAR VIDAL",
                 "Gregorio JAUME BONNIN",
                 "Jordi ROCA MAS"
             ],
-            "Service providers": [
+            "service_providers": [
                 "BRAIN COMUNICATION S.L."
             ]
         },
@@ -13620,18 +13620,18 @@
         "country": "Italy",
         "party": "Group of the European People's Party (Christian Democrats)",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Stefano Matonte",
                 "Rachele TESEI",
                 "BEATRICE BRANCADORO",
                 "Federico ANTONELLI"
             ],
-            "Accredited assistants (grouping)": [],
-            "Paying agents": [
+            "accredited_assistants_grouping": [],
+            "paying_agents": [
                 "Marco MARCOVALDI",
                 "Alessandro PARISELLA"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Marco DI STEFANO",
                 "Giuseppe FONISTO",
                 "Ciro RUSSO",
@@ -13644,7 +13644,7 @@
                 "Polya Stefchova KRASTEVA",
                 "Giovanni MELONI"
             ],
-            "Service providers": [
+            "service_providers": [
                 "26LETTERE S.R.L.",
                 "PALMO SRL",
                 "STAND OUT S.R.L.",
@@ -13662,7 +13662,7 @@
         "country": "Spain",
         "party": "Group of the European People's Party (Christian Democrats)",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Despina MANOUSOS",
                 "Kevin MARTINEZ CARROZA",
                 "Jorge VINUELAS GONZALEZ",
@@ -13672,7 +13672,7 @@
                 "JAVIER FELIPE ANDREU",
                 "OLALLA BENITO RODRIGUEZ"
             ],
-            "Accredited assistants (grouping)": [
+            "accredited_assistants_grouping": [
                 "Aintzane CONESA PALACIOS",
                 "Marta CORTES CURRUBI",
                 "Antonio DE TORRE ALVAREZ",
@@ -13688,28 +13688,28 @@
                 "JULIA ARIÑO NOGUER",
                 "Diego DE CASTRO POLO"
             ],
-            "Paying agents": [
+            "paying_agents": [
                 "OFICINA LEGAL GESTIO AMINISTRACIO EMPRESARIAL"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Ruben Ignacio TEJEDOR CEMBRERO",
                 "Juan Sebastian RUIZ-CONSTANTINO FERNANDEZ",
                 "OLALLA BENITO RODRIGUEZ",
                 "David BERTRANS ROMAN"
             ],
-            "Service providers": [
-                "CONSEJO EUROPEO DE RELACIONES EXTERIORES",
-                "MARLOW INSIGHT SL",
-                "INSTITUTO de COMUNICACION EMPRESARIAL SL",
-                "EYECC S.U.L. ECONOMIA Y ESTRATEGIA CONSULTING COM",
-                "Francisco LUPIANEZ VILLANUEVA"
-            ],
-            "Local assistants (grouping)": [
+            "local_assistants_grouping": [
                 "Javier BALMASEDA DOMINGUEZ",
                 "Jose Manuel CALVO ROY",
                 "Maria HERNANDEZ JIMENEZ",
                 "María José ARTUCH IRIBERRI",
                 "Luis Antonio LOPEZ LATORRE"
+            ],
+            "service_providers": [
+                "CONSEJO EUROPEO DE RELACIONES EXTERIORES",
+                "MARLOW INSIGHT SL",
+                "INSTITUTO de COMUNICACION EMPRESARIAL SL",
+                "EYECC S.U.L. ECONOMIA Y ESTRATEGIA CONSULTING COM",
+                "Francisco LUPIANEZ VILLANUEVA"
             ]
         },
         "date_scraped": "Added manually"
@@ -13720,7 +13720,7 @@
         "party": "Group of the Greens/European Free Alliance",
         "date_scraped": "Added manually",
         "assistants": {
-            "Accredited assistants": [
+            "accredited_assistants": [
                 "Yih-Chuen Ingeborg CHEN",
                 "Sara Marie STAENDER",
                 "Mona SEFEN",
@@ -13728,11 +13728,11 @@
                 "Simon Philipp BAUER",
                 "Laura KRENZKE-WOHLFART"
             ],
-            "Accredited assistants (grouping)": [],
-            "Paying agents": [
+            "accredited_assistants_grouping": [],
+            "paying_agents": [
                 "MERKUR TAXAID WIRTSCHAFTSPRUFUNG"
             ],
-            "Local assistants": [
+            "local_assistants": [
                 "Ben DAGAN",
                 "Irmtraud SALZER",
                 "Paul SCHWARZL",
@@ -13743,128 +13743,11 @@
                 "Matea ZLATKOVIC",
                 "MATTHIAS STEFAN SCHROLL"
             ],
-            "Service providers": [],
-            "Trainees": [
+            "service_providers": [],
+            "trainees": [
                 "Ricarda Agnes PFINGSTL",
                 "Frederik Aljoscha SALZGEBER"
             ]
         }
-    },
-    {
-        "name": "Alex AGIUS SALIBA",
-        "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
-        "country": "Malta",
-        "assistants": {
-            "Accredited assistants": [
-                "Desislava DIMITROVA",
-                "Elena THEVISSEN"
-            ],
-            "Accredited assistants (grouping)": [],
-            "Paying agents": [
-                "SWK AUDIT LIMITED"
-            ],
-            "Local assistants": [
-                "Christine-Marie CATANIA BONELLO",
-                "Noel AGIUS",
-                "Giovanni MERCIECA",
-                "Maria MICALLEF",
-                "Albert PACE",
-                "Darren GRECH",
-                "Joseph MANGION",
-                "Alfred MICALLEF",
-                "Nico MUSCAT",
-                "Raisa BUGEJA",
-                "Rodrick ZERAFA",
-                "Jennifer MAGRI",
-                "Nathan MCKAY",
-                "Stephen FARRUGIA",
-                "Kimberly ABELA AXISA",
-                "Albert PACE"
-            ],
-            "Service providers": [
-                "RED AGENCY LTD",
-                "CACTI Limited",
-                "ANTILIA LTD"
-            ]
-        },
-        "date_scraped": "Added manually"
-    },
-    {
-        "name": "Cristina MAESTRE",
-        "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
-        "country": "Spain",
-        "assistants": {
-            "Accredited assistants": [],
-            "Accredited assistants (grouping)": [
-                "Laura BALLARIN CEREZA",
-                "Eduardo BLANCO BUZON",
-                "Irina DE SANCHO ALONSO",
-                "Ignacio Santiago DEL OLMO TEJERINA",
-                "Daniel DIEZ CECILIA",
-                "Xose Anton DIOS MARINO",
-                "Jose Antonio ESPEJO GUTIERREZ",
-                "Ana Isabel ESTEBAN TORTOLA",
-                "Francisco Javier GALLEGO AMADOR",
-                "Maria Jesus GALLEGO ESTREMERA",
-                "Naioa GARCES BLASCO",
-                "Maria Cristina GARCIA CARRERA",
-                "Isabel GARCIA TAMARA",
-                "Maria Magdalena GONZALEZ GOZALBO",
-                "Carla GONZALEZ RICARTE",
-                "Julia GRACIA MATEOS",
-                "Carlos JOVANI GIL",
-                "Cristina Elena LAGO QUINTANS",
-                "Juan Jose LOPEZ GOMEZ",
-                "Mario David LOPEZ OLIVA",
-                "Annika LOTSON LOPEZ",
-                "Andrea MACEIRAS CASTRO",
-                "Mercedes MARISCAL CAMPOS",
-                "Maria Del Carmen MARTINEZ BELMONTE",
-                "Cristina MARTINEZ PEREZ",
-                "Maria Isabel MEIRELES DE ANDRADE",
-                "Josep MERCADAL BAQUERO",
-                "Maria Lourdes MINCHOT BALLARIN",
-                "Almudena MOLINA DELGADO",
-                "Alejandro PEINADO GARCIA",
-                "Elena PEREDA LAGARTOS",
-                "Maria Rosa PEREZ MONCLUS",
-                "Pablo PINTOS TOURINO",
-                "Maria Eugenia ROMANO MARTINEZ",
-                "Sonia Maria SANCHEZ GOMEZ",
-                "Eva Pilar SANJUAN GUERRERO",
-                "JOAN SERRA MINGOT",
-                "Maria Luisa SEVILLA ANDRADA",
-                "Marina SOLA GARCIA",
-                "Aranzazu TARAZONA HUERTA",
-                "Teresa VALLEJO MOLINA",
-                "Cristian VILLAR PRIETO"
-            ],
-            "Paying agents": [],
-            "Local assistants": [],
-            "Service providers": []
-        },
-        "date_scraped": "2019-09-22"
-    },
-    {
-        "name": "Laura BALLARÍN CEREZA",
-        "party": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
-        "country": "Spain",
-        "assistants": {
-            "Accredited assistants": [
-                "Laia Castellana Martinez Victor Patricio DONATE PAVON",
-                "Samuel MARTINEZ MOYA"
-            ],
-            "Accredited assistants (grouping)": [
-                "Aida BUSQUET ESTANY"
-            ],
-            "Paying agents": [
-                "RIBA VIDAL ABOGADOS SLP"
-            ],
-            "Local assistants": [],
-            "Service providers": [
-                "MEMOLATUCARA SL (ex MEMOLATUCARA SCP)"
-            ]
-        },
-        "date_scraped": "added manually"
     }
 ]
