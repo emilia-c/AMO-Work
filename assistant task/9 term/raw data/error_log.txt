@@ -1,6 +1,0 @@
-File: C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages\Johan DANIELSSON\JOHAN_DANIELSSON.html, MEP Name: Johan DANIELSSON, Error: MEP party not found.
-File: C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages\Linea SØGAARD-LIDELL\LINEA_SOGAARD-LIDELL.html, MEP Name: Linea SØGAARD-LIDELL, Error: MEP party not found.
-File: C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages\Manuel BOMPARD\MANUEL_BOMPARD.html, MEP Name: Manuel BOMPARD, Error: MEP party not found.
-File: C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages\Miroslav ČÍŽ\MIROSLAV_CIZ.html, MEP Name: Miroslav ČÍŽ, Error: MEP party not found.
-File: C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages\Nicola DANTI\NICOLA_DANTI.html, MEP Name: Nicola DANTI, Error: MEP party not found.
-File: C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages\Sira REGO\SIRA_REGO.html, MEP Name: Sira REGO, Error: MEP party not found.
