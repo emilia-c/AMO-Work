@@ -95,7 +95,7 @@ def get_meps_from_snapshot(file_path, meps_list):
     meps_list.append(mep.to_dict())
 
 def save_to_json(meps_list):
-    json_filename = "MEPs_9term_AREYOUTHERE.json"
+    json_filename = "MEPs_9term_w_nationalparty.json"
     try:
         with open(json_filename, 'w', encoding='utf-8') as json_file:
             json.dump(meps_list, json_file, ensure_ascii=False, indent=4)
@@ -134,5 +134,5 @@ def main(directory):
 
 # Example usage
 if __name__ == "__main__":
-    directory = 'C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/9 term/raw data/mep_assistant_pages_htmls'
+    directory = 'C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages'
     main(directory)

@@ -1,0 +1,267 @@
+<h2 style='text-align: center; margin-top: 20px;'>European Parliament Accredited Assistants Network (Term 9 and 10)</h2><div style='position: absolute; top: 10px; right: 10px; background-color: white; padding: 10px; border: 1px solid black; z-index: 999;'><h4 style='margin: 0;'>Legend</h4><ul style='list-style-type:none; padding-left: 0;'><li><span style='color: #FFD700;'>&#9679;</span> Renew</li><li><span style='color: #3399FF;'>&#9679;</span> EPP</li><li><span style='color: #FF0000;'>&#9679;</span> S&D</li><li><span style='color: #009900;'>&#9679;</span> G/EFA</li><li><span style='color: #2B3856;'>&#9679;</span> ID</li><li><span style='color: #0054A5;'>&#9679;</span> ECR</li><li><span style='color: #990000;'>&#9679;</span> GUE/NGL</li><li><span style='color: #999999;'>&#9679;</span> NI</li><li><span style='color: #301C5C;'>&#9679;</span> PfE</li><li><span style='color: #6495ED;'>&#9679;</span> ESN</li></ul></div><h2 style='text-align: center; margin-top: 20px;'>European Parliament Accredited Assistants Network (Term 9 and 10)</h2><div style='position: absolute; top: 10px; right: 10px; background-color: white; padding: 10px; border: 1px solid black; z-index: 999;'><h4 style='margin: 0;'>Legend</h4><ul style='list-style-type:none; padding-left: 0;'><li><span style='color: #FFD700;'>&#9679;</span> Renew</li><li><span style='color: #3399FF;'>&#9679;</span> EPP</li><li><span style='color: #FF0000;'>&#9679;</span> S&D</li><li><span style='color: #009900;'>&#9679;</span> G/EFA</li><li><span style='color: #2B3856;'>&#9679;</span> ID</li><li><span style='color: #0054A5;'>&#9679;</span> ECR</li><li><span style='color: #990000;'>&#9679;</span> GUE/NGL</li><li><span style='color: #999999;'>&#9679;</span> NI</li><li><span style='color: #301C5C;'>&#9679;</span> PfE</li><li><span style='color: #6495ED;'>&#9679;</span> ESN</li></ul></div><html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 750px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#FFD700", "id": "Abir AL-SAHLANI", "label": "Abir AL-SAHLANI", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAbir AL-SAHLANI\u003c/strong\u003e\u003cbr\u003eParty: Renew\u003cbr\u003eCountry: Sweden\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eAnna Sophia BENGTSSON\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Anna Sophia BENGTSSON", "label": "Anna Sophia BENGTSSON", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "John August HULTENGAARD", "label": "John August HULTENGAARD", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Tyra Louise LUNDBERG", "label": "Tyra Louise LUNDBERG", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Linn Christina Brunhilde OETTERLI", "label": "Linn Christina Brunhilde OETTERLI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#3399FF", "id": "Adam JARUBAS", "label": "Adam JARUBAS", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAdam JARUBAS\u003c/strong\u003e\u003cbr\u003eParty: EPP\u003cbr\u003eCountry: Poland\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eSylwia Joanna BETKOWSKA\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Sylwia Joanna BETKOWSKA", "label": "Sylwia Joanna BETKOWSKA", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Borys Maria BRZEZINSKI", "label": "Borys Maria BRZEZINSKI", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Lukasz WILKOSZ", "label": "Lukasz WILKOSZ", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Monika JAGIELLO", "label": "Monika JAGIELLO", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#3399FF", "id": "Adina-Ioana V\u0102LEAN", "label": "Adina-Ioana V\u0102LEAN", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAdina-Ioana V\u0102LEAN\u003c/strong\u003e\u003cbr\u003eParty: EPP\u003cbr\u003eCountry: Romania\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eRazvan-Gheorghe MARC\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Razvan-Gheorghe MARC", "label": "Razvan-Gheorghe MARC", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Daniel-Alexandru NANCU", "label": "Daniel-Alexandru NANCU", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Filip Alexandru NEGREANU ARBOREANU", "label": "Filip Alexandru NEGREANU ARBOREANU", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Razvan HOINARU", "label": "Razvan HOINARU", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#FF0000", "id": "Adrian-Drago\u015f BENEA", "label": "Adrian-Drago\u015f BENEA", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAdrian-Drago\u015f BENEA\u003c/strong\u003e\u003cbr\u003eParty: S\u0026D\u003cbr\u003eCountry: Romania\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eIlinca SOVA\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Ilinca SOVA", "label": "Ilinca SOVA", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Paula-Ramona TURCU", "label": "Paula-Ramona TURCU", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#FF0000", "id": "Agnes JONGERIUS", "label": "Agnes JONGERIUS", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAgnes JONGERIUS\u003c/strong\u003e\u003cbr\u003eParty: S\u0026D\u003cbr\u003eCountry: Netherlands\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eMarloes BOUMAN\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Marloes BOUMAN", "label": "Marloes BOUMAN", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Roy BREEDERVELD", "label": "Roy BREEDERVELD", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "IDS WILLEM FREDERIK BROUWER", "label": "IDS WILLEM FREDERIK BROUWER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Emma Linde GROENENDIJK", "label": "Emma Linde GROENENDIJK", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Richard Jan Leonard HEIJNEN", "label": "Richard Jan Leonard HEIJNEN", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Yourik Axel MALET", "label": "Yourik Axel MALET", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Elmar Lasse SMID", "label": "Elmar Lasse SMID", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#3399FF", "id": "Agn\u00e8s EVREN", "label": "Agn\u00e8s EVREN", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAgn\u00e8s EVREN\u003c/strong\u003e\u003cbr\u003eParty: EPP\u003cbr\u003eCountry: France\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eMelanie Charlene Sophie BERNARD\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Melanie Charlene Sophie BERNARD", "label": "Melanie Charlene Sophie BERNARD", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Ugo Charles Yves VUILLARD-CORNU", "label": "Ugo Charles Yves VUILLARD-CORNU", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Benjamin DESCAMPS", "label": "Benjamin DESCAMPS", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Krystyna POPOVA", "label": "Krystyna POPOVA", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "#3399FF", "id": "Aldo PATRICIELLO", "label": "Aldo PATRICIELLO", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAldo PATRICIELLO\u003c/strong\u003e\u003cbr\u003eParty: EPP\u003cbr\u003eCountry: Italy\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eIvan FORTE\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Ivan FORTE", "label": "Ivan FORTE", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Lionel VERRECCHIA", "label": "Lionel VERRECCHIA", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "#2B3856", "id": "Alessandra BASSO", "label": "Alessandra BASSO", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlessandra BASSO\u003c/strong\u003e\u003cbr\u003eParty: ID\u003cbr\u003eCountry: Italy\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eFabio LUGANO\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Fabio LUGANO", "label": "Fabio LUGANO", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Arrigo VERTUA", "label": "Arrigo VERTUA", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#FF0000", "id": "Alessandra MORETTI", "label": "Alessandra MORETTI", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlessandra MORETTI\u003c/strong\u003e\u003cbr\u003eParty: S\u0026D\u003cbr\u003eCountry: Italy\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eMarco CASTAGNETO\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Marco CASTAGNETO", "label": "Marco CASTAGNETO", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Francesca GARBAGNATI", "label": "Francesca GARBAGNATI", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Alessandra MOSER", "label": "Alessandra MOSER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Jasmine BARAHMAN", "label": "Jasmine BARAHMAN", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Roberto CUILLO", "label": "Roberto CUILLO", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Silvia DRAGONI", "label": "Silvia DRAGONI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Carla MARCHIONNA", "label": "Carla MARCHIONNA", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "#3399FF", "id": "Alessandra MUSSOLINI", "label": "Alessandra MUSSOLINI", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlessandra MUSSOLINI\u003c/strong\u003e\u003cbr\u003eParty: EPP\u003cbr\u003eCountry: Italy\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eFederico ANTONELLI\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Federico ANTONELLI", "label": "Federico ANTONELLI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Paolo CAMPISI", "label": "Paolo CAMPISI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Ludovico PEZZATO", "label": "Ludovico PEZZATO", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#2B3856", "id": "Alessandro PANZA", "label": "Alessandro PANZA", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlessandro PANZA\u003c/strong\u003e\u003cbr\u003eParty: ID\u003cbr\u003eCountry: Italy\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eMatteo BONACCORSI\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Matteo BONACCORSI", "label": "Matteo BONACCORSI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#3399FF", "id": "Alexander BERNHUBER", "label": "Alexander BERNHUBER", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlexander BERNHUBER\u003c/strong\u003e\u003cbr\u003eParty: EPP\u003cbr\u003eCountry: Austria\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eElisabeth HUETTER\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Elisabeth HUETTER", "label": "Elisabeth HUETTER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Marlene Elisabeth STROEHM", "label": "Marlene Elisabeth STROEHM", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "#0054A5", "id": "Alexandr VONDRA", "label": "Alexandr VONDRA", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlexandr VONDRA\u003c/strong\u003e\u003cbr\u003eParty: ECR\u003cbr\u003eCountry: Czechia\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eOndrej KRUTILEK\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Ondrej KRUTILEK", "label": "Ondrej KRUTILEK", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Hedvika VURBALOVA", "label": "Hedvika VURBALOVA", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "#009900", "id": "Alexandra GEESE", "label": "Alexandra GEESE", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlexandra GEESE\u003c/strong\u003e\u003cbr\u003eParty: G/EFA\u003cbr\u003eCountry: Germany\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eAnna FERRARI\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Anna FERRARI", "label": "Anna FERRARI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Kirsten Ariane FIEDLER", "label": "Kirsten Ariane FIEDLER", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Jana GOOTH", "label": "Jana GOOTH", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Theresia REINHOLD", "label": "Theresia REINHOLD", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#009900", "id": "Alexandra Louise Rosenfield PHILLIPS", "label": "Alexandra Louise Rosenfield PHILLIPS", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlexandra Louise Rosenfield PHILLIPS\u003c/strong\u003e\u003cbr\u003eParty: G/EFA\u003cbr\u003eCountry: United Kingdom\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eKaty CADWALLADER\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Katy CADWALLADER", "label": "Katy CADWALLADER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Thomas Isaac Augustine LEQUESNE", "label": "Thomas Isaac Augustine LEQUESNE", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#990000", "id": "Alexis GEORGOULIS", "label": "Alexis GEORGOULIS", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlexis GEORGOULIS\u003c/strong\u003e\u003cbr\u003eParty: GUE/NGL\u003cbr\u003eCountry: Greece\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eStylianos Foteinopoulos\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Stylianos Foteinopoulos", "label": "Stylianos Foteinopoulos", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Emmanouil KALAINTZIS", "label": "Emmanouil KALAINTZIS", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#FF0000", "id": "Alfred SANT", "label": "Alfred SANT", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlfred SANT\u003c/strong\u003e\u003cbr\u003eParty: S\u0026D\u003cbr\u003eCountry: Malta\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eDaniel BUHAGIAR\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Daniel BUHAGIAR", "label": "Daniel BUHAGIAR", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Ines Marie-Rose Alice ROHMER", "label": "Ines Marie-Rose Alice ROHMER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#009900", "id": "Alice KUHNKE", "label": "Alice KUHNKE", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlice KUHNKE\u003c/strong\u003e\u003cbr\u003eParty: G/EFA\u003cbr\u003eCountry: Sweden\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eAMANDA ELISABET ANNIE ARLEKLO\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "AMANDA ELISABET ANNIE ARLEKLO", "label": "AMANDA ELISABET ANNIE ARLEKLO", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Hedda Linn BERKESAND", "label": "Hedda Linn BERKESAND", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Sandra Evelina FOGELBERG", "label": "Sandra Evelina FOGELBERG", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Madeleine Karin FRASER", "label": "Madeleine Karin FRASER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Minna GILLBERG", "label": "Minna GILLBERG", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "THEA ASTRID EMILY HAMBLETON", "label": "THEA ASTRID EMILY HAMBLETON", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Linnea Emilia LAGERQVIST", "label": "Linnea Emilia LAGERQVIST", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Vera Maria LINDMAN", "label": "Vera Maria LINDMAN", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Jeanette PERMAN", "label": "Jeanette PERMAN", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Joakim Erik Emanuel TENGBLAD SOEDER", "label": "Joakim Erik Emanuel TENGBLAD SOEDER", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Beata Teresia THOR", "label": "Beata Teresia THOR", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Christian Daniel VALTERSSON", "label": "Christian Daniel VALTERSSON", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#FFD700", "id": "Alin MITU\u021aA", "label": "Alin MITU\u021aA", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlin MITU\u021aA\u003c/strong\u003e\u003cbr\u003eParty: Renew\u003cbr\u003eCountry: Romania\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eCosmin-Daniel CARBUNARU\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Cosmin-Daniel CARBUNARU", "label": "Cosmin-Daniel CARBUNARU", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Razvan-Dan PETRI", "label": "Razvan-Dan PETRI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Angelica PETROV", "label": "Angelica PETROV", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "#009900", "id": "Alyn SMITH", "label": "Alyn SMITH", "physics": true, "shape": "dot", "size": 15, "title": "\u003cdiv style=\u0027background-color: white; padding: 5px; border: 1px solid black;\u0027\u003e\u003cstrong\u003eAlyn SMITH\u003c/strong\u003e\u003cbr\u003eParty: G/EFA\u003cbr\u003eCountry: United Kingdom\u003cbr\u003eAssistants:\u003cbr\u003e\u003cul\u003e\u003cli\u003eCiaran Yves Patrick CAREY\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"}, {"color": "lightgray", "id": "Ciaran Yves Patrick CAREY", "label": "Ciaran Yves Patrick CAREY", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Andreas Benjamin HAGLUND", "label": "Andreas Benjamin HAGLUND", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Aida BAJANARU", "label": "Aida BAJANARU", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Constantin IACOB", "label": "Constantin IACOB", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "ALEXANDRA-IOANA TUVENE", "label": "ALEXANDRA-IOANA TUVENE", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Nathalie FELTES", "label": "Nathalie FELTES", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "LUKAS WOLFSJ\u00c4GER", "label": "LUKAS WOLFSJ\u00c4GER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Florian Bernhard OCKENFUSS", "label": "Florian Bernhard OCKENFUSS", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "CARINA-REBECCA PANSCH", "label": "CARINA-REBECCA PANSCH", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Ali SAKER", "label": "Ali SAKER", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Cataldo CARUSO", "label": "Cataldo CARUSO", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Jelena JOVANOVIC", "label": "Jelena JOVANOVIC", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Stefanie SIFFT", "label": "Stefanie SIFFT", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Maciej Pawel JELENSKI", "label": "Maciej Pawel JELENSKI", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Jakub KARWANSKI", "label": "Jakub KARWANSKI", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Ulrika EKFELDT", "label": "Ulrika EKFELDT", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Nils Daniel H\u00d6GLUND", "label": "Nils Daniel H\u00d6GLUND", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "ERIK MATHIAS KULL", "label": "ERIK MATHIAS KULL", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "LINNEA EMILIA LAGERQVIST", "label": "LINNEA EMILIA LAGERQVIST", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Paula Isabella Vitalievna SAVINA", "label": "Paula Isabella Vitalievna SAVINA", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Eva Margareta SVEDLING", "label": "Eva Margareta SVEDLING", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Emiliano CIPOLLA", "label": "Emiliano CIPOLLA", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "SILVIA DRAGONI", "label": "SILVIA DRAGONI", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Marco MONGIELLO", "label": "Marco MONGIELLO", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Peter BROZ", "label": "Peter BROZ", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Silvie ROMANOVA", "label": "Silvie ROMANOVA", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Lucie SULOVSKA", "label": "Lucie SULOVSKA", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}, {"color": "lightgray", "id": "Anar KUCERA", "label": "Anar KUCERA", "physics": true, "shape": "star", "size": 20, "title": "AAAAA"}, {"color": "lightgray", "id": "Petr SOKOL", "label": "Petr SOKOL", "physics": true, "shape": "dot", "size": 10, "title": "AAAAAAAAAAAAAAAAAAAA"}]);
+                  edges = new vis.DataSet([{"from": "Abir AL-SAHLANI", "to": "Anna Sophia BENGTSSON"}, {"from": "Abir AL-SAHLANI", "to": "John August HULTENGAARD"}, {"from": "Abir AL-SAHLANI", "to": "Tyra Louise LUNDBERG"}, {"from": "Abir AL-SAHLANI", "to": "Linn Christina Brunhilde OETTERLI"}, {"from": "Adam JARUBAS", "to": "Sylwia Joanna BETKOWSKA"}, {"from": "Adam JARUBAS", "to": "Borys Maria BRZEZINSKI"}, {"from": "Adam JARUBAS", "to": "Lukasz WILKOSZ"}, {"from": "Adam JARUBAS", "to": "Monika JAGIELLO"}, {"from": "Adina-Ioana V\u0102LEAN", "to": "Razvan-Gheorghe MARC"}, {"from": "Adina-Ioana V\u0102LEAN", "to": "Daniel-Alexandru NANCU"}, {"from": "Adina-Ioana V\u0102LEAN", "to": "Filip Alexandru NEGREANU ARBOREANU"}, {"from": "Adina-Ioana V\u0102LEAN", "to": "Razvan HOINARU"}, {"from": "Adrian-Drago\u015f BENEA", "to": "Ilinca SOVA"}, {"from": "Adrian-Drago\u015f BENEA", "to": "Paula-Ramona TURCU"}, {"from": "Agnes JONGERIUS", "to": "Marloes BOUMAN"}, {"from": "Agnes JONGERIUS", "to": "Roy BREEDERVELD"}, {"from": "Agnes JONGERIUS", "to": "IDS WILLEM FREDERIK BROUWER"}, {"from": "Agnes JONGERIUS", "to": "Emma Linde GROENENDIJK"}, {"from": "Agnes JONGERIUS", "to": "Richard Jan Leonard HEIJNEN"}, {"from": "Agnes JONGERIUS", "to": "Yourik Axel MALET"}, {"from": "Agnes JONGERIUS", "to": "Elmar Lasse SMID"}, {"from": "Agn\u00e8s EVREN", "to": "Melanie Charlene Sophie BERNARD"}, {"from": "Agn\u00e8s EVREN", "to": "Ugo Charles Yves VUILLARD-CORNU"}, {"from": "Agn\u00e8s EVREN", "to": "Benjamin DESCAMPS"}, {"from": "Agn\u00e8s EVREN", "to": "Krystyna POPOVA"}, {"from": "Aldo PATRICIELLO", "to": "Ivan FORTE"}, {"from": "Aldo PATRICIELLO", "to": "Lionel VERRECCHIA"}, {"from": "Alessandra BASSO", "to": "Fabio LUGANO"}, {"from": "Alessandra BASSO", "to": "Arrigo VERTUA"}, {"from": "Alessandra MORETTI", "to": "Marco CASTAGNETO"}, {"from": "Alessandra MORETTI", "to": "Francesca GARBAGNATI"}, {"from": "Alessandra MORETTI", "to": "Alessandra MOSER"}, {"from": "Alessandra MORETTI", "to": "Jasmine BARAHMAN"}, {"from": "Alessandra MORETTI", "to": "Roberto CUILLO"}, {"from": "Alessandra MORETTI", "to": "Silvia DRAGONI"}, {"from": "Alessandra MORETTI", "to": "Carla MARCHIONNA"}, {"from": "Alessandra MUSSOLINI", "to": "Federico ANTONELLI"}, {"from": "Alessandra MUSSOLINI", "to": "Paolo CAMPISI"}, {"from": "Alessandra MUSSOLINI", "to": "Ludovico PEZZATO"}, {"from": "Alessandro PANZA", "to": "Matteo BONACCORSI"}, {"from": "Alexander BERNHUBER", "to": "Elisabeth HUETTER"}, {"from": "Alexander BERNHUBER", "to": "Marlene Elisabeth STROEHM"}, {"from": "Alexandr VONDRA", "to": "Ondrej KRUTILEK"}, {"from": "Alexandr VONDRA", "to": "Hedvika VURBALOVA"}, {"from": "Alexandra GEESE", "to": "Anna FERRARI"}, {"from": "Alexandra GEESE", "to": "Kirsten Ariane FIEDLER"}, {"from": "Alexandra GEESE", "to": "Jana GOOTH"}, {"from": "Alexandra GEESE", "to": "Theresia REINHOLD"}, {"from": "Alexandra Louise Rosenfield PHILLIPS", "to": "Katy CADWALLADER"}, {"from": "Alexandra Louise Rosenfield PHILLIPS", "to": "Thomas Isaac Augustine LEQUESNE"}, {"from": "Alexis GEORGOULIS", "to": "Stylianos Foteinopoulos"}, {"from": "Alexis GEORGOULIS", "to": "Emmanouil KALAINTZIS"}, {"from": "Alfred SANT", "to": "Daniel BUHAGIAR"}, {"from": "Alfred SANT", "to": "Ines Marie-Rose Alice ROHMER"}, {"from": "Alice KUHNKE", "to": "AMANDA ELISABET ANNIE ARLEKLO"}, {"from": "Alice KUHNKE", "to": "Hedda Linn BERKESAND"}, {"from": "Alice KUHNKE", "to": "Sandra Evelina FOGELBERG"}, {"from": "Alice KUHNKE", "to": "Madeleine Karin FRASER"}, {"from": "Alice KUHNKE", "to": "Minna GILLBERG"}, {"from": "Alice KUHNKE", "to": "THEA ASTRID EMILY HAMBLETON"}, {"from": "Alice KUHNKE", "to": "Linnea Emilia LAGERQVIST"}, {"from": "Alice KUHNKE", "to": "Vera Maria LINDMAN"}, {"from": "Alice KUHNKE", "to": "Jeanette PERMAN"}, {"from": "Alice KUHNKE", "to": "Joakim Erik Emanuel TENGBLAD SOEDER"}, {"from": "Alice KUHNKE", "to": "Beata Teresia THOR"}, {"from": "Alice KUHNKE", "to": "Christian Daniel VALTERSSON"}, {"from": "Alin MITU\u021aA", "to": "Cosmin-Daniel CARBUNARU"}, {"from": "Alin MITU\u021aA", "to": "Razvan-Dan PETRI"}, {"from": "Alin MITU\u021aA", "to": "Angelica PETROV"}, {"from": "Alyn SMITH", "to": "Ciaran Yves Patrick CAREY"}, {"from": "Abir AL-SAHLANI", "to": "Andreas Benjamin HAGLUND"}, {"from": "Adrian-Drago\u015f BENEA", "to": "Aida BAJANARU"}, {"from": "Adrian-Drago\u015f BENEA", "to": "Constantin IACOB"}, {"from": "Adrian-Drago\u015f BENEA", "to": "ALEXANDRA-IOANA TUVENE"}, {"from": "Alexander BERNHUBER", "to": "Nathalie FELTES"}, {"from": "Alexander BERNHUBER", "to": "LUKAS WOLFSJ\u00c4GER"}, {"from": "Alexandra GEESE", "to": "Florian Bernhard OCKENFUSS"}, {"from": "Alexandra GEESE", "to": "CARINA-REBECCA PANSCH"}, {"from": "Alexandra GEESE", "to": "Ali SAKER"}, {"from": "Alexandra GEESE", "to": "Cataldo CARUSO"}, {"from": "Alexandra GEESE", "to": "Jelena JOVANOVIC"}, {"from": "Alexandra GEESE", "to": "Stefanie SIFFT"}, {"from": "Adam JARUBAS", "to": "Maciej Pawel JELENSKI"}, {"from": "Adam JARUBAS", "to": "Jakub KARWANSKI"}, {"from": "Alice KUHNKE", "to": "Ulrika EKFELDT"}, {"from": "Alice KUHNKE", "to": "Nils Daniel H\u00d6GLUND"}, {"from": "Alice KUHNKE", "to": "ERIK MATHIAS KULL"}, {"from": "Alice KUHNKE", "to": "LINNEA EMILIA LAGERQVIST"}, {"from": "Alice KUHNKE", "to": "Paula Isabella Vitalievna SAVINA"}, {"from": "Alice KUHNKE", "to": "Eva Margareta SVEDLING"}, {"from": "Alessandra MORETTI", "to": "Emiliano CIPOLLA"}, {"from": "Alessandra MORETTI", "to": "SILVIA DRAGONI"}, {"from": "Alessandra MORETTI", "to": "Marco MONGIELLO"}, {"from": "Alexandr VONDRA", "to": "Peter BROZ"}, {"from": "Alexandr VONDRA", "to": "Silvie ROMANOVA"}, {"from": "Alexandr VONDRA", "to": "Lucie SULOVSKA"}, {"from": "Alexandr VONDRA", "to": "Anar KUCERA"}, {"from": "Alexandr VONDRA", "to": "Petr SOKOL"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.6,
+            "gravitationalConstant": -2000,
+            "springConstant": 0.1,
+            "springLength": 100
+        },
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -50,
+            "springConstant": 0.08,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
