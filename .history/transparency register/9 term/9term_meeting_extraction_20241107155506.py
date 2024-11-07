@@ -4,20 +4,20 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import time
 import json
 from bs4 import BeautifulSoup
 import requests
 from tqdm import tqdm
+import unicodedata
 
 class MEP:
     def __init__(self, url):
         self.url = url
         self.name = None
-        self.group = None  # Changed from 'mep_party' to 'group'
-        self.mep_country = None
-        self.mep_national_party = None  # New variable for national party
+        #self.mep_party = None
+        #self.mep_country = None
         self.meetings = {}
         
         # Setup Selenium
@@ -29,52 +29,38 @@ class MEP:
         self.driver = webdriver.Chrome(service=ChromeService(), options=chrome_options)
 
     def get_mep_data(self):
+        # Navigate to the URL
         self.driver.get(self.url)
-        time.sleep(3)  # Wait for the page to load
         
-        # Scrape MEP Name
-        name_tag = self.driver.find_element(By.CSS_SELECTOR, 'span.sln-member-name')
-        if name_tag:
-            self.name = name_tag.text.strip()
-
-        # Scrape MEP Group (formerly party)
-        group_tag = self.driver.find_element(By.CSS_SELECTOR, 'h3.erpl_title-h3.mt-1.sln-political-group-name')
-        if group_tag:
-            self.group = group_tag.text.strip()
-
-        # Scrape MEP Country
-        mep_country_tag = self.driver.find_element(By.CSS_SELECTOR, 'div.erpl_title-h3.mt-1.mb-1')
-        if mep_country_tag:
-            country_text = mep_country_tag.text.strip()
-            last_open_index = country_text.rfind("(")
-            last_close_index = country_text.rfind(")")
-        
-            if last_open_index != -1 and last_close_index != -1 and last_open_index < last_close_index:
-                self.mep_country = country_text[last_open_index + 1:last_close_index].strip()
+        try:
+            # Wait until the name element is available, with a max timeout of 10 seconds
+            name_container = WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'h3.erpl_title-h3'))
+            )
+            
+            # Extract and clean the text if found
+            if name_container:
+                name_text = name_container.find_element(By.TAG_NAME, 'em').text.strip()
+                self.name = " ".join(name_text.split())  # Join to handle any new lines or extra spaces
             else:
-                self.mep_country = "N/A"  # Fallback in case the format is unexpected
+                self.name = None
 
-        # Scrape MEP National Party
-        soup = BeautifulSoup(self.driver.page_source, 'html.parser')
-        mep_national_party_tag = soup.find('div', class_='erpl_title-h3 mt-1 mb-1')
-        if mep_national_party_tag:
-            national_party_text = mep_national_party_tag.text.strip()
-            if " - " in national_party_text:
-                # Extract the text before the parentheses and after the hyphen
-                self.mep_national_party = national_party_text.split(" - ")[1].split(" (")[0]
-            else:
-                print(f"Warning: MEP National Party information not found or formatted incorrectly for {self.url}")
+        except (TimeoutException, NoSuchElementException) as e:
+            print(f"MEP name element not found or page took too long to load: {e}")
+            self.name = None
 
-        # Load all meetings
+        # Call the load_meetings function to load all meetings (if it’s implemented in your class)
         self.load_meetings()
 
     def load_meetings(self):
         while True:
             try:
                 # Wait for the Load More button to be present
+                #print("Waiting for the Load More button...")
                 load_more_button = WebDriverWait(self.driver, 20).until(
                     EC.presence_of_element_located((By.XPATH, "//button[contains(@class, 'europarl-expandable-async-loadmore')]"))
                 )
+                #print("Load More button found")
 
                 # Scroll into view
                 self.driver.execute_script("arguments[0].scrollIntoView(true);", load_more_button)
@@ -90,11 +76,13 @@ class MEP:
 
                 # Click using JavaScript
                 self.driver.execute_script("arguments[0].click();", load_more_button)
+                #print("LOAD MORE button clicked")
 
                 # Allow time for new meetings to load
                 time.sleep(2)
 
             except TimeoutException:
+                #print("No more LOAD MORE button to be clicked or button not found")
                 break
             except Exception as e:
                 print(f"An error occurred: {e}")
@@ -145,50 +133,64 @@ class MEP:
     def to_dict(self):
         return {
             "name": self.name,
-            "group": self.group,  # Changed from 'party' to 'group'
-            "origin_country": self.mep_country,
-            "national_party": self.mep_national_party,  # Include national party in the dictionary
+            #"party": self.mep_party,
+            #"origin_country": self.mep_country,
             "meetings": self.meetings
         }
 
     def close(self):
         self.driver.quit()  # Close the browser when done
 
-# construct the MEP url from the base url of a list of all MEPs, need to extract their name from here as the page with assistant information includes their information
-def construct_mep_url(mep_name, mep_id):
-    names = mep_name.split()
-    first_names = []
-    last_names = []
+def get_mep_links(json_file_path):
+    def remove_non_ascii(text):
+        # Normalize text to remove accents and other non-ASCII characters
+        return ''.join(
+            c for c in unicodedata.normalize('NFD', text)
+            if unicodedata.category(c) != 'Mn'
+        )
 
-    for name in names:
-        if name.isupper():
-            last_names.append(name)
+    def construct_mep_url(mep_name, mep_id):
+        # Split name into components
+        names = mep_name.split()
+        first_names = []
+        last_names = []
+
+        # Separate first and last names based on capitalization
+        for name in names:
+            if name.isupper():
+                last_names.append(name)
+            else:
+                first_names.append(name)
+
+        # Construct the name part in FIRSTNAME_LASTNAME format
+        first_name_part = '+'.join(first_names)
+        last_name_part = '+'.join(last_names)
+
+        # Combine parts into the required format
+        if first_names and last_names:
+            name_part = f"{first_name_part}_{last_name_part}"
+        elif first_names:
+            name_part = first_name_part
         else:
-            first_names.append(name)
+            name_part = last_name_part
 
-    first_name_part = '+'.join(first_names)
-    last_name_part = '+'.join(last_names)
+        # Construct the full URL
+        return f"https://www.europarl.europa.eu/meps/en/{mep_id}/{name_part}/all-meetings/9"
 
-    if last_names:
-        if first_names:
-            return f"https://www.europarl.europa.eu/meps/en/{mep_id}/{first_name_part}+{last_name_part}/meetings/past#detailedcardmep"
-        else:
-            return f"https://www.europarl.europa.eu/meps/en/{mep_id}/{last_name_part}/meetings/past#detailedcardmep"
-    else:
-        return f"https://www.europarl.europa.eu/meps/en/{mep_id}/{first_name_part}/home"
-
-def get_mep_links():
-    base_url = "https://www.europarl.europa.eu/meps/en/full-list/all"
-    response = requests.get(base_url)
-    response.raise_for_status()  # Raise an error for bad responses
-    soup = BeautifulSoup(response.content, 'html.parser')
+    # Load JSON data from the file
+    with open(json_file_path, 'r', encoding='utf-8') as f:
+        meps_data = json.load(f)
     
     mep_links = []
-    for mep in soup.select('a.erpl_member-list-item-content'):
-        mep_url_base = mep['href']
-        mep_name = mep.select_one('.erpl_title-h4.t-item').text.strip()
-        mep_id = mep_url_base.split('/')[-1]
-        mep_url = construct_mep_url(mep_name, mep_id)
+    for mep in meps_data:
+        mep_id = mep["mep_id"]
+        
+        # Clean and format the MEP name
+        mep_name = mep["mep_name"]
+        cleaned_name = remove_non_ascii(mep_name.upper())
+        
+        # Construct the MEP URL
+        mep_url = construct_mep_url(cleaned_name, mep_id)
         mep_links.append(mep_url)
 
     return mep_links
@@ -200,10 +202,10 @@ def scrape_meps(url):
 
 def main():
     # Example URLs for MEPs
-    mep_links = get_mep_links()  # Get all MEP links
+    mep_links = get_mep_links('C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/mep names/merged_mep_9term.json')  # Get all MEP links
 
     # Limit to the first five MEPs for testing
-    #mep_links = mep_links[:5]
+    mep_links = mep_links[:5]
 
     all_mep_data = []  # List to hold all MEP data as dictionaries
 
@@ -212,9 +214,8 @@ def main():
         all_mep_data.append(mep_data)
         time.sleep(1)  # Optional: To avoid overwhelming the server
 
-    with open("mep_meetings_FULL_w_nationalParty.json", "w", encoding="utf-8") as outfile:
-        json.dump(all_mep_data, outfile, indent=4, ensure_ascii=False)
-
+        with open("9term_mep_meetings_FULL.json", "w", encoding="utf-8") as outfile:
+            json.dump(all_mep_data, outfile, ensure_ascii=False, indent=4)
 
     print(json.dumps(all_mep_data, indent=4, ensure_ascii=False))
 

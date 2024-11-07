@@ -203,7 +203,7 @@ def main():
     mep_links = get_mep_links()  # Get all MEP links
 
     # Limit to the first five MEPs for testing
-    #mep_links = mep_links[:5]
+    mep_links = mep_links[:5]
 
     all_mep_data = []  # List to hold all MEP data as dictionaries
 
@@ -213,8 +213,7 @@ def main():
         time.sleep(1)  # Optional: To avoid overwhelming the server
 
     with open("mep_meetings_FULL_w_nationalParty.json", "w", encoding="utf-8") as outfile:
-        json.dump(all_mep_data, outfile, indent=4, ensure_ascii=False)
-
+        json.dump
 
     print(json.dumps(all_mep_data, indent=4, ensure_ascii=False))
 

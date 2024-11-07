@@ -213,8 +213,7 @@ def main():
         time.sleep(1)  # Optional: To avoid overwhelming the server
 
     with open("mep_meetings_FULL_w_nationalParty.json", "w", encoding="utf-8") as outfile:
-        json.dump(all_mep_data, outfile, indent=4, ensure_ascii=False)
-
+        json.dump
 
     print(json.dumps(all_mep_data, indent=4, ensure_ascii=False))
 

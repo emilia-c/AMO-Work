@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Magdalena ADAMOWICZ",
+        "meetings": {
+            "0": {
+                "reason": "The Situation of the Fish Processing Market in the EU and individual Member States",
+                "date": "23-01-2024",
+                "place": "Brussels",
+                "capacity": "Member",
+                "meeting_with": "Polskie Stowarzyszenie Przetwórców Ryb"
+            },
+            "1": {
+                "reason": "Blue Deal as a solution to Europe’s water crisis?",
+                "date": "10-10-2023",
+                "place": "Brussels",
+                "capacity": "Member",
+                "meeting_with": "Federacja Przedsiębiorców Polskich"
+            },
+            "2": {
+                "reason": "Challenges for the Polish transport and logistics sector in the EU",
+                "date": "15-06-2023",
+                "place": "online",
+                "capacity": "Member",
+                "meeting_with": "Polska Izba Spedycji i Logistyki"
+            },
+            "3": {
+                "reason": "EU-South Africa Relations",
+                "date": "07-03-2023",
+                "place": "Brussels",
+                "capacity": "Member",
+                "meeting_with": "South African Ambassador to the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Mission to the European Union"
+            },
+            "4": {
+                "reason": "Disinformation and polarization of the society",
+                "date": "07-03-2023",
+                "place": "Brussels",
+                "capacity": "Member",
+                "meeting_with": "Re-Imagine Europa"
+            },
+            "5": {
+                "reason": "Challenges for Polish business in the EU",
+                "date": "01-03-2023",
+                "place": "Brussels",
+                "capacity": "Member",
+                "meeting_with": "Federacja Przedsiębiorców Polskich"
+            },
+            "6": {
+                "reason": "Higher education and research in South Africa",
+                "date": "01-02-2023",
+                "place": "Brussels",
+                "capacity": "Member",
+                "meeting_with": "University of Cape Town"
+            }
+        }
+    },
+    {
+        "name": "Asim ADEMOV",
+        "meetings": {
+            "note": "No meetings found for this MEP."
+        }
+    },
+    {
+        "name": "Isabella ADINOLFI",
+        "meetings": {
+            "note": "No meetings found for this MEP."
+        }
+    }
+]
