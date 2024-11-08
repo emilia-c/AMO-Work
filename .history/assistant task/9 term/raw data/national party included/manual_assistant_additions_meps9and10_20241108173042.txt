@@ -212,48 +212,48 @@ Group: Group of the Progressive Alliance of Socialists and Democrats in the Euro
 Country: Spain
 date scraped: Sep 22 2019
 Accredited assistants (grouping)  
-•	Laura BALLARIN CEREZA   
-•	Eduardo BLANCO BUZON   
-•	Irina DE SANCHO ALONSO   
-•	Ignacio Santiago DEL OLMO TEJERINA   
-•	Daniel DIEZ CECILIA   
-•	Xose Anton DIOS MARINO   
-•	Jose Antonio ESPEJO GUTIERREZ   
-•	Ana Isabel ESTEBAN TORTOLA   
-•	Francisco Javier GALLEGO AMADOR   
-•	Maria Jesus GALLEGO ESTREMERA   
-•	Naioa GARCES BLASCO   
-•	Maria Cristina GARCIA CARRERA   
-•	Isabel GARCIA TAMARA   
-•	Maria Magdalena GONZALEZ GOZALBO   
-•	Carla GONZALEZ RICARTE   
-•	Julia GRACIA MATEOS   
-•	Carlos JOVANI GIL   
-•	Cristina Elena LAGO QUINTANS   
-•	Juan Jose LOPEZ GOMEZ   
-•	Mario David LOPEZ OLIVA   
-•	Annika LOTSON LOPEZ   
-•	Andrea MACEIRAS CASTRO   
-•	Mercedes MARISCAL CAMPOS   
-•	Maria Del Carmen MARTINEZ BELMONTE   
-•	Cristina MARTINEZ PEREZ   
-•	Maria Isabel MEIRELES DE ANDRADE   
-•	Josep MERCADAL BAQUERO   
-•	Maria Lourdes MINCHOT BALLARIN   
-•	Almudena MOLINA DELGADO   
-•	Alejandro PEINADO GARCIA   
-•	Elena PEREDA LAGARTOS   
-•	Maria Rosa PEREZ MONCLUS   
-•	Pablo PINTOS TOURINO   
-•	Maria Eugenia ROMANO MARTINEZ   
-•	Sonia Maria SANCHEZ GOMEZ   
-•	Eva Pilar SANJUAN GUERRERO   
-•	JOAN SERRA MINGOT   
-•	Maria Luisa SEVILLA ANDRADA   
-•	Marina SOLA GARCIA   
-•	Aranzazu TARAZONA HUERTA   
-•	Teresa VALLEJO MOLINA   
-•	Cristian VILLAR PRIETO 
+-	Laura BALLARIN CEREZA   
+-	Eduardo BLANCO BUZON   
+-	Irina DE SANCHO ALONSO   
+-	Ignacio Santiago DEL OLMO TEJERINA   
+-	Daniel DIEZ CECILIA   
+-	Xose Anton DIOS MARINO   
+-	Jose Antonio ESPEJO GUTIERREZ   
+-	Ana Isabel ESTEBAN TORTOLA   
+-	Francisco Javier GALLEGO AMADOR   
+-	Maria Jesus GALLEGO ESTREMERA   
+-	Naioa GARCES BLASCO   
+-	Maria Cristina GARCIA CARRERA   
+-	Isabel GARCIA TAMARA   
+-	Maria Magdalena GONZALEZ GOZALBO   
+-	Carla GONZALEZ RICARTE   
+-	Julia GRACIA MATEOS   
+-	Carlos JOVANI GIL   
+-	Cristina Elena LAGO QUINTANS   
+-	Juan Jose LOPEZ GOMEZ   
+-	Mario David LOPEZ OLIVA   
+-	Annika LOTSON LOPEZ   
+-	Andrea MACEIRAS CASTRO   
+-	Mercedes MARISCAL CAMPOS   
+-	Maria Del Carmen MARTINEZ BELMONTE   
+-	Cristina MARTINEZ PEREZ   
+-	Maria Isabel MEIRELES DE ANDRADE   
+-	Josep MERCADAL BAQUERO   
+-	Maria Lourdes MINCHOT BALLARIN   
+-	Almudena MOLINA DELGADO   
+-	Alejandro PEINADO GARCIA   
+-	Elena PEREDA LAGARTOS   
+-	Maria Rosa PEREZ MONCLUS   
+-	Pablo PINTOS TOURINO   
+-	Maria Eugenia ROMANO MARTINEZ   
+-	Sonia Maria SANCHEZ GOMEZ   
+-	Eva Pilar SANJUAN GUERRERO   
+-	JOAN SERRA MINGOT   
+-	Maria Luisa SEVILLA ANDRADA   
+-	Marina SOLA GARCIA   
+-	Aranzazu TARAZONA HUERTA   
+-	Teresa VALLEJO MOLINA   
+-	Cristian VILLAR PRIETO 
 
 7) 
 Name: Diana RIBA I GINER 
@@ -536,7 +536,6 @@ Accredited assistants
 -	Teresa VILLA GOMEZ 
 -	ANTONIO DELGADO MUÑOZ 
 -	RAFAEL HERACLIO LOPEZ JIMENEZ 
--	
 Accredited assistants (grouping)
 -	Jesus GARCIA ALBERTI 
 -	Silvia HITOS 
@@ -872,9 +871,9 @@ Paying agents
 Local assistants
 -	Louise Mieke F. DE TREMERIE
 Service providers
-•	UNIVERSITEIT GENT
-•	VAN BAEL AND BELLIS
-•	WOORDPOOL COMM V
+-	UNIVERSITEIT GENT
+-	VAN BAEL AND BELLIS
+-	WOORDPOOL COMM V
 
 18)
 Name: Kim VAN SPARRENTAK 
@@ -934,11 +933,9 @@ Accredited assistants
 -	Myrto KAVVADIA 
 -	Oufouk MOUSTAFA 
 -	Ioannis VLACHOS 
--	
 Accredited assistants (grouping)
 Paying agents 
 -	COMPUTAX PRO I.GOUMAS&SYNERGATES O.E.
--	
 Local assistants
 -	Antonios KERAMYDAS
 -	Alexandra ALEXANDROPOULOU 
@@ -950,7 +947,6 @@ Local assistants
 -	Fotoula KALPAKI 
 -	Sofiola BOUNTA 
 -	Olga NASSI 
--	
 Service providers
 
 20) 
@@ -972,7 +968,6 @@ Local assistants
 -	Julia RATAJCZAK 
 -	Piotr DRAZEK 
 -	Wiktoria RADULSKA 
--	
 Service providers
 -	Kaja Magdalena BEIFUS
 
@@ -1116,7 +1111,6 @@ Accredited assistants (grouping)
 -	MARIA MERCEDES GARCIA MUNOZ 
 -	Silvia LORENZO PEREZ 
 -	Celia RUIZ ALFONSEA 
--	
 Paying agents 
 Local assistants
 Service providers
@@ -1342,8 +1336,7 @@ Accredited assistants (grouping)
 -	MARIA MERCEDES GARCIA MUÑOZ 
 -	Angel LAZARO BUSTAMANTE 
 -	Claudia MARTINEZ MUNOZ 
--	MARTA CASARES LARA 
--	
+-	MARTA CASARES LARA 	
 Paying agents 
 Local assistants
 Service providers
@@ -1734,10 +1727,10 @@ Local assistants (grouping)
 -	Maria HERNANDEZ JIMENEZ 
 -	David BERTRANS ROMAN 
 -	María José ARTUCH IRIBERRI 
-•	María José ARTUCH IRIBERRI
-•	Jose Manuel CALVO ROY
-•	Maria HERNANDEZ JIMENEZ
-•	Luis Antonio LOPEZ LATORRE
+-	María José ARTUCH IRIBERRI
+-	Jose Manuel CALVO ROY
+-	Maria HERNANDEZ JIMENEZ
+-	Luis Antonio LOPEZ LATORRE
 Service providers
 -	CONSEJO EUROPEO DE RELACIONES EXTERIORES
 -	María José ARTUCH IRIBERRI 
@@ -1776,8 +1769,8 @@ Local assistants
 -	MATTHIAS STEFAN SCHROLL s
 Service providers
 Trainees 
-•	Ricarda Agnes PFINGSTL
-•	Frederik Aljoscha SALZGEBER
+-	Ricarda Agnes PFINGSTL
+-	Frederik Aljoscha SALZGEBER
 
 37) 
 Name: Adrián VÁZQUEZ LÁZARA

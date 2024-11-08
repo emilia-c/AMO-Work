@@ -3,7 +3,7 @@ import json
 import os
 
 # 1. READ IN DATA
-file_path = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/mep_assistants.json"
+file_path = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/10 term/mep_assistants_national_party.json"
 
 # Check if file exists
 if not os.path.exists(file_path):
@@ -24,7 +24,8 @@ assistant_to_details = {}  # Dictionary to track which assistants work for which
 # Iterate over each MEP's data
 for mep in data:
     mep_name = mep['name']
-    mep_party = mep['party']
+    mep_party = mep['mep_national_party']
+    mep_group = mep['mep_group']
     mep_country = mep['country']
 
     # Check for Accredited assistants
@@ -36,10 +37,12 @@ for mep in data:
                 assistant_to_details[assistant] = {
                     'assistant_type': 'apa',
                     'meps': set(),
+                    'groups':set(),
                     'parties': set(),
                     'countries': set()
                 }
             assistant_to_details[assistant]['meps'].add(mep_name)
+            assistant_to_details[assistant]['groups'].add(mep_group)
             assistant_to_details[assistant]['parties'].add(mep_party)
             assistant_to_details[assistant]['countries'].add(mep_country)
 
@@ -52,6 +55,7 @@ for mep in data:
                 assistant_to_details[assistant] = {
                     'assistant_type': 'apa grouped',
                     'meps': set(),
+                    'groups': set(),
                     'parties': set(),
                     'countries': set()
                 }
@@ -61,6 +65,7 @@ for mep in data:
                     assistant_to_details[assistant]['assistant_type'] = 'both'
                     
             assistant_to_details[assistant]['meps'].add(mep_name)
+            assistant_to_details[assistant]['groups'].add(mep_group)
             assistant_to_details[assistant]['parties'].add(mep_party)
             assistant_to_details[assistant]['countries'].add(mep_country)
 
@@ -68,9 +73,10 @@ for mep in data:
 rows = []
 for assistant, details in assistant_to_details.items():
     meps_list = ', '.join(details['meps'])
+    groups_list = ', '.join(details['groups'])
     parties_list = ', '.join(details['parties'])
     countries_list = ', '.join(details['countries'])
-    year = '2024'
+    year = '5-11-2024'
     term = '10'
     
     rows.append({
@@ -78,8 +84,9 @@ for assistant, details in assistant_to_details.items():
         'assistant_type': details['assistant_type'],
         'mep(s)': meps_list,
         'mep(s) country': countries_list,
-        'political_group(s)': parties_list,
-        'year': year, 
+        'political_group(s)': groups_list,
+        'meps(s) national parties': parties_list,
+        'date_scraped': year, 
         'term': term
     })
 
@@ -101,10 +108,11 @@ political_grp_abbrv_dict = {
 # Reverse the dictionary to map from full name to abbreviation
 abbreviation_mapping = {v: k for k, v in political_grp_abbrv_dict.items()}
 
-# Replace full names with abbreviations in the DataFrame
-assistants_2024['political_group(s)'] = assistants_2024['political_group(s)'].apply(
+# Add a new column with abbreviations while keeping the original column
+assistants_2024['political_group_abbrv'] = assistants_2024['political_group(s)'].apply(
     lambda x: ', '.join([abbreviation_mapping.get(party, party) for party in x.split(', ')])
 )
+
 
 # 5. Get unique MEP names from the 'mep(s)' column
 # Split the mep(s) column and flatten the list of names, then get unique values
@@ -121,4 +129,4 @@ print(f"Number of unique MEP names: {unique_mep_count}")
 
 # 6. SAVE FINAL DF TO CSV
 # Write to Excel
-assistants_2024.to_excel('10term_assistants.xlsx', index=False, engine='openpyxl')
+assistants_2024.to_excel('10term_assistants_wparty.xlsx', index=False, engine='openpyxl')

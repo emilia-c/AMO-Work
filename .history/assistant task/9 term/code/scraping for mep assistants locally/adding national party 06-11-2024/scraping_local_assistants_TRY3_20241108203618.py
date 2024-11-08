@@ -39,27 +39,57 @@ class MEP:
                 soup.find('h3', class_='erpl_title-h3 mt-1')
             )
 
-            self.group = group_tag.get_text(strip=True) if group_tag else None
-            if not self.group:
+            if group_tag:
+                # Check if it's the div and extract from span inside it if needed
+                if group_tag.name == 'div':
+                    group_name_tag = group_tag.find('span', class_='ep_name')
+                    self.group = group_name_tag.get_text(strip=True) if group_name_tag else None
+                else:
+                    # Otherwise, get text from the h3 tag directly
+                    self.group = group_tag.get_text(strip=True)
+            else:
+                self.group = None
                 self.log_error("MEP group not found.")
 
-            # Scrape MEP Country and National Party
-            country_party_tag = soup.find('div', class_='erpl_title-h3 mt-1 mb-1')
-            if country_party_tag:
-                full_text = country_party_tag.get_text(separator=" ", strip=True).replace("\n", " ").replace("\t", " ").strip()
-                parts = full_text.split(" - ", 1)
-                self.country = parts[0].strip() if len(parts) > 0 else None
-                self.national_party = parts[1].split(" (")[0].strip() if len(parts) > 1 else None
+            # Debugging: check what group was found
+            if self.group:
+                print(f"Found MEP group: {self.group}")
+            else:
+                print("MEP group not found.")
 
-            # Second method using the alternative structure
-            if not self.country or not self.national_party:
-                country_party_section = soup.find('div', class_='ep-a_heading ep-layout_level2')
-                if country_party_section:
-                    country_tag = country_party_section.find('span', id='erpl-member-country-name')
-                    self.country = country_tag.get_text(strip=True) if country_tag else None
-                    full_text = country_party_section.get_text(separator=" ", strip=True)
-                    parts = full_text.split(" - ", 1)
-                    self.national_party = parts[1].split(" (")[0].strip() if len(parts) > 1 else None
+            # Scrape MEP Country and National Party
+            country_party_tag = (
+                soup.find('div', class_='erpl_title-h3 mt-1 mb-1') or
+                soup.find('span', class_='ep_name')
+            )
+
+            if country_party_tag:
+                # Extract text content, handling nested elements and extra whitespace
+                full_text = country_party_tag.get_text(separator=" ", strip=True)
+
+                # Check for nested country span (e.g., <span id="erpl-member-country-name">)
+                country_span = country_party_tag.find('span', id='erpl-member-country-name')
+                if country_span:
+                    self.country = country_span.get_text(strip=True)
+                    # Remove the country part from the full text for party extraction
+                    remaining_text = full_text.replace(self.country, "").strip(" -")
+                else:
+                    # Fallback if no nested span is found
+                    remaining_text = full_text
+
+                # Split by " - " to extract national party information
+                parts = remaining_text.split(" - ", 1)
+                self.national_party = parts[0].strip() if len(parts) > 0 else None
+
+                # Log errors if necessary
+                if not self.country:
+                    self.log_error("MEP country not found.")
+                if not self.national_party:
+                    self.log_error("MEP national party not found.")
+            else:
+                self.log_error("Country and National Party section not found.")
+
+
 
             # Existing method to find assistants in the first structure
             assistants_sections = soup.find_all('div', class_='ep_gridcolumn-content')
@@ -116,51 +146,33 @@ def save_to_json(meps_list):
             json.dump(meps_list, json_file, ensure_ascii=False, indent=4)
         print(f"MEP data saved to {json_filename}")
     except Exception as e:
-        with open("error_log_9term.txt", "a", encoding="utf-8") as log_file:
+        with open("error_log.txt", "a", encoding="utf-8") as log_file:
             log_file.write(f"Error saving data to JSON: {e}\n")
         print(f"Error saving data to JSON: {e}")
 
 def main(directory):
     meps_list = []
     total_files = 0
-    empty_directories = 0  # Counter for directories with no HTML files
 
     # Clear the log file at the start of each run
     open("error_log.txt", "w").close()
 
-    # Check if the specified directory exists
-    if not os.path.isdir(directory):
-        print(f"Directory '{directory}' does not exist.")
-        with open("error_log.txt", "a", encoding="utf-8") as log_file:
-            log_file.write(f"Directory '{directory}' does not exist.\n")
-        return
-
     for root, _, files in os.walk(directory):
-        html_files = [file for file in files if file.endswith(".html")]
-        
-        # Check if the current directory has no HTML files
-        if not html_files:
-            empty_directories += 1
-            with open("error_log.txt", "a", encoding="utf-8") as log_file:
-                log_file.write(f"Directory '{root}' is empty or contains no HTML files.\n")
-            continue  # Skip to the next directory
-
-        # Process HTML files in this directory
-        for filename in html_files[:]:  # Limit to the first 10 files for testing
-            file_path = os.path.join(root, filename)
-            total_files += 1
-            try:
-                get_meps_from_snapshot(file_path, meps_list)
-            except Exception as e:
-                with open("error_log.txt", "a", encoding="utf-8") as log_file:
-                    log_file.write(f"Error with file {file_path}: {e}\n")
+        for filename in files[:10]:  # For testing with the first 10 files
+            if filename.endswith(".html"):
+                file_path = os.path.join(root, filename)
+                total_files += 1
+                try:
+                    get_meps_from_snapshot(file_path, meps_list)
+                except Exception as e:
+                    with open("error_log.txt", "a", encoding="utf-8") as log_file:
+                        log_file.write(f"Error with file {file_path}: {e}\n")
 
     if meps_list:
         save_to_json(meps_list)
     
     print(f"Processed {total_files} files.")
     print(f"Successfully saved data for {len(meps_list)} MEPs.")
-    print(f"Encountered {empty_directories} empty directories (no HTML files found).")
     print(f"Check 'error_log.txt' for details on any errors encountered.")
 
 # Example usage

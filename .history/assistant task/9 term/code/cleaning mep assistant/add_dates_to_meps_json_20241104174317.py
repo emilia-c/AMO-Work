@@ -4,7 +4,7 @@ import os
 import re
 
 # 1. READ IN DATA
-file_path = "9term_apas_w_nationalParty.json"
+file_path = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/9 term/raw data/mep names and assistants/cleaned_9term_MEPs.json"
 
 # Check if file exists
 if not os.path.exists(file_path):
@@ -22,7 +22,7 @@ except json.JSONDecodeError as e:
 # 2. Define the function to extract the date scraped
 def extract_date_scraped(mep_name):
     # Use the MEP name directly to create the path (keep spaces)
-    snapshot_info_path = f"C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/scraped html assistant pages/{mep_name}/snapshot_info.txt"
+    snapshot_info_path = f"C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/mep_assistant_pages_htmls/{mep_name}/snapshot_info.txt"
     
     # Check if snapshot_info.txt exists
     if os.path.exists(snapshot_info_path):
@@ -44,7 +44,7 @@ for mep in data:
     mep['date_scraped'] = extract_date_scraped(mep_name)
 
 # 4. Save the updated JSON data back to a file
-output_file_path = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/national party included/9term_apas_w_nationalParty.json"
+output_file_path = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/9 term/raw data/mep names and assistants/praying.json"
 with open(output_file_path, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 

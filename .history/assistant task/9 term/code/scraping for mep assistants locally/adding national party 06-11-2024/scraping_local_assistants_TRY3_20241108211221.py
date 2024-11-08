@@ -123,45 +123,27 @@ def save_to_json(meps_list):
 def main(directory):
     meps_list = []
     total_files = 0
-    empty_directories = 0  # Counter for directories with no HTML files
 
     # Clear the log file at the start of each run
-    open("error_log.txt", "w").close()
-
-    # Check if the specified directory exists
-    if not os.path.isdir(directory):
-        print(f"Directory '{directory}' does not exist.")
-        with open("error_log.txt", "a", encoding="utf-8") as log_file:
-            log_file.write(f"Directory '{directory}' does not exist.\n")
-        return
+    open("error_log_9term.txt", "w").close()
 
     for root, _, files in os.walk(directory):
-        html_files = [file for file in files if file.endswith(".html")]
-        
-        # Check if the current directory has no HTML files
-        if not html_files:
-            empty_directories += 1
-            with open("error_log.txt", "a", encoding="utf-8") as log_file:
-                log_file.write(f"Directory '{root}' is empty or contains no HTML files.\n")
-            continue  # Skip to the next directory
-
-        # Process HTML files in this directory
-        for filename in html_files[:]:  # Limit to the first 10 files for testing
-            file_path = os.path.join(root, filename)
-            total_files += 1
-            try:
-                get_meps_from_snapshot(file_path, meps_list)
-            except Exception as e:
-                with open("error_log.txt", "a", encoding="utf-8") as log_file:
-                    log_file.write(f"Error with file {file_path}: {e}\n")
+        for filename in files[:10]:  # For testing with the first 10 files
+            if filename.endswith(".html"):
+                file_path = os.path.join(root, filename)
+                total_files += 1
+                try:
+                    get_meps_from_snapshot(file_path, meps_list)
+                except Exception as e:
+                    with open("error_log_9term.txt", "a", encoding="utf-8") as log_file:
+                        log_file.write(f"Error with file {file_path}: {e}\n")
 
     if meps_list:
         save_to_json(meps_list)
     
     print(f"Processed {total_files} files.")
     print(f"Successfully saved data for {len(meps_list)} MEPs.")
-    print(f"Encountered {empty_directories} empty directories (no HTML files found).")
-    print(f"Check 'error_log.txt' for details on any errors encountered.")
+    print(f"Check 'error_log_9term.txt' for details on any errors encountered.")
 
 # Example usage
 if __name__ == "__main__":

@@ -44,7 +44,7 @@ for mep in data:
     mep['date_scraped'] = extract_date_scraped(mep_name)
 
 # 4. Save the updated JSON data back to a file
-output_file_path = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/national party included/9term_apas_w_nationalParty.json"
+output_file_path = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/9 term//assistant task/raw data/mep names and assistants/praying.json"
 with open(output_file_path, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 

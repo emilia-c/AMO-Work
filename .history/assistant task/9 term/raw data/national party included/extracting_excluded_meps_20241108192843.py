@@ -1,8 +1,8 @@
 import os
 
 # Path to the error log file
-input_file_path = 'error_log_9term.txt'
-output_file_path = '9termmeps_not_included.txt'
+input_file_path = 'error_log.txt'
+output_file_path = '9termmeps_not_included2.txt'
 
 # Open the error log file for reading
 with open(input_file_path, 'r', encoding='utf-8') as file:

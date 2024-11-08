@@ -1,0 +1,2415 @@
+[
+    {
+        "name": "Antonio LÓPEZ-ISTÚRIZ WHITE",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Marta ENGUITA LOPEZ",
+                "Juan SCHINAS ALVARGONZALEZ",
+                "Luis Fernando BLANCO CORREIA",
+                "Maite ZABALETA AGUIRRE",
+                "José Diogo PIANO NUNES DOS SANTOS",
+                "SARAI FERNÁNDEZ IGLESIAS"
+            ],
+            "Accredited assistants (grouping)": [
+                "Pedro MIELGO CIMAS",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Emilio PUCCIO",
+                "Laura PASCUAL TRUJILLO",
+                "Jesus GARCIA ALBERTI",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Carmen Macarena MARTINEZ MATEO"
+            ],
+            "Local assistants": [
+                "Nuria LISTA MATEOS",
+                "Paloma DE GRANDES VELASQUEZ"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "GERBONSA Y ESCANDELL, S.L."
+            ],
+            "Service providers": [
+                "BIGGER SERVICIOS DE COMUNICACION Y CONSULTORIA"
+            ],
+            "Trainees": [
+                "Paula Raboso"
+            ]
+        }
+    },
+    {
+        "name": "Alicia HOMS GINEL",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Accredited assistants (grouping)",
+                "Laura BALLARIN CEREZA",
+                "Izaskun BERNAL CERDEIRA",
+                "Eduardo BLANCO BUZON",
+                "Irina DE SANCHO ALONSO",
+                "Ignacio Santiago DEL OLMO TEJERINA",
+                "Xose Anton DIOS MARINO",
+                "Jose Antonio ESPEJO GUTIERREZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Javier GALLEGO AMADOR",
+                "Maria Jesus GALLEGO ESTREMERA",
+                "Isabel GARCIA TAMARA",
+                "Magdalena GONZALEZ GOZALBO",
+                "Carla GONZALEZ RICARTE",
+                "Antonios KOSSYVAKIS",
+                "Juan Jose LOPEZ GOMEZ",
+                "Annika LOTSON LOPEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Mercedes MARISCAL CAMPOS",
+                "Maria Isabel MEIRELES DE ANDRADE",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Pablo PINTOS TOURINO",
+                "Maria Eugenia ROMANO MARTINEZ",
+                "Sonia Maria SANCHEZ GOMEZ",
+                "Eva Pilar SANJUAN GUERRERO",
+                "Maria Luisa SEVILLA ANDRADA",
+                "Marina SOLA GARCIA",
+                "Aranzazu TARAZONA HUERTA",
+                "Teresa VALLEJO MOLINA",
+                "Daniel DIEZ CECILIA",
+                "Naioa GARCES BLASCO",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Josep/Pepe MERCADAL BAQUERO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "JOAN SERRA MINGOT",
+                "Cristian VILLAR PRIETO",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Cristina MARTINEZ PEREZ",
+                "Almudena MOLINA DELGADO",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Celia RUIZ ALFONSEA",
+                "Alberto BONDESIO MARTINEZ",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Joan SERRA MINGOT",
+                "PAULA SENDIN RODRIGUEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Daniel DIEZ CECILIA",
+                "Cristian VILLAR PRIETO",
+                "Elena PEREDA LAGARTOS",
+                "Josep MERCADAL BAQUERO",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Alba Maria HUERTAS RUIZ",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "SILVIA LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Pilar RUIZ HUÉLAMO",
+                "Victor Patricio DONATE PAVON",
+                "AINA ARROM MAYOL",
+                "ANA LÓPEZ GONZÁLEZ",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Claudia MARTINEZ MUNOZ",
+                "Rosa Maria BALAS TORRES",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Marta CASARES LARA"
+            ],
+            "Accredited assistants (grouping)": [
+                "Laura BALLARIN CEREZA",
+                "Izaskun BERNAL CERDEIRA",
+                "Eduardo BLANCO BUZON",
+                "Irina DE SANCHO ALONSO",
+                "Ignacio Santiago DEL OLMO TEJERINA",
+                "Xose Anton DIOS MARINO",
+                "Jose Antonio ESPEJO GUTIERREZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Javier GALLEGO AMADOR",
+                "Maria Jesus GALLEGO ESTREMERA",
+                "Isabel GARCIA TAMARA",
+                "Magdalena GONZALEZ GOZALBO",
+                "Carla GONZALEZ RICARTE",
+                "Antonios KOSSYVAKIS",
+                "Juan Jose LOPEZ GOMEZ",
+                "Annika LOTSON LOPEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Mercedes MARISCAL CAMPOS",
+                "Maria Isabel MEIRELES DE ANDRADE",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Pablo PINTOS TOURINO",
+                "Maria Eugenia ROMANO MARTINEZ",
+                "Sonia Maria SANCHEZ GOMEZ",
+                "Eva Pilar SANJUAN GUERRERO",
+                "Maria Luisa SEVILLA ANDRADA",
+                "Marina SOLA GARCIA",
+                "Aranzazu TARAZONA HUERTA",
+                "Teresa VALLEJO MOLINA",
+                "Daniel DIEZ CECILIA",
+                "Naioa GARCES BLASCO",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Josep/Pepe MERCADAL BAQUERO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "JOAN SERRA MINGOT",
+                "Cristian VILLAR PRIETO",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Cristina MARTINEZ PEREZ",
+                "Almudena MOLINA DELGADO",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Celia RUIZ ALFONSEA",
+                "Alberto BONDESIO MARTINEZ",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Joan SERRA MINGOT",
+                "PAULA SENDIN RODRIGUEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Daniel DIEZ CECILIA",
+                "Cristian VILLAR PRIETO",
+                "Elena PEREDA LAGARTOS",
+                "Josep MERCADAL BAQUERO",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Alba Maria HUERTAS RUIZ",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "SILVIA LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Pilar RUIZ HUÉLAMO",
+                "Victor Patricio DONATE PAVON",
+                "AINA ARROM MAYOL",
+                "ANA LÓPEZ GONZÁLEZ",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Claudia MARTINEZ MUNOZ",
+                "Rosa Maria BALAS TORRES",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Marta CASARES LARA"
+            ],
+            "Local assistants": [
+                "Estela GARCIA MARTINEZ",
+                "Eduardo Antonio GIBERT DIAZ"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "VELASCO ABOGADOS Y ASESORES, S.L"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Alex AGIUS SALIBA",
+        "national_party": "Partit Laburista",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Malta",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Desislava DIMITROVA",
+                "Elena THEVISSEN"
+            ],
+            "Accredited assistants (grouping)": [
+                "Paying agents",
+                "SWK AUDIT LIMITED"
+            ],
+            "Local assistants": [
+                "Christine-Marie CATANIA BONELLO",
+                "Noel AGIUS",
+                "Giovanni MERCIECA",
+                "Maria MICALLEF",
+                "Albert PACE",
+                "Darren GRECH",
+                "Joseph MANGION",
+                "Alfred MICALLEF",
+                "Nico MUSCAT",
+                "Raisa BUGEJA",
+                "Rodrick ZERAFA",
+                "Jennifer MAGRI",
+                "Nathan MCKAY",
+                "Stephen FARRUGIA",
+                "Kimberly ABELA AXISA",
+                "Albert PACE"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "SWK AUDIT LIMITED"
+            ],
+            "Service providers": [
+                "RED AGENCY LTD",
+                "CACTI Limited",
+                "ANTILIA LTD"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Catherine GRISET",
+        "national_party": "Rassemblement national",
+        "group": "Identity and Democracy Group",
+        "country": "France",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Audrey Simone",
+                "Jacqueline DAYMARD",
+                "Adrien Arnaud PIEROTTI",
+                "Luc LAHALLE"
+            ],
+            "Accredited assistants (grouping)": [
+                "Aude BRASTENHOFER"
+            ],
+            "Local assistants": [
+                "Service providers"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Local assistants"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Christophe CLERGEAU",
+        "national_party": "Parti socialiste",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "France",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Cecilia GONDARD",
+                "Frederic COURLEUX",
+                "RÉMI ALEXIS CLÉMENT CARTON"
+            ],
+            "Accredited assistants (grouping)": [
+                "Maxime Charles-Albert Francois HERRMANN"
+            ],
+            "Local assistants": [
+                "Monique DAUBIER",
+                "Nicolas ROBIN"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "LIMONGI EXPERTISE Sarl"
+            ],
+            "Service providers": [
+                "COMMUN E S",
+                "FOTSO PHILIPPE",
+                "IRIS"
+            ],
+            "Trainees": [
+                "Louison VILLEMAIN"
+            ]
+        }
+    },
+    {
+        "name": "Cristina MAESTRE",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "22-09-2019",
+        "assistants": {
+            "Accredited assistants (grouping)": [
+                "Laura BALLARIN CEREZA",
+                "Eduardo BLANCO BUZON",
+                "Irina DE SANCHO ALONSO",
+                "Ignacio Santiago DEL OLMO TEJERINA",
+                "Daniel DIEZ CECILIA",
+                "Xose Anton DIOS MARINO",
+                "Jose Antonio ESPEJO GUTIERREZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Javier GALLEGO AMADOR",
+                "Maria Jesus GALLEGO ESTREMERA",
+                "Naioa GARCES BLASCO",
+                "Maria Cristina GARCIA CARRERA",
+                "Isabel GARCIA TAMARA",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Carla GONZALEZ RICARTE",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Juan Jose LOPEZ GOMEZ",
+                "Mario David LOPEZ OLIVA",
+                "Annika LOTSON LOPEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Mercedes MARISCAL CAMPOS",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Cristina MARTINEZ PEREZ",
+                "Maria Isabel MEIRELES DE ANDRADE",
+                "Josep MERCADAL BAQUERO",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Almudena MOLINA DELGADO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "Maria Rosa PEREZ MONCLUS",
+                "Pablo PINTOS TOURINO",
+                "Maria Eugenia ROMANO MARTINEZ",
+                "Sonia Maria SANCHEZ GOMEZ",
+                "Eva Pilar SANJUAN GUERRERO",
+                "JOAN SERRA MINGOT",
+                "Maria Luisa SEVILLA ANDRADA",
+                "Marina SOLA GARCIA",
+                "Aranzazu TARAZONA HUERTA",
+                "Teresa VALLEJO MOLINA",
+                "Cristian VILLAR PRIETO"
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Diana RIBA I GINER",
+        "national_party": "Esquerra Republicana de Catalunya",
+        "group": "Group of the Greens/European Free Alliance",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Sergio ZORRILLA CUBELLS",
+                "Raquel Marta CORREA DOMENECH",
+                "Max SALLENT REGOLA",
+                "Xiomara Alejandra VILLA PEREZ",
+                "Griselda BALLESTER I TATARET"
+            ],
+            "Accredited assistants (grouping)": [
+                "Oriol CASES VILA",
+                "Benjamin FEYEN",
+                "Maria Teresa VALLVERDU ALBORNA"
+            ],
+            "Local assistants": [
+                "Sergio Martinez Perez",
+                "Helena Castella Duran",
+                "Adam-Jacint ALBERTMORROS",
+                "Didac PEREZ LOPEZ"
+            ],
+            "Local assistants (grouping)": [
+                "Maria Teresa VALLVERDU ALBORNA",
+                "Adam-Jacint ALBERTMORROS"
+            ],
+            "Paying agents": [
+                "MES ADVOCATS I GESTIO SLP"
+            ],
+            "Service providers": [
+                "Beatrice DUODU",
+                "ACTIVA AUDITORIA & CONSULTORIA"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Esteban GONZÁLEZ PONS",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Carlos FERNANDEZ OJEA",
+                "Miguel TORNOS NAVARRO",
+                "Konstantinos MITSOTAKIS",
+                "Carmen Macarena MARTINEZ MATEO",
+                "Lara Maria GOMEZ FERNANDEZ"
+            ],
+            "Accredited assistants (grouping)": [
+                "Carlos FERNANDEZ OJEA",
+                "Silvia HITOS",
+                "Manuel FRAGA PEDROCHE",
+                "Francisco De Borja GIMENEZ LARRAZ",
+                "Pedro MIELGO CIMAS",
+                "Maria Yolanda PEREZ TOVAR",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Laura PASCUAL TRUJILLO",
+                "Jesus GARCIA ALBERTI"
+            ],
+            "Local assistants": [
+                "Maria CARRAU GINER",
+                "MARIA BLANCA MATO PICARDO"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "GB ASESORES",
+                "GERBONSA Y ESCANDELL, S.L."
+            ],
+            "Service providers": [
+                "GB ASESORES",
+                "METROPOLIS COMUNICACION, SL"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Francisco José MILLÁN MON",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Maria Inmaculada IBANEZ LANA",
+                "Arturo ESCLARIN ORTIZ",
+                "MARIA MASEDA VARELA",
+                "PABLO GOMEZ CEDRON",
+                "Aida FERREIRO AMIL",
+                "Alberto ESCOBAR RIVAS",
+                "MARIA MASEDA VARELA"
+            ],
+            "Accredited assistants (grouping)": [
+                "Pedro MIELGO CIMAS",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Konstantinos KALAMANTIS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Laura PASCUAL TRUJILLO",
+                "Jesus GARCIA ALBERTI",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Carmen Macarena MARTINEZ MATEO"
+            ],
+            "Local assistants": [
+                "Service providers"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Local assistants"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Georg MAYER",
+        "national_party": "Freiheitliche Partei Österreichs",
+        "group": "Identity and Democracy Group",
+        "country": "Austria",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Clariana Veronica TORRES MATHEOLI",
+                "Natalia MEUTHEN-ZVEKIC"
+            ],
+            "Accredited assistants (grouping)": [
+                "Gerald BERTL",
+                "LUKAS STICKROTH",
+                "Nadja Sophie FASSER"
+            ],
+            "Local assistants": [
+                "Kerstin Elisabeth FASCHING",
+                "Rosemarie FIEDLER",
+                "Herwig KAHLER",
+                "Christian MEERAUS",
+                "Rosemarie BRANDL",
+                "Katharina VILIMSKY",
+                "Sabrina KUNASEK",
+                "Kerstin Elisabeth KÖNIG"
+            ],
+            "Local assistants (grouping)": [
+                "Teresa Barbara SCHRÖDER",
+                "Sabrina KUNASEK",
+                "Anna Sophie GROISS",
+                "Alessandro KOPETER"
+            ],
+            "Paying agents": [
+                "E.C.A. MAG. PICHLER",
+                "WTG Dr. Reinold - Mag. Veith Steuerberatungs GmbH"
+            ],
+            "Service providers": [
+                "Jurgen ANGERER",
+                "Franz Obermayr"
+            ],
+            "Trainees": [
+                "Maximilian SCHARFENBERG",
+                "Johannes Fabian KOLODZIEJ",
+                "Katharina VILIMSKY",
+                "Alwin SCHUEN"
+            ]
+        }
+    },
+    {
+        "name": "Gerolf ANNEMANS",
+        "national_party": "Vlaams Belang",
+        "group": "Identity and Democracy Group",
+        "country": "Belgium",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Jan Gabrielle D MORTELMANS"
+            ],
+            "Accredited assistants (grouping)": [
+                "Erland PISON",
+                "Brieuc Paul A SUYS",
+                "Ralf Alexander VAN DEN HAUTE",
+                "Arn BERGHMANS",
+                "Gilles Willy B SEGERS",
+                "Monia ALBERTINI",
+                "Lode Maria C VEREECK",
+                "BERNARD JOSEPH CAMIEL DEPOURCQ",
+                "ROBIN GOUWY"
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Iratxe GARCÍA PÉREZ",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Magdalena GONZALEZ GOZALBO",
+                "Mercedes MARISCAL CAMPOS",
+                "Lucia MELLADO CALDERON"
+            ],
+            "Accredited assistants (grouping)": [
+                "Izaskun BERNAL CERDEIRA",
+                "Judit CANAS FERNANDEZ",
+                "Eduardo BLANCO BUZON",
+                "Xose Anton DIOS MARINO",
+                "Jose Antonio ESPEJO GUTIERREZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Maria Trinidad NOGUERA GRACIA",
+                "Adrian REINA HURTADO",
+                "Isabel GARCIA TAMARA",
+                "Magdalena GONZALEZ GOZALBO",
+                "Carla GONZALEZ RICARTE",
+                "Antonios KOSSYVAKIS",
+                "Juan Jose LOPEZ GOMEZ",
+                "Pablo PINTOS TOURINO",
+                "Sonia Maria SANCHEZ GOMEZ",
+                "Eva Pilar SANJUAN GUERRERO",
+                "Maria Luisa SEVILLA ANDRADA",
+                "Marina SOLA GARCIA",
+                "Aranzazu TARAZONA HUERTA",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Almudena MOLINA DELGADO",
+                "Izaskun BERNAL CERDEIRA",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Laura BALLARIN CEREZA",
+                "Mercedes MARISCAL CAMPOS",
+                "Joan SERRA MINGOT",
+                "PAULA SENDIN RODRIGUEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Annika LOTSON LOPEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Daniel DIEZ CECILIA",
+                "Josep MERCADAL BAQUERO",
+                "Elena PEREDA LAGARTOS",
+                "Cristian VILLAR PRIETO",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Alba Maria HUERTAS RUIZ",
+                "Irina DE SANCHO ALONSO",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Teresa VALLEJO MOLINA",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Carmen MAGDALENA VALLEJO",
+                "Naioa GARCES BLASCO",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Carlos JOVANI GIL",
+                "Nayra Maria PRADO MARRERO",
+                "Silvia LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Victor Patricio DONATE PAVON",
+                "SILVIA LORENZO PEREZ",
+                "MEL RAVELO CORDOVES",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Pilar RUIZ HUÉLAMO",
+                "Paula SENDIN RODRIGUEZ",
+                "Daniel DIEZ CECILIA",
+                "AINA ARROM MAYOL",
+                "ANA LÓPEZ GONZÁLEZ",
+                "Julia GRACIA MATEOS",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Roi VILLAR VAZQUEZ",
+                "Ana MARTINEZ SANJURJO",
+                "Claudia MARTINEZ MUNOZ",
+                "Rosa Maria BALAS TORRES",
+                "Victor Patricio DONATE PAVON",
+                "Alberto BONDESIO MARTINEZ",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Celia RUIZ ALFONSEA",
+                "Marta CASARES LARA",
+                "Cristina MARTINEZ PEREZ",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Blanca SAENZ DE BURUAGA SANCHEZ",
+                "Paula SENDÍN RODRIGUEZ",
+                "MARTA CASARES LARA"
+            ],
+            "Local assistants (grouping)": [
+                "Filomena AMOR MERINO",
+                "Javier BALLINA DIAZ",
+                "Natalia CERA BREA",
+                "Araceli Ladera Diaz Chiron",
+                "Alejandro PEINADO GARCIA",
+                "Maria Del Pilar RUIZ SANCHEZ",
+                "Jose Luis SARDINA GARCIA",
+                "JOAN SERRA MINGOT"
+            ],
+            "Paying agents": [
+                "(grouping)",
+                "VELASCO ABOGADOS Y ASESORES, S.L"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Isabel BENJUMEA BENJUMEA",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Carmen Isolina EGEA GUTIERREZ CORTINES",
+                "Yolanda Maria GONZALEZ SANCHEZ",
+                "Teresa VILLA GOMEZ",
+                "ANTONIO DELGADO MUÑOZ",
+                "RAFAEL HERACLIO LOPEZ JIMENEZ"
+            ],
+            "Accredited assistants (grouping)": [
+                "Jesus GARCIA ALBERTI",
+                "Silvia HITOS",
+                "Elena MARTIN ALONSO",
+                "Teresa VILLA GOMEZ",
+                "Pedro MIELGO CIMAS",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Laura PASCUAL TRUJILLO",
+                "Pedro MIELGO CIMAS",
+                "Jesus GARCIA ALBERTI",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Carmen Macarena MARTINEZ MATEO",
+                "Theophile Jean Marie JOURDAIN DE MUIZON"
+            ],
+            "Local assistants": [
+                "David GONZALEZ MEDINA",
+                "Mariana Carolina SUAREZ ULLOA" 
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "CONSULTING ECONOMISTAS CENTRAL SL",
+                "CE CONSULTING EMPRESARIAL ESPANA S.L (Ex--3905)", 
+                "GERBONSA Y ESCANDELL, S.L. "
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Javier MORENO SÁNCHEZ",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants (grouping)": [
+                "Daniel DIEZ CECILIA",
+                "Naioa GARCES BLASCO",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Josep MERCADAL BAQUERO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "JOAN SERRA MINGOT",
+                "Cristian VILLAR PRIETO",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Cristina MARTINEZ PEREZ",
+                "Almudena MOLINA DELGADO",
+                "Izaskun BERNAL CERDEIRA",
+                "Antonios KOSSYVAKIS",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Alberto BONDESIO MARTINEZ",
+                "Celia RUIZ ALFONSEA",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Laura BALLARIN CEREZA",
+                "Eduardo BLANCO BUZON",
+                "Mercedes MARISCAL CAMPOS",
+                "PAULA SENDIN RODRIGUEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Annika LOTSON LOPEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Daniel DIEZ CECILIA",
+                "Josep/Pepe MERCADAL BAQUERO",
+                "Elena PEREDA LAGARTOS",
+                "Cristian VILLAR PRIETO",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Alba Maria HUERTAS RUIZ",
+                "Irina DE SANCHO ALONSO",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Teresa VALLEJO MOLINA",
+                "Carla GONZALEZ RICARTE",
+                "Naioa GARCES BLASCO",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Carlos JOVANI GIL",
+                "Nayra Maria PRADO MARRERO",
+                "SILVIA LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Victor Patricio DONATE PAVON",
+                "Silvia LORENZO PEREZ",
+                "Mel RAVELO CORDOVES",
+                "Pilar RUIZ HUÉLAMO",
+                "Blanca SAENZ DE BURUAGA SANCHEZ",
+                "Paula SENDIN RODRIGUEZ",
+                "Daniel DIEZ CECILIA",
+                "AINA ARROM MAYOL",
+                "Julia GRACIA MATEOS",
+                "ANA LÓPEZ GONZÁLEZ",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Julia GRACIA MATEOS",
+                "Roi VILLAR VAZQUEZ",
+                "Ana MARTINEZ SANJURJO",
+                "CLAUDIA MARTÍNEZ MUÑOZ",
+                "Rosa Maria BALAS TORRES",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Silvia LORENZO PEREZ",
+                "Celia RUIZ ALFONSEA",
+                "Marta CASARES LARA",
+                "Cristina MARTINEZ PEREZ",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "MARIA MERCEDES GARCIA MUÑOZ",
+                "Paula SENDÍN RODRIGUEZ"
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Johan VAN OVERTVELDT",
+        "national_party": "Nieuw-Vlaamse Alliantie",
+        "group": "European Conservatives and Reformists Group",
+        "country": "Belgium",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Ann Marie Therese PINCKET",
+                "Filip Alma A DURANT",
+                "Caroline Charlotte F DUJACQUIER",
+                "Mathieu Marc Pierre VUYLSTEKE",
+                "Katrien UYTTERSPROT"
+            ],
+            "Accredited assistants (grouping)": [],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Juan Fernando LÓPEZ AGUILAR",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants (grouping)": [
+                "Daniel DIEZ CECILIA",
+                "Naioa GARCES BLASCO",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Josep MERCADAL BAQUERO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "JOAN SERRA MINGOT",
+                "Cristian VILLAR PRIETO",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Cristina MARTINEZ PEREZ",
+                "Almudena MOLINA DELGADO",
+                "Izaskun BERNAL CERDEIRA",
+                "Antonios KOSSYVAKIS",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Alberto BONDESIO MARTINEZ",
+                "Celia RUIZ ALFONSEA",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Laura BALLARIN CEREZA",
+                "Eduardo BLANCO BUZON",
+                "Mercedes MARISCAL CAMPOS",
+                "PAULA SENDIN RODRIGUEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Annika LOTSON LOPEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Daniel DIEZ CECILIA",
+                "Josep MERCADAL BAQUERO",
+                "Cristian VILLAR PRIETO",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Alba Maria HUERTAS RUIZ",
+                "Irina DE SANCHO ALONSO",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Teresa VALLEJO MOLINA",
+                "Carla GONZALEZ RICARTE",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "SILVIA LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Daniel DIEZ CECILIA",
+                "AINA ARROM MAYOL",
+                "Julia GRACIA MATEOS",
+                "ANA LÓPEZ GONZÁLEZ",
+                "Pilar RUIZ HUÉLAMO",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Roi VILLAR VAZQUEZ",
+                "Pepe MERCADAL BAQUERO",
+                "ANA LÓPEZ GONZÁLEZ",
+                "Ana MARTINEZ SANJURJO",
+                "Claudia MARTINEZ MUNOZ",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Rosa Maria BALAS TORRES",
+                "Victor Patricio DONATE PAVON",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Carmen CELAYA MARTIN",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Silvia LORENZO PEREZ",
+                "Celia RUIZ ALFONSEA",
+                "Marta CASARES LARA",
+                "Cristina MARTINEZ PEREZ",
+                "Carmen CELAYA MARTIN",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Paula SENDÍN RODRIGUEZ",
+                "MARTA CASARES LARA"
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Juan Ignacio ZOIDO ÁLVAREZ",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Inmaculada MATEOS BUENDIA",
+                "David BARRANCOS LARRAYOZ",
+                "Bonnie Alejandra RAMIREZ POVEDA"
+            ],
+            "Accredited assistants (grouping)": [
+                "Jesus GARCIA ALBERTI",
+                "Silvia HITOS",
+                "Elena MARTIN ALONSO",
+                "Pedro MIELGO CIMAS",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Laura PASCUAL TRUJILLO",
+                "Jesus GARCIA ALBERTI",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Carmen Macarena MARTINEZ MATEO"
+            ],
+            "Local assistants": [
+                "Ignacio Javier CLEMENTE SIERRO",
+                "Miriam HUESCAR LOPEZ"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "OGC TRIBUTARISTAS ASOCIADOS S.L."
+            ],
+            "Service providers": [
+                "REBELLIOUS WORDS S.L.",
+                "EVERCOM COMUNICACION Y RELACIONES PUBLICAS SL",
+                "Fernado MATRES PAREJO",
+                "Santiago MARTINES VARES GIGLIOTTI"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Kathleen VAN BREMPT",
+        "national_party": "Socialistische Partij.Anders (2019-2021), Vooruit (2021-2024)",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Belgium",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Lais Daisy W DE RYNCK",
+                "Louise Mieke F. DE TREMERIE",
+                "Tessa GEUDENS", 
+                "Maxine Elisabeth L DETAELLENAERE",
+                "Jan DE ZUTTER",
+                "Rose BAGUDU",
+                "Gloria Leona I GHEQUIERE",
+                "Siebe JONCKHEERE",
+                "Niels Rik GHEYLE", 
+                "Nathalie Dorien VANVELTHOVEN"
+            ],
+            "Accredited assistants (grouping)": [],
+            "Local assistants": [
+                "Louise Mieke F. DE TREMERIE"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "MC ACCOUNTING BVBA"
+            ],
+            "Service providers": [
+                "UNIVERSITEIT GENT",
+                "VAN BAEL AND BELLIS",
+                "WOORDPOOL COMM V"],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Kim VAN SPARRENTAK",
+        "national_party": "GroenLinks",
+        "group": "Group of the Greens/European Free Alliance",
+        "country": "Netherlands",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants (grouping)": [
+                "Ruben Vincent ROBBESOM",
+                "Reinhard Cornelis DEN TOOM",
+                "Linde HAVEN",
+                "Vincent HURKENS",
+                "Ilse Elisabeth Anne Maria PLOEGMAKERS",
+                "Jeroen STEEMAN",
+                "Julia Sophie VERHEUL",
+                "Myrthe Susanne Johanna Maria BOVENDEAARD",
+                "Wout VAN CAIMERE",
+                "Lowie Zeno KOK",
+                "Meike Maria Euphemia VEDDER",
+                "Simona Wilhelmina Ida DE HEER",
+                "LISA FARAI DE SMET",
+                "Linde HAVEN",
+                "Bram Pieter VAN DEN GROENENDAAL",
+                "MARGRIETHA JOHANNA KRIJGER",
+                "JOB MOLENAAR",
+                "Julia Sophie VERHEUL",
+                "Marieke VREEKEN",
+                "ARYAAN ANNABELLE BOVENBERG",
+                "Bruno Miguel PIRES CHAMBEL",
+                "Linde ROZEMEIJER",
+                "Petra KURTOVIC",
+                "Wander Jeroen Joost WAALS",
+                "Aryaan Annabelle BOVENBERG",
+                "Lisa Farai DE SMET",
+                "Maarten Anton Johannes KAVELAARS"
+            ],
+            "Local assistants (grouping)": [
+                "Mirjam TIEMS",
+                "Maarten Anton Johannes KAVELAARS",
+                "Wilhelmina Maria Tafadzwa VAN LEEUWEN"
+            ],
+            "Paying agents (grouping)": [
+                "ZWEERS WIJBENGA",
+                "Wilhelmina Maria Tafadzwa VAN LEEUWEN"
+            ],
+            "Service providers": [
+                "Mariana GKLIATI",
+                "Lianne VAN DER LEE"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Konstantinos ARVANITIS",
+        "national_party": "Coalition of the Radical Left",
+        "group": "The Left group in the European Parliament - GUE/NGL",
+        "country": "Greece",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Georgios FRANTZESKAKIS",
+                "Pandora DIMANOPOULOU",
+                "Myrto KAVVADIA",
+                "Oufouk MOUSTAFA",
+                "Ioannis VLACHOS"
+            ],
+            "Accredited assistants (grouping)": [
+            ],
+            "Local assistants": [
+                "Antonios KERAMYDAS",
+                "Alexandra ALEXANDROPOULOU",
+                "Dionysia Alexia ANAGNOSTELLI",
+                "Olga NASSI",
+                "Tatiana EGKOROVA",
+                "Dionysia-Alexia ANAGNOSTELLI",
+                "Erasmia TSIPOU",
+                "Fotoula KALPAKI",
+                "Sofiola BOUNTA",
+                "Olga NASSI"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "COMPUTAX PRO I.GOUMAS&SYNERGATES O.E."
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Krzysztof BREJZA",
+        "national_party": "Platforma Obywatelska",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Poland",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Alexandre Laurent Angelo DEPARTOUT"
+            ],
+            "Accredited assistants (grouping)": [
+                "Jakub KARWANSKI"
+            ],
+            "Local assistants": [
+                "Patryk KAZMIERCZAK",
+                "Janislaw KOWALSKI",
+                "Elzbieta Magdalena WISNIEWSKA",
+                "Julia RATAJCZAK",
+                "Piotr DRAZEK",
+                "Wiktoria RADULSKA"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Pawel JAROMIN"
+            ],
+            "Service providers": [
+                "Kaja Magdalena BEIFUS"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Laura BALLARÍN CEREZA",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Laia Castellana Martinez Victor Patricio DONATE PAVON",
+                "Samuel MARTINEZ MOYA"
+            ],
+            "Accredited assistants (grouping)": [
+                "Aida BUSQUET ESTANY"
+            ],
+            "Local assistants": [
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "RIBA VIDAL ABOGADOS SLP"
+            ],
+            "Service providers": [
+                "MEMOLATUCARA SL (ex MEMOLATUCARA SCP)"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Lefteris NIKOLAOU-ALAVANOS",
+        "national_party": "Communist Party of Greece",
+        "group": "Non-attached Members",
+        "country": "Greece",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Anna VASALOU",
+                "Alexandra KOTSOFITI"
+            ],
+            "Accredited assistants (grouping)": [
+                "Paying agents",
+                "Evangelia DIMOULIA"
+            ],
+            "Local assistants": [
+                "Christos ANGELOPOULOS",
+                "Foteini-Kleio CHRISTOPOULOU-TRANTALIDOU",
+                "Smaroula EFTHYMIOU-TSARA",
+                "Anastasia GKIZANI",
+                "Eleni PETROPOULOU"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Evangelia DIMOULIA"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Lina GÁLVEZ",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "MARTA PEIRO TRAPERO"
+            ],
+            "Accredited assistants (grouping)": [
+                "Laura BALLARIN CEREZA",
+                "Izaskun BERNAL CERDEIRA",
+                "Eduardo BLANCO BUZON",
+                "Irina DE SANCHO ALONSO",
+                "Ignacio Santiago DEL OLMO TEJERINA",
+                "Xose Anton DIOS MARINO",
+                "Jose Antonio ESPEJO GUTIERREZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Javier GALLEGO AMADOR",
+                "Maria Jesus GALLEGO ESTREMERA",
+                "Isabel GARCIA TAMARA",
+                "Magdalena GONZALEZ GOZALBO",
+                "Carla GONZALEZ RICARTE",
+                "Antonios KOSSYVAKIS",
+                "Juan Jose LOPEZ GOMEZ",
+                "Annika LOTSON LOPEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Mercedes MARISCAL CAMPOS",
+                "Maria Isabel MEIRELES DE ANDRADE",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Pablo PINTOS TOURINO",
+                "Maria Eugenia ROMANO MARTINEZ",
+                "Sonia Maria SANCHEZ GOMEZ",
+                "Eva Pilar SANJUAN GUERRERO",
+                "Maria Luisa SEVILLA ANDRADA",
+                "Marina SOLA GARCIA",
+                "Aranzazu TARAZONA HUERTA",
+                "Teresa VALLEJO MOLINA",
+                "Daniel DIEZ CECILIA",
+                "Naioa GARCES BLASCO",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Josep MERCADAL BAQUERO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "JOAN SERRA MINGOT",
+                "Cristian VILLAR PRIETO",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Cristina MARTINEZ PEREZ",
+                "Almudena MOLINA DELGADO",
+                "Izaskun BERNAL CERDEIRA",
+                "Antonios KOSSYVAKIS",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Alberto BONDESIO MARTINEZ",
+                "Celia RUIZ ALFONSEA",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Laura BALLARIN CEREZA",
+                "Eduardo BLANCO BUZON",
+                "Mercedes MARISCAL CAMPOS",
+                "PAULA SENDIN RODRIGUEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Annika LOTSON LOPEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Alba Maria HUERTAS RUIZ",
+                "Irina DE SANCHO ALONSO",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Teresa VALLEJO MOLINA",
+                "Carla GONZALEZ RICARTE",
+                "Naioa GARCES BLASCO",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Carlos JOVANI GIL",
+                "SILVIA LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Pilar RUIZ HUÉLAMO",
+                "Paula SENDIN RODRIGUEZ",
+                "Daniel DIEZ CECILIA",
+                "AINA ARROM MAYOL",
+                "Julia GRACIA MATEOS",
+                "ANA LÓPEZ GONZÁLEZ",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Ana MARTINEZ SANJURJO",
+                "Claudia MARTINEZ MUNOZ",
+                "Rosa Maria BALAS TORRES",
+                "Victor Patricio DONATE PAVON",
+                "Alberto BONDESIO MARTINEZ",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Silvia LORENZO PEREZ",
+                "Celia RUIZ ALFONSEA"
+            ],
+            "Local assistants": [
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Loucas FOURLAS",
+        "national_party": "Democratic Rally",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Cyprus",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Marina SAVVIDOU",
+                "Nicolas VIOLARIS"
+            ],
+            "Accredited assistants (grouping)": [
+            ],
+            "Local assistants": [
+                "Αντιγονη Αντωνα",
+                "Μιχαηλ Αζοβιδης",
+                "Ανδριανα Χαριλαου",
+                "Μαριος Παπαηλια",
+                "ΣΤΕΛΙΟΣ ΣΤΑΥΡΙΝΙΔΗΣ",
+                "Marios DIMITRIOU"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Rombus Services LTD"
+            ],
+            "Service providers": [
+            ],
+            "Trainees": [
+                "Ariana PASPALIDE",
+                "Nikos SYMEOU",
+                "Danai MAVROUDI"
+            ]
+        }
+    },
+    {
+        "name": "Margarita DE LA PISA CARRIÓN",
+        "national_party": "VOX",
+        "group": "European Conservatives and Reformists Group",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants (grouping)": [
+                "Maria Paloma ADRADOS COART",
+                "Juan BAYOD RODRIGO",
+                "Jose CADENAS RABAIXET",
+                "Manuel FRAGA PEDROCHE",
+                "Jaime HERNANDEZ ZUNIGA",
+                "Carles ISERTE JOVE",
+                "Eduardo DESCARTIN DEHESA",
+                "Beatriz SANCHEZ MERINO",
+                "Ivan DE VARGAS PAPADOPULOS",
+                "Maria del Rocio OYA NAVARRO",
+                "Pedro Raul NARRO SANCHEZ",
+                "Arturo VILLARROYA GONZALEZ",
+                "Pablo ZUAZO PRADEL",
+                "CARLOS CAMPILLO PEREZ",
+                "Borja CUESTA BIOSCA",
+                "Gaspar MAYOR TONDA",
+                "Maria CHECA SESMERO",
+                "Manuel FRAGA PEDROCHE",
+                "ARTURO VILLARROYA GONZÁLEZ",
+                "Alvaro PAVON ROMERO",
+                "Fernando Jose NUNEZ ROBRES PATINO",
+                "Bibiana CARRETO PEREZ BARBADILLO"
+            ],
+            "Local assistants": [
+                "Pablo ZUAZO PRADEL"
+            ],
+            "Local assistants (grouping)": [
+                "Juan FONTAN LUCIO-VILLEGAS",
+                "Alfonso IRIARTE MUNOZ-SECA",
+                "Nicolas GUTIÉRREZ SAIZ",
+                "IGNACIO CAMPILLO PEREZ"
+            ],
+            "Paying agents": [
+                "MAJER CONSULTING SL"
+            ],
+            "Service providers": [
+                "Oscar COROMINAS NOGAL",
+                "ARENAS DE LA TINAJITA S.L."
+            ],
+            "Trainees": [
+                "Pablo PEREZ MERINO"
+            ]
+        }
+    },
+    {
+        "name": "Matthias ECKE",
+        "national_party": "Sozialdemokratische Partei Deutschlands",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Germany",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Nora SEFA",
+                "Christian NEUMANN"
+            ],
+            "Accredited assistants (grouping)": [
+                "Hannah CORNELSEN",
+                "Jacinta Maria KAISER",
+                "Malte MARKERT",
+                "Carsten MEENERS-HORN",
+                "Jan Ludwig ROESSMANN",
+                "Christian NEUMANN",
+                "Hannah CORNELSEN",
+                "Jacinta Maria KAISER"
+            ],
+            "Local assistants": [
+                "Andrea GAEDE",
+                "Henrik HOFMANN"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Bunzel und Partner STB"
+            ],
+            "Service providers": [
+            ],
+            "Trainees": [
+                "Emely Marie SCHAEFER"
+            ]
+        }
+    },
+    {
+        "name": "Nacho SÁNCHEZ AMOR",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Angel LAZARO BUSTAMANTE"
+            ],
+            "Accredited assistants (grouping)": [
+                "Laura BALLARIN CEREZA",
+                "Izaskun BERNAL CERDEIRA",
+                "Eduardo BLANCO BUZON",
+                "Irina DE SANCHO ALONSO",
+                "Ignacio Santiago DEL OLMO TEJERINA",
+                "Xose Anton DIOS MARINO",
+                "Jose Antonio ESPEJO GUTIERREZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Javier GALLEGO AMADOR",
+                "Maria Jesus GALLEGO ESTREMERA",
+                "Isabel GARCIA TAMARA",
+                "Magdalena GONZALEZ GOZALBO",
+                "Carla GONZALEZ RICARTE",
+                "Antonios KOSSYVAKIS",
+                "Juan Jose LOPEZ GOMEZ",
+                "Annika LOTSON LOPEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Mercedes MARISCAL CAMPOS",
+                "Maria Isabel MEIRELES DE ANDRADE",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Pablo PINTOS TOURINO",
+                "Maria Eugenia ROMANO MARTINEZ",
+                "Sonia Maria SANCHEZ GOMEZ",
+                "Eva Pilar SANJUAN GUERRERO",
+                "Maria Luisa SEVILLA ANDRADA",
+                "Marina SOLA GARCIA",
+                "Aranzazu TARAZONA HUERTA",
+                "Teresa VALLEJO MOLINA",
+                "Daniel DIEZ CECILIA",
+                "Naioa GARCES BLASCO",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Josep MERCADAL BAQUERO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "JOAN SERRA MINGOT",
+                "Cristian VILLAR PRIETO",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Cristina MARTINEZ PEREZ",
+                "Almudena MOLINA DELGADO",
+                "Izaskun BERNAL CERDEIRA",
+                "Antonios KOSSYVAKIS",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Magdalena GONZALEZ GOZALBO",
+                "Alberto BONDESIO MARTINEZ",
+                "Celia RUIZ ALFONSEA",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Laura BALLARIN CEREZA",
+                "Eduardo BLANCO BUZON",
+                "Mercedes MARISCAL CAMPOS",
+                "Joan SERRA MINGOT",
+                "PAULA SENDIN RODRIGUEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Annika LOTSON LOPEZ",
+                "Alberto BONDESIO MARTINEZ",
+                "Daniel DIEZ CECILIA",
+                "Josep MERCADAL BAQUERO",
+                "Elena PEREDA LAGARTOS",
+                "Cristian VILLAR PRIETO",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Irina DE SANCHO ALONSO",
+                "Alba Maria HUERTAS RUIZ",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Teresa VALLEJO MOLINA",
+                "Carla GONZALEZ RICARTE",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Pepe MERCADAL BAQUERO",
+                "Carmen MAGDALENA VALLEJO",
+                "Naioa GARCES BLASCO",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Carlos JOVANI GIL",
+                "Nayra Maria PRADO MARRERO",
+                "SILVIA LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Victor Patricio DONATE PAVON",
+                "Silvia LORENZO PEREZ",
+                "Mel RAVELO CORDOVES",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Pilar RUIZ HUÉLAMO",
+                "Paula SENDIN RODRIGUEZ",
+                "Daniel DIEZ CECILIA",
+                "AINA ARROM MAYOL",
+                "Julia GRACIA MATEOS",
+                "ANA LÓPEZ GONZÁLEZ",
+                "Roi VILLAR VAZQUEZ",
+                "Ana MARTINEZ SANJURJO",
+                "Claudia MARTINEZ MUNOZ",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Rosa Maria BALAS TORRES",
+                "Victor Patricio DONATE PAVON",
+                "Alberto BONDESIO MARTINEZ",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Silvia LORENZO PEREZ",
+                "Celia RUIZ ALFONSEA",
+                "Marta CASARES LARA",
+                "Cristina MARTINEZ PEREZ",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "MARIA MERCEDES GARCIA MUÑOZ",
+                "Angel LAZARO BUSTAMANTE",
+                "Claudia MARTINEZ MUNOZ",
+                "MARTA CASARES LARA"
+            ],
+            "Local assistants": [
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Nicolás GONZÁLEZ CASARES",
+        "national_party": "Partido Socialista Obrero Español",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Tania Belen LOPEZ MENDEZ"
+            ],
+            "Accredited assistants (grouping)": [
+                "Laura BALLARIN CEREZA",
+                "Izaskun BERNAL CERDEIRA",
+                "Eduardo BLANCO BUZON",
+                "Irina DE SANCHO ALONSO",
+                "Ignacio Santiago DEL OLMO TEJERINA",
+                "Xose Anton DIOS MARINO",
+                "Jose Antonio ESPEJO GUTIERREZ",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Javier GALLEGO AMADOR",
+                "Maria Jesus GALLEGO ESTREMERA",
+                "Isabel GARCIA TAMARA",
+                "Magdalena GONZALEZ GOZALBO",
+                "Carla GONZALEZ RICARTE",
+                "Antonios KOSSYVAKIS",
+                "Juan Jose LOPEZ GOMEZ",
+                "Annika LOTSON LOPEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Mercedes MARISCAL CAMPOS",
+                "Maria Isabel MEIRELES DE ANDRADE",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Pablo PINTOS TOURINO",
+                "Maria Eugenia ROMANO MARTINEZ",
+                "Sonia Maria SANCHEZ GOMEZ",
+                "Eva Pilar SANJUAN GUERRERO",
+                "Maria Luisa SEVILLA ANDRADA",
+                "Marina SOLA GARCIA",
+                "Aranzazu TARAZONA HUERTA",
+                "Teresa VALLEJO MOLINA",
+                "Daniel DIEZ CECILIA",
+                "Naioa GARCES BLASCO",
+                "Julia GRACIA MATEOS",
+                "Carlos JOVANI GIL",
+                "Cristina Elena LAGO QUINTANS",
+                "Mario David LOPEZ OLIVA",
+                "Maria Del Carmen MARTINEZ BELMONTE",
+                "Josep MERCADAL BAQUERO",
+                "Alejandro PEINADO GARCIA",
+                "Elena PEREDA LAGARTOS",
+                "JOAN SERRA MINGOT",
+                "Cristian VILLAR PRIETO",
+                "Maria Rosa PEREZ MONCLUS",
+                "Maria Cristina GARCIA CARRERA",
+                "Cristina MARTINEZ PEREZ",
+                "Almudena MOLINA DELGADO",
+                "Izaskun BERNAL CERDEIRA",
+                "Antonios KOSSYVAKIS",
+                "Maria Magdalena GONZALEZ GOZALBO",
+                "Celia RUIZ ALFONSEA",
+                "Alberto BONDESIO MARTINEZ",
+                "Matteo REBESANI",
+                "Carina Patricia GAETE LLANOS",
+                "Laura BALLARIN CEREZA",
+                "Eduardo BLANCO BUZON",
+                "Mercedes MARISCAL CAMPOS",
+                "Joan SERRA MINGOT",
+                "PAULA SENDIN RODRIGUEZ",
+                "Andrea MACEIRAS CASTRO",
+                "Annika LOTSON LOPEZ",
+                "Daniel DIEZ CECILIA",
+                "Elena PEREDA LAGARTOS",
+                "Cristian VILLAR PRIETO",
+                "Ana Isabel ESTEBAN TORTOLA",
+                "Francisco Jose GALIAN TORRENTE",
+                "Casilda MALDONADO TIRADO",
+                "Alba Maria HUERTAS RUIZ",
+                "Irina DE SANCHO ALONSO",
+                "Ana MARTINEZ SANJURJO",
+                "Carmen MAGDALENA VALLEJO",
+                "MEL RAVELO CORDOVES",
+                "Maria Lourdes MINCHOT BALLARIN",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Nayra Maria PRADO MARRERO",
+                "BLANCA SAENZ DE BURUAGA SANCHEZ",
+                "Sergi PITARCH SANCHEZ",
+                "Teresa VALLEJO MOLINA",
+                "Carla GONZALEZ RICARTE",
+                "Ignacio Aitor DE LA PUERTA MARCO",
+                "Carmen MAGDALENA VALLEJO",
+                "Naioa GARCES BLASCO",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Carlos JOVANI GIL",
+                "Nayra Maria PRADO MARRERO",
+                "SILVIA LORENZO PEREZ",
+                "Roi VILLAR VAZQUEZ",
+                "Victor Patricio DONATE PAVON",
+                "Silvia LORENZO PEREZ",
+                "MEL RAVELO CORDOVES",
+                "Blanca SAENZ DE BURUAGA SANCHEZ",
+                "Pilar RUIZ HUÉLAMO",
+                "Paula SENDIN RODRIGUEZ",
+                "Daniel DIEZ CECILIA",
+                "AINA ARROM MAYOL",
+                "Julia GRACIA MATEOS",
+                "ANA LÓPEZ GONZÁLEZ",
+                "DIEGO FERNÁNDEZ CURESES",
+                "Roi VILLAR VAZQUEZ",
+                "Ana MARTINEZ SANJURJO",
+                "Claudia MARTINEZ MUNOZ",
+                "Rosa Maria BALAS TORRES",
+                "Victor Patricio DONATE PAVON",
+                "Jaime Daniel DE FRUTOS GONZALEZ",
+                "Celia RUIZ ALFONSEA",
+                "Silvia LORENZO PEREZ",
+                "MARIA MERCEDES GARCIA MUNOZ",
+                "Marta CASARES LARA",
+                "Cristina MARTINEZ PEREZ",
+                "Maria Del Carmen MARTINEZ BELMONTE"
+            ],
+            "Local assistants": [
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Pablo ARIAS ECHEVERRÍA",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Candelaria GORRI LAGUNA",
+                "Laura PASCUAL TRUJILLO",
+                "Maria Jesus MOLINA HURTADO",
+                "Marta ENGUITA LOPEZ",
+                "Maria de los Angeles LOPEZ MORAGO",
+                "Macarena MARTIN SEGURADO",
+                "Stela HERNANDEZ SIENA",
+                "Marta RUFINO CAMPOS",
+                "Malena GOUTILLE LAZARO"
+            ],
+            "Accredited assistants (grouping)": [
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Teresa VILLA GOMEZ",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Pedro MIELGO CIMAS",
+                "Jesus GARCIA ALBERTI",
+                "Carmen Macarena MARTINEZ MATEO"
+            ],
+            "Local assistants": [
+                "Francisco GARCIA DE LA PUERTA",
+                "MALENA GOUTILLE LAZARO",
+                "Francisco GARCIA DE LA PUERTA"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "GERBONSA Y ESCANDELL, S.L."
+            ],
+            "Service providers": [
+                "ANALISIS ECONOMICO INTEGRAL S.L.N.E.",
+                "INDIE COMMUNICATIONS S.L"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Pernando BARRENA ARZA",
+        "national_party": "EH BILDU",
+        "group": "The Left group in the European Parliament - GUE/NGL",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Miguel José GARCIA JONES",
+                "Abraham VELARDE GONZALEZ"
+            ],
+            "Accredited assistants (grouping)": [
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Laura PASCUAL TRUJILLO",
+                "Pedro MIELGO CIMAS",
+                "Jesus GARCIA ALBERTI",
+                "Carmen Macarena MARTINEZ MATEO"
+            ],
+            "Local assistants": ["Cristina GARCIA COLMENAR"],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "CONSULTING DE ECONOMISTAS SA",
+                "GERBONSA Y ESCANDELL, S.L.",
+                "CE CONSULTING EMPRESARIAL ESPANA S.L (Ex-"
+            ],
+            "Service providers": ["Pedro MIELGO CIMAS"],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Pilar del CASTILLO VERA",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Miguel José GARCIA JONES",
+                "Abraham VELARDE GONZALEZ"
+            ],
+            "Accredited assistants (grouping)": [
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Laura PASCUAL TRUJILLO",
+                "Pedro MIELGO CIMAS",
+                "Jesus GARCIA ALBERTI",
+                "Carmen Macarena MARTINEZ MATEO"
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "GERBONSA Y ESCANDELL, S.L."
+            ],
+            "Service providers": [
+                "Pedro MIELGO CIMAS"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Raffaele STANCANELLI",
+        "national_party": "FRATELLI D'ITALIA",
+        "group": "European Conservatives and Reformists Group",
+        "country": "Italy",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Paola Francesca GRAZIANO",
+                "Andrea GUGLIELMI",
+                "Luca PAVANATO"
+            ],
+            "Accredited assistants (grouping)": [
+                "Rocco SARLI",
+                "Annunziata CARNEVALE",
+                "Alisea GIORDANO"
+            ],
+            "Local assistants": [
+                "Marcello ARMENIA",
+                "Marcello PULVIRENTI",
+                "Gianfranco Salvatore VITALE",
+                "Pietro MATRANGA",
+                "Valeria BORELLINI",
+                "Dario Antonio LORITTO",
+                "Luciano ZUCCARELLO",
+                "Angelo SIRINGO",
+                "Sergio LEMBO",
+                "Dalila STRANO",
+                "Alessandra ACI",
+                "Cesare Carmelo MARZULLO",
+                "Dalila STRANO",
+                "Giorgio FALZONE",
+                "Antonino CATANZARO",
+                "Victoria GRIFFING",
+                "Maria PAPPALARDO",
+                "Giorgio FALZONE"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Dario Salvatore Giovanni BIONDI",
+                "FIMACCOUNT SPRL"
+            ],
+            "Service providers": [
+                "MICHELA PETRINA",
+                "BRUXELLES EUROPE Asbl",
+                "Giuseppa VEGNA",
+                "SOLUM LAB SRL",
+                "Luca CILIBERTI",
+                "Giacomo CACI"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Rosa ESTARÀS FERRAGUT",
+        "national_party": "Partido Popular",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Francisco de Paula Gambus Millet",
+                "Francesc Gambús",
+                "Fernando DIAZ MARTINEZ",
+                "Macarena MARTIN SEGURADO",
+                "Elena MATO MALDONADO"
+            ],
+            "Accredited assistants (grouping)": [
+                "Pedro MIELGO CIMAS",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Silvia HITOS",
+                "Beatriz CARO NIETO",
+                "Daniel ACKERMAN LANADO",
+                "Almudena DOCAVO MUNIZ",
+                "Rocío MORENO MERINO",
+                "Laura PASCUAL TRUJILLO",
+                "Jesus GARCIA ALBERTI",
+                "Carlos Casimiro SALVADOR ARMENDARIZ",
+                "Carmen Macarena MARTINEZ MATEO"
+            ],
+            "Local assistants": [
+                "Luis POMAR VIDAL",
+                "Gregorio JAUME BONNIN",
+                "Jordi ROCA MAS"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "GB ASESORES",
+                "GERBONSA Y ESCANDELL, S.L."
+            ],
+            "Service providers": [
+                "BRAIN COMUNICATION S.L."
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Salvatore DE MEO",
+        "national_party": "Forza Italia",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Italy",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Stefano Matonte",
+                "Rachele TESEI",
+                "BEATRICE BRANCADORO",
+                "Federico ANTONELLI"
+            ],
+            "Accredited assistants (grouping)": [
+            ],
+            "Local assistants": [
+                "Marco DI STEFANO",
+                "Giuseppe FONISTO",
+                "Ciro RUSSO",
+                "Enrico DELLAPIETA",
+                "Marco DI STEFANO",
+                "Eva Rita RUGGIERI",
+                "Antonio DI TRENTO",
+                "Nicola TURCHETTA",
+                "Marco MARCANTONIO",
+                "ANGELO FORTE",
+                "Polya Stefchova KRASTEVA",
+                "Giovanni MELONI"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Marco MARCOVALDI",
+                "Alessandro PARISELLA"
+            ],
+            "Service providers": [
+                "26LETTERE S.R.L.",
+                "PALMO SRL",
+                "STAND OUT S.R.L.",
+                "Daniele MARZANO",
+                "Cristina COLUMPSI",
+                "B2B COMMUNICATION SRL",
+                "Marco MARCANTONIO",
+                "Verdiana MATTEI"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Susana SOLÍS PÉREZ",
+        "national_party": "Ciudadanos - Partido de la Ciudadanía",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Despina MANOUSOS",
+                "Kevin MARTINEZ CARROZA",
+                "Jorge VINUELAS GONZALEZ",
+                "Lucia MARTINEZ MAROTO",
+                "Marina Ana CUBEDO VICEN",
+                "Oscar PANDIELLO FERNANDEZ",
+                "JAVIER FELIPE ANDREU",
+                "OLALLA BENITO RODRIGUEZ",
+                "Lucia MARTINEZ MAROTO"
+            ],
+            "Accredited assistants (grouping)": [
+                "Aintzane CONESA PALACIOS",
+                "Marta CORTES CURRUBI",
+                "Antonio DE TORRE ALVAREZ",
+                "Kevin MARTINEZ CARROZA",
+                "Sebastian RODRIGUEZ PEREZ",
+                "Arabela Anca SABANGEANU",
+                "Adrian VAZQUEZ LAZARA",
+                "Jorge VINUELAS GONZALEZ",
+                "Fernando Jose SOLS CUETO",
+                "Adrian VAZQUEZ LAZARA",
+                "Laura ESTRELLA BLAYA",
+                "Jorge VINUELAS GONZALEZ",
+                "Javier BALMASEDA DOMINGUEZ",
+                "Sebastian RODRIGUEZ PEREZ",
+                "JUAN DEL CONSUELO VADILLO GARCIA",
+                "Javier BALMASEDA DOMINGUEZ",
+                "Daniel BARDAVIO COLEBROOK",
+                "Aintzane CONESA PALACIOS",
+                "Antonio DE TORRE ALVAREZ",
+                "JUAN DEL CONSUELO VADILLO GARCIA",
+                "Laura ESTRELLA BLAYA",
+                "LAURA INMACULADA SÁNCHEZ GARCIA",
+                "Arabela Anca SABANGEANU",
+                "Diego VIUDEZ PÉREZ",
+                "Fernando Jose SOLS CUETO",
+                "Kevin MARTINEZ CARROZA",
+                "OLALLA BENITO RODRIGUEZ",
+                "JULIA ARIÑO NOGUER",
+                "Diego DE CASTRO POLO",
+                "Gustavo Miguel RODRIGUEZ HIDALGO"
+            ],
+            "Local assistants": [
+                "Ruben Ignacio TEJEDOR CEMBRERO",
+                "Juan Sebastian RUIZ-CONSTANTINO FERNANDEZ",
+                "OLALLA BENITO RODRIGUEZ",
+                "David BERTRANS ROMAN"
+            ],
+            "Local assistants (grouping)": [
+                "Javier BALMASEDA DOMINGUEZ",
+                "Jose Manuel CALVO ROY",
+                "Maria HERNANDEZ JIMENEZ",
+                "David BERTRANS ROMAN",
+                "María José ARTUCH IRIBERRI",
+                "María José ARTUCH IRIBERRI",
+                "Jose Manuel CALVO ROY",
+                "Maria HERNANDEZ JIMENEZ",
+                "Luis Antonio LOPEZ LATORRE"
+            ],
+            "Paying agents": [
+                "OFICINA LEGAL GESTIO AMINISTRACIO EMPRESARIAL"
+            ],
+            "Service providers": [
+                "CONSEJO EUROPEO DE RELACIONES EXTERIORES",
+                "María José ARTUCH IRIBERRI",
+                "MARLOW INSIGHT SL",
+                "Luis Antonio LOPEZ LATORRE",
+                "INSTITUTO de COMUNICACION EMPRESARIAL SL",
+                "EYECC S.U.L. ECONOMIA Y ESTRATEGIA CONSULTING COM",
+                "Francisco LUPIANEZ VILLANUEVA",
+                "Luis Antonio LOPEZ LATORRE"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Thomas WAITZ",
+        "national_party": "Die Grünen - Die Grüne Alternative",
+        "group": "Group of the Greens/European Free Alliance",
+        "country": "Austria",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Yih-Chuen Ingeborg CHEN",
+                "Sara Marie STAENDER",
+                "Mona SEFEN",
+                "Ricarda Agnes PFINGSTL",
+                "Simon Philipp BAUER",
+                "Laura KRENZKE-WOHLFART"
+            ],
+            "Accredited assistants (grouping)": [
+                "Paying agents",
+                "MERKUR TAXAID WIRTSCHAFTSPRUFUNG"
+            ],
+            "Local assistants": [
+                "Ben DAGAN",
+                "Irmtraud SALZER",
+                "Paul SCHWARZL",
+                "Clara SCHWEIGHOFER",
+                "Agnes SIEBERTH",
+                "Gabriele WINDHAGER-ZORNIG",
+                "Antares REICH",
+                "Matea ZLATKOVIC",
+                "MATTHIAS STEFAN SCHROLL s"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "MERKUR TAXAID WIRTSCHAFTSPRUFUNG"
+            ],
+            "Service providers": [
+            ],
+            "Trainees": [
+                "Ricarda Agnes PFINGSTL",
+                "Frederik Aljoscha SALZGEBER"
+            ]
+        }
+    },
+    {
+        "name": "Adrián VÁZQUEZ LÁZARA",
+        "national_party": "Ciudadanos - Partido de la Ciudadanía",
+        "group": "Renew Europe Group (04.02.2020-16.06.2024), Group of the European People's Party (Christian Democrats) (17.06.2024-15.07.2024)",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Jorge VINUELAS GONZALEZ",
+                "Marc BERRUEZO AIS",
+                "Alberto GONZALEZ HERNANDEZ"
+            ],
+            "Accredited assistants (grouping)": [
+                "Aintzane CONESA PALACIOS",
+                "Marta CORTES CURRUBI",
+                "Antonio DE TORRE ALVAREZ",
+                "Laura ESTRELLA BLAYA",
+                "Kevin MARTINEZ CARROZA",
+                "Sebastian RODRIGUEZ PEREZ",
+                "Arabela Anca SABANGEANU",
+                "Fernando Jose SOLS CUETO",
+                "Javier BALMASEDA DOMINGUEZ",
+                "Juan Del Consuelo VADILLO GARCIA",
+                "Daniel BARDAVIO COLEBROOK",
+                "LAURA INMACULADA SÁNCHEZ GARCIA",
+                "Diego VIUDEZ PÉREZ",
+                "OLALLA BENITO RODRIGUEZ",
+                "JULIA ARIÑO NOGUER",
+                "Diego DE CASTRO POLO",
+                "Gustavo Miguel RODRIGUEZ HIDALGO"
+            ],
+            "Local assistants": [
+            ],
+            "Local assistants (grouping)": [
+                "Javier BALMASEDA DOMINGUEZ",
+                "Jose Manuel CALVO ROY",
+                "Maria HERNANDEZ JIMENEZ",
+                "David BERTRANS ROMAN",
+                "María José ARTUCH IRIBERRI",
+                "Luis Antonio LOPEZ LATORRE"
+            ],
+            "Paying agents": [
+                "OFICINA LEGAL GESTIO AMINISTRACIO EMPRESARIAL",
+                "LUX SALARIES SA"
+            ],
+            "Service providers": [
+                "BEBARTLET SL",
+                "Herwig HOFMANN"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Anders VISTISEN",
+        "national_party": "Dansk Folkeparti",
+        "group": "Identity and Democracy Group",
+        "country": "Denmark",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Jesper Groth SOGAARD",
+                "Marc Kevin Arildtoft MOER",
+                "Iranda CHAKI",
+                "Asger Pallisgaard JUHL",
+                "Kenneth Ettrup HANSEN"
+            ],
+            "Accredited assistants (grouping)": [
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "GOAUDIT Aps"
+            ],
+            "Service providers": [
+                "Mathias WEHRSDORF"
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Johan DANIELSSON",
+        "national_party": "Arbetarepartiet - Socialdemokraterna",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Sweden",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants (grouping)": [
+                "Sigrid Kristine BOE GANNEBY",
+                "Emma Kristina BRUNBERG",
+                "Staffan DAHL",
+                "Ulrika Anna Katarina EMANUELSSON",
+                "Elisabeth GEHRKE",
+                "Tobias Albin GHERSETTI FABIANSSON",
+                "Lars HAGBERG",
+                "Eva-Lena KAPANEN",
+                "Anders Albin NORDIN",
+                "Anna Maja NYGREN",
+                "Mats Andreas PERSSON",
+                "Khaled SAIBI TANDERUP",
+                "Petra Birgitta SODERQVIST",
+                "Helena STRANDBERG-LUTHI",
+                "Sandra Maria HULT",
+                "Agnes Joanna Mariadotter ABRAHAMSSON",
+                "Linnea Olivia MAGRO",
+                "Jonas Henrik ANDERSSON",
+                "Elin Ida Ottilia Birgitta LILIJENBLADH",
+                "Johan Bertil SJOELANDER",
+                "Frida RYBO",
+                "Alexander Lars Karl HOEGBERG",
+                "Darina AGHA",
+                "Lisa Marie ERKANDER",
+                "Robin Daniel PETTERSSON WAESCHE",
+                "Dagny Eloise JONSSON",
+                "Martin Nils Erik BROBERG",
+                "Lallo DARBO",
+                "Faezeh VEGHAR",
+                "Kalle Erik Zeferinus DRAMSTAD",
+                "Marcus Viktor Jose LINDEBERG GONI",
+                "Per Johan HILMERSSON",
+                "Mickey Andreas MAGNUSSON",
+                "Jens Jakob OHLSSON",
+                "Mimmi Maria Eleonor TOREHEIM",
+                "Edith Eleonora Martinsdotter PERMEN",
+                "Tove Amanda DAHLBERG",
+                "Rut Josefine Susanne KARLSSON"
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "GRY Revision och Redovisning AB"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Marie DAUCHY",
+        "national_party": "Rassemblement national",
+        "group": "Identity and Democracy Group",
+        "country": "France",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Thomas Jean-Baptiste O'LANYER-FERRY",
+                "Damien MONCHAU",
+                "Thibault Lucien Hugues ULRICH",
+                "Emmanuel BERNARD",
+                "FABIEN ERIC BRUNO MURADIAN"
+            ],
+            "Accredited assistants (grouping)": [
+                "Aude BRASTENHOFER"
+            ],
+            "Local assistants": [
+                "Valérie BOCHET",
+                "Jerome COCHET",
+                "Euryanthe MERCIER"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "Nicolas CROCHET"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Katarína ROTH NEVEĎALOVÁ",
+        "national_party": "SMER-Sociálna demokracia",
+        "group": "Non-attached Members",
+        "country": "Slovakia",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Lucia MAJERIKOVA",
+                "Nikola PAULOVICOVA"
+            ],
+            "Accredited assistants (grouping)": [
+                "Michal MOJTO"
+            ],
+            "Local assistants": [
+                "Michal OLSA",
+                "Jarmila ONDRISOVA"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+                "ES PRODUCTION s.r.o"
+            ],
+            "Service providers": [
+                "MC PublicRelations s.r.o."
+            ],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Thijs REUTEN",
+        "national_party": "Partij van de Arbeid",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "country": "Netherlands",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "Richard Jan Leonard HEIJNEN",
+                "Rosemarie Caroline LANKHORST",
+                "Una KUBOTA",
+                "Ids Willem Frederik BROUWER",
+                "Jelle JASPAR",
+                "SOPHIE CATHERINE EVÉ VAN DE WEG"
+            ],
+            "Accredited assistants (grouping)": [
+                "Roy BREEDERVELD",
+                "Ids Willem Frederik BROUWER",
+                "Richard Jan Leonard HEIJNEN",
+                "Sytske Susie JELLEMA",
+                "Frederieke JONGBLOED",
+                "Rosemarie Caroline LANKHORST",
+                "Laurens BOVEN",
+                "Jef VAN CLEYNENBREUGEL",
+                "Geert Henri Adriaan VAN DER VARST"
+            ],
+            "Local assistants": [
+                "Johannes Carolus Antonetta NEELEN"
+            ],
+            "Local assistants (grouping)": [
+                "Stefanie DE RUITER"
+            ],
+            "Paying agents": [
+                "TIMMERMANS ACCOUNTANCY"
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    },
+    {
+        "name": "Marina MESURE",
+        "national_party": "La France Insoumise",
+        "group": "The Left group in the European Parliament - GUE/NGL",
+        "country": "France",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [
+                "TAO CHERET",
+                "MEÏSSA BENOTMANE",
+                "Pierre-Philippe RICHARD"
+            ],
+            "Accredited assistants (grouping)": [
+                "Local assistants",
+                "Pauline SAUNIER"
+            ],
+            "Local assistants": [
+                "Pauline SAUNIER"
+            ],
+            "Local assistants (grouping)": [],
+            "Paying agents": [
+            ],
+            "Service providers": [],
+            "Trainees": []
+        }
+    }, 
+    {
+        "name": "Jorge BUXADÉ VILLALBA",
+        "national_party": "VOX ",
+        "group": "European Conservatives and Reformists Group",
+        "country": "Spain",
+        "date_scraped": "Scraped manually via Parltack",
+        "assistants": {
+            "Accredited assistants": [],
+            "Accredited assistants (grouping)": [
+                "Maria Paloma ADRADOS COART",
+                "Alonso DE MENDOZA ASENSI CARLES ISERTE JOVE", 
+                "Andres PORTA MONEDERO",
+                "Maria De Los Desamparados SALAMERO GONZALEZ",
+                "Manuel FRAGA PEDROCHE",
+                "CARLES ISERTE JOVE", 
+                "Pedro Raul NARRO SANCHEZ",
+                "Jaime HERNANDEZ ZUNIGA",
+                "Jose CADENAS RABAIXET",
+                "Juan BAYOD RODRIGO",
+                "Carles ISERTE JOVE", 
+                "Eduardo DESCARTIN DEHESA",
+                "Beatriz SANCHEZ MERINO", 
+                "Ivan DE VARGAS PAPADOPULOS", 
+                "Alonso DE MENDOZA ASENSI", 
+                "Maria del Rocio OYA NAVARRO",
+                "Arturo VILLARROYA GONZALEZ", 
+                "CARLOS CAMPILLO PEREZ",
+                "Jaime HERNANDEZ ZUNIGA", 
+                "Borja CUESTA BIOSCA", 
+                "Gaspar MAYOR TONDA", 
+                "Maria CHECA SESMERO", 
+                "Manuel FRAGA PEDROCHE", 
+                "Alvaro PAVON ROMERO",
+                "Pedro Raul NARRO SANCHEZ",
+                "Fernando Jose NUNEZ ROBRES PATINO", 
+                "Bibiana CARRETO PEREZ BARBADILLO",
+                "Maria CHECA SESMERO",
+                "Arturo VILLARROYA GONZÁLEZ"
+            ],
+            "Local assistants": [],
+            "Local assistants (grouping)": [
+                "Pablo ZUAZO PRADEL",
+                "Juan FONTAN LUCIO-VILLEGAS",
+                "Alfonso IRIARTE MUNOZ-SECA", 
+                "Nicolas GUTIÉRREZ SAIZ", 
+                "IGNACIO CAMPILLO PEREZ"
+            ],
+            "Paying agents (grouping)": [
+                "MAJER CONSULTING SL"
+            ],
+            "Service providers": [
+                "Oscar COROMINAS NOGAL", 
+                "ARENAS DE LA TINAJITA S.L."
+            ],
+            "Trainees": [
+                "Pablo PEREZ MERINO"
+            ]
+        }
+    }
+]
