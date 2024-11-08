@@ -1,0 +1,1788 @@
+IF in 9  & 10th parliament then find assistants manually (via ParlTrack) https://parltrack.org/meps
+
+
+1) 
+Name: Antonio LÓPEZ-ISTÚRIZ WHITE 
+National party: Partido Popular
+Group: Group of the European People's Party (Christian Democrats)
+Country: Spain
+Date scraped: https://parltrack.org/mep/28399/Antonio%20L%C3%93PEZ-IST%C3%9ARIZ%20WHITE#/history
+Accredited assistants
+-	Marta ENGUITA LOPEZ
+-	Juan SCHINAS ALVARGONZALEZ
+-	Luis Fernando BLANCO CORREIA
+-	Maite ZABALETA AGUIRRE
+-	José Diogo PIANO NUNES DOS SANTOS
+-	SARAI FERNÁNDEZ IGLESIAS
+Accredited assistants (grouping)
+-	Pedro MIELGO CIMAS
+-	Carlos Casimiro SALVADOR ARMENDARIZ
+-	Silvia HITOS 
+-	Beatriz CARO NIETO 
+-	Daniel ACKERMAN LANADO
+-	Almudena DOCAVO MUNIZ
+-	Emilio PUCCIO 
+-	Laura PASCUAL TRUJILLO
+-	Jesus GARCIA ALBERTI
+-	Carlos Casimiro SALVADOR ARMENDARIZ
+-	Carmen Macarena MARTINEZ MATEO
+Paying agents 
+-	GERBONSA Y ESCANDELL, S.L.
+Local assistants
+-	Nuria LISTA MATEOS
+-	Paloma DE GRANDES VELASQUEZ 
+Service providers
+-	BIGGER SERVICIOS DE COMUNICACION Y CONSULTORIA
+Trainees
+-	Paula Raboso
+
+2) 
+Name: Alicia HOMS GINEL 
+National party: Partido Socialista Obrero Español
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament 
+Country: Spain
+Date scraped: https://parltrack.org/mep/122978/Alicia%20HOMS%20GINEL#/history 
+Accredited assistants
+Accredited assistants (grouping)
+-	Laura BALLARIN CEREZA
+-	 Izaskun BERNAL CERDEIRA 
+-	Eduardo BLANCO BUZON 
+-	Irina DE SANCHO ALONSO 
+-	Ignacio Santiago DEL OLMO TEJERINA
+-	 Xose Anton DIOS MARINO 
+-	Jose Antonio ESPEJO GUTIERREZ 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Javier GALLEGO AMADOR 
+-	Maria Jesus GALLEGO ESTREMERA 
+-	Isabel GARCIA TAMARA 
+-	Magdalena GONZALEZ GOZALBO 
+-	Carla GONZALEZ RICARTE 
+-	Antonios KOSSYVAKIS 
+-	Juan Jose LOPEZ GOMEZ 
+-	Annika LOTSON LOPEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Mercedes MARISCAL CAMPOS
+-	 Maria Isabel MEIRELES DE ANDRADE 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Pablo PINTOS TOURINO 
+-	Maria Eugenia ROMANO MARTINEZ 
+-	Sonia Maria SANCHEZ GOMEZ 
+-	Eva Pilar SANJUAN GUERRERO 
+-	Maria Luisa SEVILLA ANDRADA 
+-	Marina SOLA GARCIA 
+-	Aranzazu TARAZONA HUERTA 
+-	Teresa VALLEJO MOLINA
+-	Daniel DIEZ CECILIA
+-	Naioa GARCES BLASCO 
+-	Julia GRACIA MATEOS 
+-	Carlos JOVANI GIL 
+-	Cristina Elena LAGO QUINTANS 
+-	Mario David LOPEZ OLIVA 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Josep/Pepe MERCADAL BAQUERO 
+-	Alejandro PEINADO GARCIA 
+-	Elena PEREDA LAGARTOS 
+-	JOAN SERRA MINGOT 
+-	Cristian VILLAR PRIETO 
+-	Maria Rosa PEREZ MONCLUS
+-	Maria Cristina GARCIA CARRERA
+-	Cristina MARTINEZ PEREZ
+-	Almudena MOLINA DELGADO
+-	Maria Magdalena GONZALEZ GOZALBO
+-	Celia RUIZ ALFONSEA
+-	Alberto BONDESIO MARTINEZ 
+-	Matteo REBESANI
+-	Carina Patricia GAETE LLANOS
+-	Joan SERRA MINGOT
+-	PAULA SENDIN RODRIGUEZ
+-	Alberto BONDESIO MARTINEZ
+-	Daniel DIEZ CECILIA
+-	Cristian VILLAR PRIETO
+-	Elena PEREDA LAGARTOS
+-	Josep MERCADAL BAQUERO
+-	Francisco Jose GALIAN TORRENTE
+-	Casilda MALDONADO TIRADO
+-	Alba Maria HUERTAS RUIZ
+-	Ana MARTINEZ SANJURJO
+-	Carmen MAGDALENA VALLEJO
+-	MEL RAVELO CORDOVES
+-	Ignacio Aitor DE LA PUERTA MARCO
+-	Nayra Maria PRADO MARRERO
+-	BLANCA SAENZ DE BURUAGA SANCHEZ
+-	Sergi PITARCH SANCHEZ
+-	Jaime Daniel DE FRUTOS GONZALEZ
+-	SILVIA LORENZO PEREZ
+-	Roi VILLAR VAZQUEZ
+-	Pilar RUIZ HUÉLAMO
+-	Victor Patricio DONATE PAVON
+-	AINA ARROM MAYOL
+-	ANA LÓPEZ GONZÁLEZ
+-	DIEGO FERNÁNDEZ CURESES
+-	Claudia MARTINEZ MUNOZ
+-	Rosa Maria BALAS TORRES
+-	MARIA MERCEDES GARCIA MUNOZ
+-	Marta CASARES LARA
+Paying agents 
+-	VELASCO ABOGADOS Y ASESORES, S.L
+Local assistants
+-	Estela GARCIA MARTINEZ
+-	Eduardo Antonio GIBERT DIAZ
+Service providers
+
+3) 
+Name: Alex AGIUS SALIBA  
+National party: Partit Laburista
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Malta
+Date scraped: https://parltrack.org/mep/197403/Alex%20AGIUS%20SALIBA#/history) 
+Accredited assistants
+-	Desislava DIMITROVA 
+-	Elena THEVISSEN
+Accredited assistants (grouping)
+Paying agents 
+-	SWK AUDIT LIMITED
+Local assistants
+-	Christine-Marie CATANIA BONELLO
+-	Noel AGIUS
+-	Giovanni MERCIECA
+-	Maria MICALLEF
+-	Albert PACE
+-	Darren GRECH
+-	Joseph MANGION
+-	Alfred MICALLEF
+-	Nico MUSCAT
+-	Raisa BUGEJA
+-	Rodrick ZERAFA
+-	Jennifer MAGRI
+-	Nathan MCKAY 
+-	Stephen FARRUGIA
+-	Kimberly ABELA AXISA
+-	Albert PACE
+
+Service providers
+-	RED AGENCY LTD
+-	CACTI Limited
+-	ANTILIA LTD
+
+4) 
+Name: Catherine GRISET
+National party: Rassemblement national
+Group: Identity and Democracy Group
+Country: France
+date scraped: https://parltrack.org/mep/94649/Catherine%20GRISET#/history
+Accredited assistants
+-	Audrey Simone 
+-	Jacqueline DAYMARD 
+-	Adrien Arnaud PIEROTTI
+-	Luc LAHALLE
+Accredited assistants (grouping)
+-	Aude BRASTENHOFER
+Paying agents 
+Local assistants
+Service providers
+
+5) 
+Name: Christophe CLERGEAU 
+National party: Parti socialiste
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: France
+date scraped: https://parltrack.org/mep/245018/Christophe%20CLERGEAU#/history) 
+Accredited assistants
+-	Cecilia GONDARD
+-	Frederic COURLEUX
+-	RÉMI ALEXIS CLÉMENT CARTON
+Accredited assistants (grouping)
+-	Maxime Charles-Albert Francois HERRMANN
+Paying agents 
+-	LIMONGI EXPERTISE Sarl
+Local assistants
+-	Monique DAUBIER
+-	Nicolas ROBIN
+Service providers
+-	COMMUN E S
+-	FOTSO PHILIPPE
+-	IRIS
+Trainees 
+-	Louison VILLEMAIN
+
+6)
+Name: Cristina MAESTRE 
+National party: Partido Socialista Obrero Español
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Spain
+date scraped: Sep 22 2019
+Accredited assistants (grouping)  
+•	Laura BALLARIN CEREZA   
+•	Eduardo BLANCO BUZON   
+•	Irina DE SANCHO ALONSO   
+•	Ignacio Santiago DEL OLMO TEJERINA   
+•	Daniel DIEZ CECILIA   
+•	Xose Anton DIOS MARINO   
+•	Jose Antonio ESPEJO GUTIERREZ   
+•	Ana Isabel ESTEBAN TORTOLA   
+•	Francisco Javier GALLEGO AMADOR   
+•	Maria Jesus GALLEGO ESTREMERA   
+•	Naioa GARCES BLASCO   
+•	Maria Cristina GARCIA CARRERA   
+•	Isabel GARCIA TAMARA   
+•	Maria Magdalena GONZALEZ GOZALBO   
+•	Carla GONZALEZ RICARTE   
+•	Julia GRACIA MATEOS   
+•	Carlos JOVANI GIL   
+•	Cristina Elena LAGO QUINTANS   
+•	Juan Jose LOPEZ GOMEZ   
+•	Mario David LOPEZ OLIVA   
+•	Annika LOTSON LOPEZ   
+•	Andrea MACEIRAS CASTRO   
+•	Mercedes MARISCAL CAMPOS   
+•	Maria Del Carmen MARTINEZ BELMONTE   
+•	Cristina MARTINEZ PEREZ   
+•	Maria Isabel MEIRELES DE ANDRADE   
+•	Josep MERCADAL BAQUERO   
+•	Maria Lourdes MINCHOT BALLARIN   
+•	Almudena MOLINA DELGADO   
+•	Alejandro PEINADO GARCIA   
+•	Elena PEREDA LAGARTOS   
+•	Maria Rosa PEREZ MONCLUS   
+•	Pablo PINTOS TOURINO   
+•	Maria Eugenia ROMANO MARTINEZ   
+•	Sonia Maria SANCHEZ GOMEZ   
+•	Eva Pilar SANJUAN GUERRERO   
+•	JOAN SERRA MINGOT   
+•	Maria Luisa SEVILLA ANDRADA   
+•	Marina SOLA GARCIA   
+•	Aranzazu TARAZONA HUERTA   
+•	Teresa VALLEJO MOLINA   
+•	Cristian VILLAR PRIETO 
+
+7) 
+Name: Diana RIBA I GINER 
+National party: Esquerra Republicana de Catalunya
+Group: Group of the Greens/European Free Alliance
+Country: Spain
+date scraped: https://parltrack.org/mep/197832/Diana%20RIBA%20I%20GINER#/history
+Accredited assistants
+-	Sergio ZORRILLA CUBELLS
+-	Raquel Marta CORREA DOMENECH
+-	Max SALLENT REGOLA
+-	Xiomara Alejandra VILLA PEREZ
+-	Griselda BALLESTER I TATARET
+Accredited assistants (grouping)
+-	Oriol CASES VILA
+-	Benjamin FEYEN
+-	Maria Teresa VALLVERDU ALBORNA
+Paying agents 
+-	MES ADVOCATS I GESTIO SLP
+Local assistants
+-	Sergio Martinez Perez
+-	Helena Castella Duran
+-	Adam-Jacint ALBERTMORROS
+-	Didac PEREZ LOPEZ
+Local assistants (grouping)
+-	Maria Teresa VALLVERDU ALBORNA
+-	Adam-Jacint ALBERTMORROS
+Service providers
+-	Beatrice DUODU
+-	ACTIVA AUDITORIA & CONSULTORIA
+
+8) 
+Name: Esteban GONZÁLEZ PONS 
+National party: Partido Popular
+Group: Group of the European People's Party (Christian Democrats)
+Country: Spain
+date scraped: https://parltrack.org/mep/125027/Esteban%20GONZ%C3%81LEZ%20PONS#/history) 
+Accredited assistants
+-	Carlos FERNANDEZ OJEA
+-	Miguel TORNOS NAVARRO
+-	Konstantinos MITSOTAKIS
+-	Carmen Macarena MARTINEZ MATEO
+-	Lara Maria GOMEZ FERNANDEZ
+Accredited assistants (grouping)
+-	Carlos FERNANDEZ OJEA
+-	Silvia HITOS
+-	Manuel FRAGA PEDROCHE
+-	Francisco De Borja GIMENEZ LARRAZ
+-	Pedro MIELGO CIMAS
+-	Maria Yolanda PEREZ TOVAR 
+-	Carlos Casimiro SALVADOR ARMENDARIZ
+-	Silvia HITOS
+-	Beatriz CARO NIETO
+-	Daniel ACKERMAN LANADO
+-	Almudena DOCAVO MUNIZ
+-	Laura PASCUAL TRUJILLO
+-	Jesus GARCIA ALBERTI
+Paying agents 
+-	GB ASESORES
+-	GERBONSA Y ESCANDELL, S.L.
+Local assistants
+-	Maria CARRAU GINER
+-	MARIA BLANCA MATO PICARDO
+Service providers
+-	GB ASESORES
+-	METROPOLIS COMUNICACION, SL
+
+9) 
+Name: Francisco José MILLÁN MON 
+National party: Partido Popular
+Country: Spain
+Group: Group of the European People's Party (Christian Democrats)
+date scraped: https://parltrack.org/mep/28400/Francisco%20Jos%C3%A9%20MILL%C3%81N%20MON#/history
+Accredited assistants
+-	Maria Inmaculada IBANEZ LANA
+-	Arturo ESCLARIN ORTIZ
+-	MARIA MASEDA VARELA
+-	PABLO GOMEZ CEDRON
+-	Aida FERREIRO AMIL
+-	Alberto ESCOBAR RIVAS
+-	MARIA MASEDA VARELA
+Accredited assistants (grouping)
+-	Pedro MIELGO CIMAS
+-	Carlos Casimiro SALVADOR ARMENDARIZ
+-	Silvia HITOS
+-	Konstantinos KALAMANTIS
+-	Beatriz CARO NIETO
+-	Daniel ACKERMAN LANADO
+-	Almudena DOCAVO MUNIZ
+-	Laura PASCUAL TRUJILLO
+-	Jesus GARCIA ALBERTI
+-	Carlos Casimiro SALVADOR ARMENDARIZ
+-	Carmen Macarena MARTINEZ MATEO
+Paying agents 
+Local assistants
+Service providers
+
+10) 
+Name: Georg MAYER 
+National party: Freiheitliche Partei Österreichs
+Group: Identity and Democracy Group
+Country: Austria
+dates scraped: https://parltrack.org/mep/38511/Georg%20MAYER#/history
+Accredited assistants
+-	Clariana Veronica TORRES MATHEOLI
+-	Natalia MEUTHEN-ZVEKIC
+Accredited assistants (grouping)
+-	Gerald BERTL
+-	LUKAS STICKROTH
+-	Nadja Sophie FASSER
+Paying agents 
+-	E.C.A. MAG. PICHLER
+-	WTG Dr. Reinold - Mag. Veith Steuerberatungs GmbH
+Paying agents (grouping) 
+-	Kirstin STANZEL
+-	WTG Dr. Reinold - Mag. Veith Steuerberatungs GmbH
+Local assistants
+-	Kerstin Elisabeth FASCHING
+-	Rosemarie FIEDLER
+-	Herwig KAHLER
+-	Christian MEERAUS
+-	Rosemarie BRANDL
+-	Katharina VILIMSKY
+-	Sabrina KUNASEK
+-	Kerstin Elisabeth KÖNIG (EX FASCHING)
+Local assistants (grouping) 
+-	Teresa Barbara SCHRÖDER
+-	Sabrina KUNASEK
+-	Anna Sophie GROISS
+-	Alessandro KOPETER
+Service providers
+-	Jurgen ANGERER
+-	Franz Obermayr
+Trainees 
+-	Maximilian SCHARFENBERG
+-	Johannes Fabian KOLODZIEJ
+-	Katharina VILIMSKY
+-	Alwin SCHUEN
+
+11) 
+Name: Gerolf ANNEMANS
+National party: Vlaams Belang
+Group: Identity and Democracy Group
+Country: Belgium 
+date scraped: https://parltrack.org/mep/124973/Gerolf%20ANNEMANS#/history
+Accredited assistants
+-	Jan Gabrielle D MORTELMANS
+Accredited assistants (grouping)
+-	Erland PISON
+-	Brieuc Paul A SUYS
+-	Ralf Alexander VAN DEN HAUTE
+-	Arn BERGHMANS
+-	Gilles Willy B SEGERS
+-	Monia ALBERTINI
+-	Lode Maria C VEREECK
+-	BERNARD JOSEPH CAMIEL DEPOURCQ
+-	ROBIN GOUWY
+Paying agents 
+Local assistants
+Service providers
+
+12)
+Name: Iratxe GARCÍA PÉREZ 
+National party: Partido Socialista Obrero Español
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Spain 
+Date scraped: https://parltrack.org/mep/28298/Iratxe%20GARC%C3%8DA%20P%C3%89REZ#/history) 
+Accredited assistants
+-	Magdalena GONZALEZ GOZALBO
+-	Mercedes MARISCAL CAMPOS
+-	Lucia MELLADO CALDERON
+Accredited assistants (grouping)
+-	Izaskun BERNAL CERDEIRA
+-	Judit CANAS FERNANDEZ
+-	Eduardo BLANCO BUZON
+-	Xose Anton DIOS MARINO 
+-	Jose Antonio ESPEJO GUTIERREZ 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Maria Trinidad NOGUERA GRACIA 
+-	Adrian REINA HURTADO 
+-	Isabel GARCIA TAMARA 
+-	Magdalena GONZALEZ GOZALBO 
+-	Carla GONZALEZ RICARTE 
+-	Antonios KOSSYVAKIS 
+-	Juan Jose LOPEZ GOMEZ 
+-	Pablo PINTOS TOURINO 
+-	Sonia Maria SANCHEZ GOMEZ 
+-	Eva Pilar SANJUAN GUERRERO 
+-	Maria Luisa SEVILLA ANDRADA 
+-	Marina SOLA GARCIA 
+-	Aranzazu TARAZONA HUERTA 
+-	Cristina Elena LAGO QUINTANS 
+-	Mario David LOPEZ OLIVA 
+-	Maria Rosa PEREZ MONCLUS 
+-	Maria Cristina GARCIA CARRERA 
+-	Almudena MOLINA DELGADO 
+-	Izaskun BERNAL CERDEIRA 
+-	Matteo REBESANI 
+-	Carina Patricia GAETE LLANOS 
+-	Laura BALLARIN CEREZA 
+-	Mercedes MARISCAL CAMPOS 
+-	Joan SERRA MINGOT 
+-	PAULA SENDIN RODRIGUEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Annika LOTSON LOPEZ 
+-	Alberto BONDESIO MARTINEZ 
+-	Daniel DIEZ CECILIA 
+-	Josep MERCADAL BAQUERO 
+-	Elena PEREDA LAGARTOS 
+-	Cristian VILLAR PRIETO 
+-	Francisco Jose GALIAN TORRENTE 
+-	Casilda MALDONADO TIRADO 
+-	Alba Maria HUERTAS RUIZ 
+-	Irina DE SANCHO ALONSO 
+-	Ana MARTINEZ SANJURJO 
+-	Carmen MAGDALENA VALLEJO 
+-	MEL RAVELO CORDOVES 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Nayra Maria PRADO MARRERO 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Sergi PITARCH SANCHEZ 
+-	Teresa VALLEJO MOLINA 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Carmen MAGDALENA VALLEJO 
+-	Naioa GARCES BLASCO 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Carlos JOVANI GIL 
+-	Nayra Maria PRADO MARRERO 
+-	Silvia LORENZO PEREZ 
+-	Roi VILLAR VAZQUEZ 
+-	Victor Patricio DONATE PAVON 
+-	SILVIA LORENZO PEREZ 
+-	MEL RAVELO CORDOVES 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Pilar RUIZ HUÉLAMO 
+-	Paula SENDIN RODRIGUEZ 
+-	Daniel DIEZ CECILIA 
+-	AINA ARROM MAYOL 
+-	ANA LÓPEZ GONZÁLEZ 
+-	Julia GRACIA MATEOS 
+-	DIEGO FERNÁNDEZ CURESES 
+-	Roi VILLAR VAZQUEZ 
+-	Ana MARTINEZ SANJURJO 
+-	Claudia MARTINEZ MUNOZ 
+-	Rosa Maria BALAS TORRES 
+-	Victor Patricio DONATE PAVON 
+-	Alberto BONDESIO MARTINEZ 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	MARIA MERCEDES GARCIA MUNOZ 
+-	Celia RUIZ ALFONSEA 
+-	Marta CASARES LARA 
+-	Cristina MARTINEZ PEREZ 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Blanca SAENZ DE BURUAGA SANCHEZ 
+-	Paula SENDÍN RODRIGUEZ 
+-	MARTA CASARES LARA 
+Paying agents (grouping) 
+-	VELASCO ABOGADOS Y ASESORES, S.L
+Local assistants (grouping) 
+-	Filomena AMOR MERINO
+-	Javier BALLINA DIAZ
+-	Natalia CERA BREA
+-	Araceli Ladera Diaz Chiron
+-	Alejandro PEINADO GARCIA
+-	Maria Del Pilar RUIZ SANCHEZ
+-	Jose Luis SARDINA GARCIA
+-	JOAN SERRA MINGOT
+Service providers
+
+13) 
+Name: Isabel BENJUMEA BENJUMEA 
+National party: Partido Popular
+Group: Group of the European People's Party (Christian Democrats)
+Country: Spain
+date scraped: https://parltrack.org/mep/197679/Isabel%20BENJUMEA%20BENJUMEA#/history)
+Accredited assistants
+-	Carmen Isolina EGEA GUTIERREZ CORTINES
+-	Yolanda Maria GONZALEZ SANCHEZ 
+-	Teresa VILLA GOMEZ 
+-	ANTONIO DELGADO MUÑOZ 
+-	RAFAEL HERACLIO LOPEZ JIMENEZ 
+-	
+Accredited assistants (grouping)
+-	Jesus GARCIA ALBERTI 
+-	Silvia HITOS 
+-	Elena MARTIN ALONSO
+-	 Teresa VILLA GOMEZ
+-	Pedro MIELGO CIMAS 
+-	Carlos Casimiro SALVADOR ARMENDARIZ 
+-	Silvia HITOS 
+-	Beatriz CARO NIETO 
+-	Daniel ACKERMAN LANADO 
+-	Almudena DOCAVO MUNIZ 
+-	Laura PASCUAL TRUJILLO 
+-	Pedro MIELGO CIMAS 
+-	Jesus GARCIA ALBERTI 
+-	Carlos Casimiro SALVADOR ARMENDARIZ 
+-	Carmen Macarena MARTINEZ MATEO 
+-	Theophile Jean Marie JOURDAIN DE MUIZON 
+Paying agents 
+-	CONSULTING ECONOMISTAS CENTRAL SL
+-	CE CONSULTING EMPRESARIAL ESPANA S.L (Ex-3905) 
+-	GERBONSA Y ESCANDELL, S.L. 
+
+Local assistants
+-	David GONZALEZ MEDINA
+-	Mariana Carolina SUAREZ ULLOA 
+Service providers
+
+14) 
+Name: Javier MORENO SÁNCHEZ
+National party: Partido Socialista Obrero Español
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Spain
+date scraped: https://parltrack.org/mep/28347/Javier%20MORENO%20S%C3%81NCHEZ#/history) 
+Accredited assistants
+Accredited assistants (grouping)
+-	Daniel DIEZ CECILIA
+-	Naioa GARCES BLASCO 
+-	Julia GRACIA MATEOS 
+-	Carlos JOVANI GIL 
+-	Cristina Elena LAGO QUINTANS 
+-	Mario David LOPEZ OLIVA 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Josep MERCADAL BAQUERO 
+-	Alejandro PEINADO GARCIA 
+-	Elena PEREDA LAGARTOS 
+-	JOAN SERRA MINGOT 
+-	Cristian VILLAR PRIETO 
+-	Maria Rosa PEREZ MONCLUS 
+-	Maria Cristina GARCIA CARRERA 
+-	Cristina MARTINEZ PEREZ 
+-	Almudena MOLINA DELGADO 
+-	Izaskun BERNAL CERDEIRA 
+-	Antonios KOSSYVAKIS 
+-	Maria Magdalena GONZALEZ GOZALBO 
+-	Alberto BONDESIO MARTINEZ 
+-	Celia RUIZ ALFONSEA 
+-	Matteo REBESANI 
+-	Carina Patricia GAETE LLANOS 
+-	Laura BALLARIN CEREZA 
+-	Eduardo BLANCO BUZON 
+-	Mercedes MARISCAL CAMPOS 
+-	PAULA SENDIN RODRIGUEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Annika LOTSON LOPEZ 
+-	Alberto BONDESIO MARTINEZ 
+-	Daniel DIEZ CECILIA 
+-	Josep/Pepe MERCADAL BAQUERO 
+-	Elena PEREDA LAGARTOS 
+-	Cristian VILLAR PRIETO 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Jose GALIAN TORRENTE 
+-	Casilda MALDONADO TIRADO 
+-	Alba Maria HUERTAS RUIZ 
+-	Irina DE SANCHO ALONSO 
+-	Ana MARTINEZ SANJURJO 
+-	Carmen MAGDALENA VALLEJO 
+-	MEL RAVELO CORDOVES 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Nayra Maria PRADO MARRERO 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Sergi PITARCH SANCHEZ 
+-	Teresa VALLEJO MOLINA 
+-	Carla GONZALEZ RICARTE 
+-	Naioa GARCES BLASCO 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Carlos JOVANI GIL 
+-	Nayra Maria PRADO MARRERO 
+-	SILVIA LORENZO PEREZ 
+-	Roi VILLAR VAZQUEZ 
+-	Victor Patricio DONATE PAVON 
+-	Silvia LORENZO PEREZ 
+-	Mel RAVELO CORDOVES 
+-	Pilar RUIZ HUÉLAMO 
+-	Blanca SAENZ DE BURUAGA SANCHEZ 
+-	Paula SENDIN RODRIGUEZ 
+-	Daniel DIEZ CECILIA 
+-	AINA ARROM MAYOL 
+-	Julia GRACIA MATEOS 
+-	ANA LÓPEZ GONZÁLEZ 
+-	DIEGO FERNÁNDEZ CURESES 
+-	Julia GRACIA MATEOS 
+-	Roi VILLAR VAZQUEZ 
+-	Ana MARTINEZ SANJURJO 
+-	CLAUDIA MARTÍNEZ MUÑOZ 
+-	Rosa Maria BALAS TORRES 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Alberto BONDESIO MARTINEZ 
+-	MARIA MERCEDES GARCIA MUNOZ 
+-	Silvia LORENZO PEREZ 
+-	Celia RUIZ ALFONSEA 
+-	Marta CASARES LARA 
+-	Cristina MARTINEZ PEREZ 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	MARIA MERCEDES GARCIA MUÑOZ 
+-	Paula SENDÍN RODRIGUEZ 
+-	
+Paying agents 
+Local assistants
+Service providers
+
+15) 
+Name: Johan VAN OVERTVELDT
+National party: Nieuw-Vlaamse Alliantie 
+Group: European Conservatives and Reformists Group 
+Country: Belgium
+date scraped: https://parltrack.org/mep/125106/Johan%20VAN%20OVERTVELDT#/history
+Accredited assistants
+-	Ann Marie Therese PINCKET 
+-	Filip Alma A DURANT 
+-	Caroline Charlotte F DUJACQUIER 
+-	Mathieu Marc Pierre VUYLSTEKE 
+-	Katrien UYTTERSPROT 
+Accredited assistants (grouping)
+Paying agents 
+Local assistants
+Service providers
+Name: Jorge BUXADÉ VILLALBA 
+Country: Spain
+Group: Patriots for Europe Group
+date scraped: https://parltrack.org/mep/197829/Jorge%20BUXAD%C3%89%20VILLALBA#/history) 
+Accredited assistants
+Accredited assistants (grouping)
+-	Maria Paloma ADRADOS COART 
+-	Alonso DE MENDOZA ASENSI CARLES ISERTE JOVE 
+-	Andres PORTA MONEDERO 
+-	Maria De Los Desamparados SALAMERO GONZALEZ
+-	Manuel FRAGA PEDROCHE 
+-	CARLES ISERTE JOVE 
+-	Pedro Raul NARRO SANCHEZ 
+-	Jaime HERNANDEZ ZUNIGA 
+-	Jose CADENAS RABAIXET 
+-	Juan BAYOD RODRIGO 
+-	Carles ISERTE JOVE 
+-	Eduardo DESCARTIN DEHESA 
+-	Beatriz SANCHEZ MERINO 
+-	Ivan DE VARGAS PAPADOPULOS 
+-	Alonso DE MENDOZA ASENSI 
+-	Maria del Rocio OYA NAVARRO 
+-	Arturo VILLARROYA GONZALEZ 
+-	CARLOS CAMPILLO PEREZ 
+-	Jaime HERNANDEZ ZUNIGA 
+-	Borja CUESTA BIOSCA 
+-	Gaspar MAYOR TONDA 
+-	Maria CHECA SESMERO 
+-	Manuel FRAGA PEDROCHE 
+-	Alvaro PAVON ROMERO 
+-	Pedro Raul NARRO SANCHEZ 
+-	Fernando Jose NUNEZ ROBRES PATINO 
+-	Bibiana CARRETO PEREZ BARBADILLO 
+-	Maria CHECA SESMERO 
+-	Arturo VILLARROYA GONZÁLEZ 
+-	
+Paying agents (grouping) 
+-	MAJER CONSULTING SL
+Local assistants(grouping)
+-	Pablo ZUAZO PRADEL
+-	Juan FONTAN LUCIO-VILLEGAS
+-	Alfonso IRIARTE MUNOZ-SECA 
+-	Nicolas GUTIÉRREZ SAIZ 
+-	IGNACIO CAMPILLO PEREZ 
+Service providers
+-	Oscar COROMINAS NOGAL
+-	ARENAS DE LA TINAJITA S.L. 
+Trainees 
+-	Pablo PEREZ MERINO
+
+16) 
+Name: Juan Fernando LÓPEZ AGUILAR 
+National party: Partido Socialista Obrero Español
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Spain
+date scraped: https://parltrack.org/mep/96812/Juan%20Fernando%20L%C3%93PEZ%20AGUILAR#/history) 
+Accredited assistants
+Accredited assistants (grouping)
+-	Daniel DIEZ CECILIA 
+-	Naioa GARCES BLASCO 
+-	Julia GRACIA MATEOS 
+-	Carlos JOVANI GIL 
+-	Cristina Elena LAGO QUINTANS 
+-	Mario David LOPEZ OLIVA 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Josep MERCADAL BAQUERO 
+-	Alejandro PEINADO GARCIA 
+-	Elena PEREDA LAGARTOS 
+-	JOAN SERRA MINGOT 
+-	Cristian VILLAR PRIETO 
+-	Maria Rosa PEREZ MONCLUS 
+-	Maria Cristina GARCIA CARRERA 
+-	Cristina MARTINEZ PEREZ
+-	Almudena MOLINA DELGADO 
+-	Izaskun BERNAL CERDEIRA 
+-	Antonios KOSSYVAKIS 
+-	Maria Magdalena GONZALEZ GOZALBO 
+-	Alberto BONDESIO MARTINEZ 
+-	Celia RUIZ ALFONSEA 
+-	Matteo REBESANI 
+-	Carina Patricia GAETE LLANOS 
+-	Laura BALLARIN CEREZA 
+-	Eduardo BLANCO BUZON 
+-	Mercedes MARISCAL CAMPOS 
+-	PAULA SENDIN RODRIGUEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Annika LOTSON LOPEZ 
+-	Alberto BONDESIO MARTINEZ 
+-	Daniel DIEZ CECILIA 
+-	Josep MERCADAL BAQUERO 
+-	Cristian VILLAR PRIETO 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Jose GALIAN TORRENTE 
+-	Casilda MALDONADO TIRADO 
+-	Alba Maria HUERTAS RUIZ 
+-	Irina DE SANCHO ALONSO 
+-	Ana MARTINEZ SANJURJO 
+-	Carmen MAGDALENA VALLEJO 
+-	MEL RAVELO CORDOVES 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Nayra Maria PRADO MARRERO 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Sergi PITARCH SANCHEZ 
+-	Teresa VALLEJO MOLINA 
+-	Carla GONZALEZ RICARTE 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	SILVIA LORENZO PEREZ 
+-	Roi VILLAR VAZQUEZ 
+-	Daniel DIEZ CECILIA 
+-	AINA ARROM MAYOL 
+-	Julia GRACIA MATEOS 
+-	ANA LÓPEZ GONZÁLEZ 
+-	Pilar RUIZ HUÉLAMO 
+-	DIEGO FERNÁNDEZ CURESES 
+-	Roi VILLAR VAZQUEZ 
+-	Pepe MERCADAL BAQUERO 
+-	ANA LÓPEZ GONZÁLEZ 
+-	Ana MARTINEZ SANJURJO 
+-	Claudia MARTINEZ MUNOZ 
+-	DIEGO FERNÁNDEZ CURESES 
+-	Rosa Maria BALAS TORRES 
+-	Victor Patricio DONATE PAVON 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Alberto BONDESIO MARTINEZ 
+-	Carmen CELAYA MARTIN 
+-	MARIA MERCEDES GARCIA MUNOZ 
+-	Silvia LORENZO PEREZ 
+-	Celia RUIZ ALFONSEA 
+-	Marta CASARES LARA 
+-	Cristina MARTINEZ PEREZ 
+-	Carmen CELAYA MARTIN 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Paula SENDÍN RODRIGUEZ 
+-	MARTA CASARES LARA 
+Paying agents 
+Local assistants
+Service providers
+
+
+17) 
+Name: Juan Ignacio ZOIDO ÁLVAREZ
+National party: Partido Popular
+Group: Group of the European People's Party (Christian Democrats)
+Country: Spain 
+data scraped: https://parltrack.org/mep/197621/Juan%20Ignacio%20ZOIDO%20%C3%81LVAREZ#/history 
+Accredited assistants
+-	Inmaculada MATEOS BUENDIA
+-	David BARRANCOS LARRAYOZ 
+-	Bonnie Alejandra RAMIREZ POVEDA 
+Accredited assistants (grouping)
+-	Jesus GARCIA ALBERTI
+-	Silvia HITOS
+-	Elena MARTIN ALONSO
+-	Pedro MIELGO CIMAS 
+-	Carlos Casimiro SALVADOR ARMENDARIZ 
+-	Silvia HITOS 
+-	Beatriz CARO NIETO 
+-	Daniel ACKERMAN LANADO 
+-	Almudena DOCAVO MUNIZ 
+-	Laura PASCUAL TRUJILLO 
+-	Jesus GARCIA ALBERTI 
+-	Carlos Casimiro SALVADOR ARMENDARIZ 
+-	Carmen Macarena MARTINEZ MATEO 
+Paying agents 
+-	OGC TRIBUTARISTAS ASOCIADOS S.L.
+Local assistants
+-	Ignacio Javier CLEMENTE SIERRO
+-	Miriam HUESCAR LOPEZ
+Service providers
+-	REBELLIOUS WORDS S.L.
+-	EVERCOM COMUNICACION Y RELACIONES PUBLICAS SL 
+-	Fernado MATRES PAREJO 
+-	Santiago MARTINES VARES GIGLIOTTI
+
+17) 
+Name: Kathleen VAN BREMPT 
+National party: Socialistische Partij.Anders (2019-2021), Vooruit (2021-2024)
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Belgium
+date scraped: https://parltrack.org/mep/5729/Kathleen%20VAN%20BREMPT#/history
+Accredited assistants
+-	Lais Daisy W DE RYNCK 
+-	Louise Mieke F. DE TREMERIE 
+-	Tessa GEUDENS 
+-	Maxine Elisabeth L DETAELLENAERE 
+-	Jan DE ZUTTER 
+-	Rose BAGUDU 
+-	Gloria Leona I GHEQUIERE 
+-	Siebe JONCKHEERE 
+-	Niels Rik GHEYLE 
+-	Nathalie Dorien VANVELTHOVEN 
+Accredited assistants (grouping)
+Paying agents 
+-	MC ACCOUNTING BVBA
+Local assistants
+-	Louise Mieke F. DE TREMERIE
+Service providers
+•	UNIVERSITEIT GENT
+•	VAN BAEL AND BELLIS
+•	WOORDPOOL COMM V
+
+18)
+Name: Kim VAN SPARRENTAK 
+National party: GroenLinks
+Group: Group of the Greens/European Free Alliance
+Country: Netherlands
+date scraped: https://parltrack.org/mep/197870/Kim%20VAN%20SPARRENTAK#/history
+Accredited assistants
+Accredited assistants (grouping)
+-	Ruben Vincent ROBBESOM
+-	Reinhard Cornelis DEN TOOM 
+-	Linde HAVEN 
+-	Vincent HURKENS 
+-	Ilse Elisabeth Anne Maria PLOEGMAKERS 
+-	Jeroen STEEMAN 
+-	Julia Sophie VERHEUL 
+-	Myrthe Susanne Johanna Maria BOVENDEAARD 
+-	Wout VAN CAIMERE 
+-	Lowie Zeno KOK 
+-	Meike Maria Euphemia VEDDER 
+-	Simona Wilhelmina Ida DE HEER 
+-	LISA FARAI DE SMET 
+-	Linde HAVEN 
+-	Bram Pieter VAN DEN GROENENDAAL 
+-	MARGRIETHA JOHANNA KRIJGER 
+-	JOB MOLENAAR 
+-	Julia Sophie VERHEUL 
+-	Marieke VREEKEN 
+-	ARYAAN ANNABELLE BOVENBERG 
+-	Bruno Miguel PIRES CHAMBEL 
+-	Linde ROZEMEIJER 
+-	Petra KURTOVIC 
+-	Wander Jeroen Joost WAALS 
+-	Aryaan Annabelle BOVENBERG 
+-	Lisa Farai DE SMET 
+-	Maarten Anton Johannes KAVELAARS 
+Paying agents (grouping)
+-	ZWEERS WIJBENGA
+-	Wilhelmina Maria Tafadzwa VAN LEEUWEN 
+Local assistants (grouping) 
+-	Mirjam TIEMS
+-	Maarten Anton Johannes KAVELAARS 
+-	Wilhelmina Maria Tafadzwa VAN LEEUWEN 
+Service providers
+-	Mariana GKLIATI
+-	Lianne VAN DER LEE
+
+19)
+Name: Konstantinos ARVANITIS
+National party: Coalition of the Radical Left  
+Country: Greece
+Group: The Left group in the European Parliament - GUE/NGL
+date scraped: https://parltrack.org/mep/197701/Konstantinos%20ARVANITIS?history_filter=#/history
+Accredited assistants
+-	Georgios FRANTZESKAKIS
+-	Pandora DIMANOPOULOU 
+-	Myrto KAVVADIA 
+-	Oufouk MOUSTAFA 
+-	Ioannis VLACHOS 
+-	
+Accredited assistants (grouping)
+Paying agents 
+-	COMPUTAX PRO I.GOUMAS&SYNERGATES O.E.
+-	
+Local assistants
+-	Antonios KERAMYDAS
+-	Alexandra ALEXANDROPOULOU 
+-	Dionysia Alexia ANAGNOSTELLI 
+-	Olga NASSI 
+-	Tatiana EGKOROVA 
+-	Dionysia-Alexia ANAGNOSTELLI 
+-	Erasmia TSIPOU 
+-	Fotoula KALPAKI 
+-	Sofiola BOUNTA 
+-	Olga NASSI 
+-	
+Service providers
+
+20) 
+Name: Krzysztof BREJZA
+National party: Platforma Obywatelska
+Country: Poland 
+Group: Group of the European People's Party (Christian Democrats) 
+data scraped: https://parltrack.org/mep/251324/Krzysztof BREJZA#/history
+Accredited assistants
+-	Alexandre Laurent Angelo DEPARTOUT
+Accredited assistants (grouping)
+-	Jakub KARWANSKI
+Paying agents 
+-	Pawel JAROMIN
+Local assistants
+-	Patryk KAZMIERCZAK
+-	Janislaw KOWALSKI
+-	Elzbieta Magdalena WISNIEWSKA 
+-	Julia RATAJCZAK 
+-	Piotr DRAZEK 
+-	Wiktoria RADULSKA 
+-	
+Service providers
+-	Kaja Magdalena BEIFUS
+
+21)
+Name: Laura BALLARÍN CEREZA
+National party: Partido Socialista Obrero Español  
+Country: Spain 
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+date scraped: https://parltrack.org/mep/247735/Laura%20BALLAR%C3%8DN%20CEREZA#/history
+Accredited assistants
+-	Laia Castellana Martinez Victor Patricio DONATE PAVON
+-	Samuel MARTINEZ MOYA 
+Accredited assistants (grouping)
+-	Aida BUSQUET ESTANY
+Paying agents
+-	RIBA VIDAL ABOGADOS SLP
+Local assistants
+Service providers
+-	MEMOLATUCARA SL (ex MEMOLATUCARA SCP)
+
+22) 
+Name: Lefteris NIKOLAOU-ALAVANOS
+National party: Communist Party of Greece 
+Country: Greece 
+Group: Non-attached Members
+date scraped: https://parltrack.org/mep/197734/Lefteris%20NIKOLAOU-ALAVANOS#/history) 
+Accredited assistants
+-	Anna VASALOU
+-	Alexandra KOTSOFITI 
+Accredited assistants (grouping)
+Paying agents 
+-	Evangelia DIMOULIA
+Local assistants
+-	Christos ANGELOPOULOS
+-	Foteini-Kleio CHRISTOPOULOU-TRANTALIDOU 
+-	Smaroula EFTHYMIOU-TSARA 
+-	Anastasia GKIZANI 
+-	Eleni PETROPOULOU 
+Service providers
+
+23) 
+Name: Lina GÁLVEZ 
+National party: Partido Socialista Obrero Español
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Spain
+date scraped: https://parltrack.org/mep/197702/Lina%20G%C3%81LVEZ#/history
+Accredited assistants
+-	MARTA PEIRO TRAPERO
+Accredited assistants (grouping)
+-	Laura BALLARIN CEREZA 
+-	Izaskun BERNAL CERDEIRA
+-	 Eduardo BLANCO BUZON 
+-	Irina DE SANCHO ALONSO 
+-	Ignacio Santiago DEL OLMO TEJERINA 
+-	Xose Anton DIOS MARINO 
+-	Jose Antonio ESPEJO GUTIERREZ 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Javier GALLEGO AMADOR 
+-	Maria Jesus GALLEGO ESTREMERA 
+-	Isabel GARCIA TAMARA 
+-	Magdalena GONZALEZ GOZALBO 
+-	Carla GONZALEZ RICARTE 
+-	Antonios KOSSYVAKIS 
+-	Juan Jose LOPEZ GOMEZ 
+-	Annika LOTSON LOPEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Mercedes MARISCAL CAMPOS 
+-	Maria Isabel MEIRELES DE ANDRADE 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Pablo PINTOS TOURINO
+-	 Maria Eugenia ROMANO MARTINEZ 
+-	Sonia Maria SANCHEZ GOMEZ 
+-	Eva Pilar SANJUAN GUERRERO 
+-	Maria Luisa SEVILLA ANDRADA 
+-	Marina SOLA GARCIA 
+-	Aranzazu TARAZONA HUERTA 
+-	Teresa VALLEJO MOLINA
+-	Daniel DIEZ CECILIA 
+-	Naioa GARCES BLASCO 
+-	Julia GRACIA MATEOS 
+-	Carlos JOVANI GIL 
+-	Cristina Elena LAGO QUINTANS 
+-	Mario David LOPEZ OLIVA 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Josep MERCADAL BAQUERO 
+-	Alejandro PEINADO GARCIA 
+-	Elena PEREDA LAGARTOS 
+-	JOAN SERRA MINGOT 
+-	Cristian VILLAR PRIETO 
+-	Maria Rosa PEREZ MONCLUS 
+-	Maria Cristina GARCIA CARRERA 
+-	Cristina MARTINEZ PEREZ 
+-	Almudena MOLINA DELGADO 
+-	Izaskun BERNAL CERDEIRA 
+-	Antonios KOSSYVAKIS 
+-	Maria Magdalena GONZALEZ GOZALBO 
+-	Alberto BONDESIO MARTINEZ 
+-	Celia RUIZ ALFONSEA 
+-	Matteo REBESANI 
+-	Carina Patricia GAETE LLANOS 
+-	Laura BALLARIN CEREZA 
+-	Eduardo BLANCO BUZON 
+-	Mercedes MARISCAL CAMPOS 
+-	PAULA SENDIN RODRIGUEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Annika LOTSON LOPEZ 
+-	Alberto BONDESIO MARTINEZ 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Jose GALIAN TORRENTE 
+-	Casilda MALDONADO TIRADO 
+-	Alba Maria HUERTAS RUIZ 
+-	Irina DE SANCHO ALONSO 
+-	Ana MARTINEZ SANJURJO 
+-	Carmen MAGDALENA VALLEJO 
+-	MEL RAVELO CORDOVES 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Nayra Maria PRADO MARRERO 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Sergi PITARCH SANCHEZ 
+-	Teresa VALLEJO MOLINA 
+-	Carla GONZALEZ RICARTE 
+-	Naioa GARCES BLASCO 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Carlos JOVANI GIL
+-	SILVIA LORENZO PEREZ 
+-	Roi VILLAR VAZQUEZ 
+-	Pilar RUIZ HUÉLAMO 
+-	Paula SENDIN RODRIGUEZ 
+-	Daniel DIEZ CECILIA 
+-	AINA ARROM MAYOL 
+-	Julia GRACIA MATEOS 
+-	ANA LÓPEZ GONZÁLEZ 
+-	DIEGO FERNÁNDEZ CURESES 
+-	Ana MARTINEZ SANJURJO 
+-	Claudia MARTINEZ MUNOZ 
+-	Rosa Maria BALAS TORRES 
+-	Victor Patricio DONATE PAVON 
+-	Alberto BONDESIO MARTINEZ 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	MARIA MERCEDES GARCIA MUNOZ 
+-	Silvia LORENZO PEREZ 
+-	Celia RUIZ ALFONSEA 
+-	
+Paying agents 
+Local assistants
+Service providers
+
+24) 
+Name: Loucas FOURLAS 
+National party: Democratic Rally
+Country: Cyprus
+Group: Group of the European People's Party (Christian Democrats)
+date scraped: https://parltrack.org/mep/197414/Loucas%20FOURLAS#/history)
+Accredited assistants
+-	Marina SAVVIDOU
+-	Nicolas VIOLARIS
+Accredited assistants (grouping)
+Paying agents 
+-	Rombus Services LTD
+Local assistants
+-	Αντιγονη Αντωνα
+-	Μιχαηλ Αζοβιδης
+-	Ανδριανα Χαριλαου
+-	Μαριος Παπαηλια
+-	ΣΤΕΛΙΟΣ ΣΤΑΥΡΙΝΙΔΗΣ
+-	Marios DIMITRIOU
+Service providers
+Trainees 
+-	Ariana PASPALIDE
+-	Nikos SYMEOU
+-	Danai MAVROUDI
+
+25) 
+Name: Margarita DE LA PISA CARRIÓN 
+National party: VOX
+Group: European Conservatives and Reformists Group
+Country: Spain
+date scraped: https://parltrack.org/mep/204414/Margarita%20DE%20LA%20PISA%20CARRI%C3%93N#/history) 
+Accredited assistants
+Accredited assistants (grouping)
+-	Maria Paloma ADRADOS COART 
+-	Juan BAYOD RODRIGO 
+-	Jose CADENAS RABAIXET 
+-	Manuel FRAGA PEDROCHE 
+-	Jaime HERNANDEZ ZUNIGA 
+-	Carles ISERTE JOVE
+-	Eduardo DESCARTIN DEHESA
+-	Beatriz SANCHEZ MERINO
+-	Ivan DE VARGAS PAPADOPULOS
+-	Maria del Rocio OYA NAVARRO 
+-	Pedro Raul NARRO SANCHEZ
+-	Arturo VILLARROYA GONZALEZ
+-	Pablo ZUAZO PRADEL
+-	CARLOS CAMPILLO PEREZ
+-	Borja CUESTA BIOSCA
+-	Gaspar MAYOR TONDA
+-	Maria CHECA SESMERO
+-	Manuel FRAGA PEDROCHE
+-	ARTURO VILLARROYA GONZÁLEZ
+-	Alvaro PAVON ROMERO
+-	Fernando Jose NUNEZ ROBRES PATINO
+-	Bibiana CARRETO PEREZ BARBADILLO
+Paying agents
+-	MAJER CONSULTING SL 
+Local assistants
+-	Pablo ZUAZO PRADEL
+Local assistants (grouping) 
+-	Juan FONTAN LUCIO-VILLEGAS
+-	Alfonso IRIARTE MUNOZ-SECA
+-	Nicolas GUTIÉRREZ SAIZ
+-	IGNACIO CAMPILLO PEREZ
+Service providers
+-	Oscar COROMINAS NOGAL
+-	ARENAS DE LA TINAJITA S.L.
+Trainees 
+-	Pablo PEREZ MERINO
+
+26)
+Name: Matthias ECKE 
+National party: Sozialdemokratische Partei Deutschlands
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Germany 
+date scraped: https://parltrack.org/mep/237465/Matthias%20ECKE#/history
+Accredited assistants
+-	Nora SEFA
+-	Christian NEUMANN
+Accredited assistants (grouping)
+-	Hannah CORNELSEN
+-	Jacinta Maria KAISER
+-	Malte MARKERT
+-	Carsten MEENERS-HORN
+-	Jan Ludwig ROESSMANN
+-	Christian NEUMANN
+-	Hannah CORNELSEN
+-	Jacinta Maria KAISER
+Paying agents 
+-	Bunzel und Partner STB
+Local assistants
+-	Andrea GAEDE
+-	Henrik HOFMANN
+Service providers
+Trainees 
+-	Emely Marie SCHAEFER
+
+27)
+Name: Nacho SÁNCHEZ AMOR
+National party: Partido Socialista Obrero Español 
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Spain
+date scraped: https://parltrack.org/mep/197722/Nacho%20S%C3%81NCHEZ%20AMOR#/history
+Accredited assistants
+-	Angel LAZARO BUSTAMANTE
+Accredited assistants (grouping)
+-	Laura BALLARIN CEREZA 
+-	Izaskun BERNAL CERDEIRA
+-	 Eduardo BLANCO BUZON 
+-	Irina DE SANCHO ALONSO 
+-	Ignacio Santiago DEL OLMO TEJERINA 
+-	Xose Anton DIOS MARINO 
+-	Jose Antonio ESPEJO GUTIERREZ
+-	 Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Javier GALLEGO AMADOR 
+-	Maria Jesus GALLEGO ESTREMERA 
+-	Isabel GARCIA TAMARA 
+-	Magdalena GONZALEZ GOZALBO 
+-	Carla GONZALEZ RICARTE 
+-	Antonios KOSSYVAKIS 
+-	Juan Jose LOPEZ GOMEZ 
+-	Annika LOTSON LOPEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Mercedes MARISCAL CAMPOS 
+-	Maria Isabel MEIRELES DE ANDRADE 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Pablo PINTOS TOURINO 
+-	Maria Eugenia ROMANO MARTINEZ 
+-	Sonia Maria SANCHEZ GOMEZ 
+-	Eva Pilar SANJUAN GUERRERO 
+-	Maria Luisa SEVILLA ANDRADA 
+-	Marina SOLA GARCIA 
+-	Aranzazu TARAZONA HUERTA 
+-	Teresa VALLEJO MOLINA
+-	Daniel DIEZ CECILIA 
+-	Naioa GARCES BLASCO 
+-	Julia GRACIA MATEOS 
+-	Carlos JOVANI GIL 
+-	Cristina Elena LAGO QUINTANS 
+-	Mario David LOPEZ OLIVA 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Josep MERCADAL BAQUERO 
+-	Alejandro PEINADO GARCIA 
+-	Elena PEREDA LAGARTOS 
+-	JOAN SERRA MINGOT 
+-	Cristian VILLAR PRIETO 
+-	Maria Rosa PEREZ MONCLUS 
+-	Maria Cristina GARCIA CARRERA 
+-	Cristina MARTINEZ PEREZ 
+-	Almudena MOLINA DELGADO 
+-	Izaskun BERNAL CERDEIRA 
+-	Antonios KOSSYVAKIS 
+-	Maria Magdalena GONZALEZ GOZALBO 
+-	Magdalena GONZALEZ GOZALBO 
+-	Alberto BONDESIO MARTINEZ 
+-	Celia RUIZ ALFONSEA 
+-	Matteo REBESANI 
+-	Carina Patricia GAETE LLANOS 
+-	Laura BALLARIN CEREZA 
+-	Eduardo BLANCO BUZON 
+-	Mercedes MARISCAL CAMPOS 
+-	Joan SERRA MINGOT 
+-	PAULA SENDIN RODRIGUEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Annika LOTSON LOPEZ 
+-	Alberto BONDESIO MARTINEZ 
+-	Daniel DIEZ CECILIA 
+-	Josep MERCADAL BAQUERO 
+-	Elena PEREDA LAGARTOS 
+-	Cristian VILLAR PRIETO 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Jose GALIAN TORRENTE 
+-	Casilda MALDONADO TIRADO 
+-	Irina DE SANCHO ALONSO 
+-	Alba Maria HUERTAS RUIZ 
+-	Ana MARTINEZ SANJURJO 
+-	Carmen MAGDALENA VALLEJO 
+-	MEL RAVELO CORDOVES 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Nayra Maria PRADO MARRERO 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Sergi PITARCH SANCHEZ 
+-	Teresa VALLEJO MOLINA 
+-	Carla GONZALEZ RICARTE 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Pepe MERCADAL BAQUERO 
+-	Carmen MAGDALENA VALLEJO 
+-	Naioa GARCES BLASCO 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Carlos JOVANI GIL 
+-	Nayra Maria PRADO MARRERO 
+-	SILVIA LORENZO PEREZ 
+-	Roi VILLAR VAZQUEZ 
+-	Victor Patricio DONATE PAVON 
+-	Silvia LORENZO PEREZ 
+-	Mel RAVELO CORDOVES 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Pilar RUIZ HUÉLAMO 
+-	Paula SENDIN RODRIGUEZ 
+-	Daniel DIEZ CECILIA 
+-	AINA ARROM MAYOL 
+-	Julia GRACIA MATEOS 
+-	ANA LÓPEZ GONZÁLEZ 
+-	Roi VILLAR VAZQUEZ 
+-	Ana MARTINEZ SANJURJO 
+-	Claudia MARTINEZ MUNOZ 
+-	DIEGO FERNÁNDEZ CURESES 
+-	Rosa Maria BALAS TORRES 
+-	Victor Patricio DONATE PAVON 
+-	Alberto BONDESIO MARTINEZ 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	MARIA MERCEDES GARCIA MUNOZ 
+-	Silvia LORENZO PEREZ 
+-	Celia RUIZ ALFONSEA 
+-	Marta CASARES LARA 
+-	Cristina MARTINEZ PEREZ 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	MARIA MERCEDES GARCIA MUÑOZ 
+-	Angel LAZARO BUSTAMANTE 
+-	Claudia MARTINEZ MUNOZ 
+-	MARTA CASARES LARA 
+-	
+Paying agents 
+Local assistants
+Service providers
+
+28) 
+Name: Nicolás GONZÁLEZ CASARES
+National party: Partido Socialista Obrero Español
+Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Country: Spain
+date scraped: https://parltrack.org/mep/197718/Nicol%C3%A1s%20GONZ%C3%81LEZ%20CASARES#/history) 
+Accredited assistants
+-	Tania Belen LOPEZ MENDEZ 
+Accredited assistants (grouping)
+-	Laura BALLARIN CEREZA 
+-	Izaskun BERNAL CERDEIRA 
+-	Eduardo BLANCO BUZON 
+-	Irina DE SANCHO ALONSO 
+-	Ignacio Santiago DEL OLMO TEJERINA 
+-	Xose Anton DIOS MARINO 
+-	Jose Antonio ESPEJO GUTIERREZ 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Javier GALLEGO AMADOR
+-	 Maria Jesus GALLEGO ESTREMERA 
+-	Isabel GARCIA TAMARA 
+-	Magdalena GONZALEZ GOZALBO 
+-	Carla GONZALEZ RICARTE 
+-	Antonios KOSSYVAKIS 
+-	Juan Jose LOPEZ GOMEZ 
+-	Annika LOTSON LOPEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Mercedes MARISCAL CAMPOS 
+-	Maria Isabel MEIRELES DE ANDRADE 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Pablo PINTOS TOURINO 
+-	Maria Eugenia ROMANO MARTINEZ 
+-	Sonia Maria SANCHEZ GOMEZ 
+-	Eva Pilar SANJUAN GUERRERO 
+-	Maria Luisa SEVILLA ANDRADA 
+-	Marina SOLA GARCIA 
+-	Aranzazu TARAZONA HUERTA
+-	 Teresa VALLEJO MOLINA
+-	Daniel DIEZ CECILIA 
+-	Naioa GARCES BLASCO 
+-	Julia GRACIA MATEOS 
+-	Carlos JOVANI GIL 
+-	Cristina Elena LAGO QUINTANS 
+-	Mario David LOPEZ OLIVA 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+-	Josep MERCADAL BAQUERO 
+-	Alejandro PEINADO GARCIA 
+-	Elena PEREDA LAGARTOS 
+-	JOAN SERRA MINGOT 
+-	Cristian VILLAR PRIETO 
+-	Maria Rosa PEREZ MONCLUS 
+-	Maria Cristina GARCIA CARRERA 
+-	Cristina MARTINEZ PEREZ 
+-	Almudena MOLINA DELGADO 
+-	Izaskun BERNAL CERDEIRA 
+-	Antonios KOSSYVAKIS 
+-	Maria Magdalena GONZALEZ GOZALBO 
+-	Celia RUIZ ALFONSEA 
+-	Alberto BONDESIO MARTINEZ 
+-	Matteo REBESANI 
+-	Carina Patricia GAETE LLANOS 
+-	Laura BALLARIN CEREZA 
+-	Eduardo BLANCO BUZON 
+-	Mercedes MARISCAL CAMPOS 
+-	Joan SERRA MINGOT 
+-	PAULA SENDIN RODRIGUEZ 
+-	Andrea MACEIRAS CASTRO 
+-	Annika LOTSON LOPEZ 
+-	Daniel DIEZ CECILIA 
+-	Elena PEREDA LAGARTOS 
+-	Cristian VILLAR PRIETO 
+-	Ana Isabel ESTEBAN TORTOLA 
+-	Francisco Jose GALIAN TORRENTE 
+-	Casilda MALDONADO TIRADO 
+-	Alba Maria HUERTAS RUIZ 
+-	Irina DE SANCHO ALONSO 
+-	Ana MARTINEZ SANJURJO 
+-	Carmen MAGDALENA VALLEJO 
+-	MEL RAVELO CORDOVES 
+-	Maria Lourdes MINCHOT BALLARIN 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Nayra Maria PRADO MARRERO 
+-	BLANCA SAENZ DE BURUAGA SANCHEZ 
+-	Sergi PITARCH SANCHEZ 
+-	Teresa VALLEJO MOLINA 
+-	Carla GONZALEZ RICARTE 
+-	Ignacio Aitor DE LA PUERTA MARCO 
+-	Carmen MAGDALENA VALLEJO 
+-	Naioa GARCES BLASCO 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Carlos JOVANI GIL 
+-	Nayra Maria PRADO MARRERO 
+-	SILVIA LORENZO PEREZ 
+-	Roi VILLAR VAZQUEZ 
+-	Victor Patricio DONATE PAVON 
+-	Silvia LORENZO PEREZ 
+-	MEL RAVELO CORDOVES 
+-	Blanca SAENZ DE BURUAGA SANCHEZ 
+-	Pilar RUIZ HUÉLAMO 
+-	Paula SENDIN RODRIGUEZ 
+-	Daniel DIEZ CECILIA 
+-	AINA ARROM MAYOL 
+-	Julia GRACIA MATEOS 
+-	ANA LÓPEZ GONZÁLEZ 
+-	DIEGO FERNÁNDEZ CURESES 
+-	Roi VILLAR VAZQUEZ 
+-	Ana MARTINEZ SANJURJO 
+-	Claudia MARTINEZ MUNOZ 
+-	Rosa Maria BALAS TORRES 
+-	Victor Patricio DONATE PAVON 
+-	Jaime Daniel DE FRUTOS GONZALEZ 
+-	Celia RUIZ ALFONSEA 
+-	Silvia LORENZO PEREZ 
+-	MARIA MERCEDES GARCIA MUNOZ 
+-	Marta CASARES LARA 
+-	Cristina MARTINEZ PEREZ 
+-	Maria Del Carmen MARTINEZ BELMONTE 
+Paying agents 
+Local assistants
+Service providers
+
+29) 
+Name: Pablo ARIAS ECHEVERRÍA
+National party: Partido Popular  
+Group: Group of the European People's Party (Christian Democrats)
+Country: Spain 
+(date scraped: https://parltrack.org/mep/96808/Pablo%20ARIAS%20ECHEVERR%C3%8DA#/history) 
+Accredited assistants
+-	Candelaria GORRI LAGUNA 
+-	Laura PASCUAL TRUJILLO 
+-	Maria Jesus MOLINA HURTADO 
+-	Marta ENGUITA LOPEZ 
+-	Maria de los Angeles LOPEZ MORAGO 
+-	Macarena MARTIN SEGURADO 
+-	Stela HERNANDEZ SIENA 
+-	Marta RUFINO CAMPOS 
+-	Malena GOUTILLE LAZARO 
+Accredited assistants (grouping)
+-	Carlos Casimiro SALVADOR ARMENDARIZ 
+-	Silvia HITOS 
+-	Teresa VILLA GOMEZ 
+-	Beatriz CARO NIETO 
+-	Daniel ACKERMAN LANADO 
+-	Almudena DOCAVO MUNIZ 
+-	Pedro MIELGO CIMAS 
+-	Jesus GARCIA ALBERTI 
+-	Carmen Macarena MARTINEZ MATEO 
+Paying agents 
+-	GERBONSA Y ESCANDELL, S.L.
+Local assistants
+-	Francisco GARCIA DE LA PUERTA
+-	MALENA GOUTILLE LAZARO 
+-	Francisco GARCIA DE LA PUERTA 
+Service providers
+-	ANALISIS ECONOMICO INTEGRAL S.L.N.E.
+-	INDIE COMMUNICATIONS S.L
+
+30)
+Name: Pernando BARRENA ARZA
+National party: EH BILDU
+Group: The Left group in the European Parliament - GUE/NGL
+Country: Spain
+Accredited assistants
+-	Miguel José GARCIA JONES 
+-	Abraham VELARDE GONZALEZ 
+Accredited assistants (grouping)
+-	Carlos Casimiro SALVADOR ARMENDARIZ 
+-	Silvia HITOS 
+-	Beatriz CARO NIETO
+-	Daniel ACKERMAN LANADO 
+-	Almudena DOCAVO MUNIZ 
+-	Laura PASCUAL TRUJILLO 
+-	Pedro MIELGO CIMAS 
+-	Jesus GARCIA ALBERTI 
+-	Carmen Macarena MARTINEZ MATEO 
+Paying agents 
+-	CONSULTING DE ECONOMISTAS SA
+-	GERBONSA Y ESCANDELL, S.L. 
+-	CE CONSULTING EMPRESARIAL ESPANA S.L (Ex-3905) 
+Local assistants
+-	Cristina GARCIA COLMENAR
+Service providers
+-	Pedro MIELGO CIMAS
+
+31) 
+Name: Pilar del CASTILLO VERA
+National party: Partido Popular 
+Group: Group of the European People's Party (Christian Democrats)
+Country: Spain
+date scraped: https://parltrack.org/mep/28390/Pilar%20DEL%20CASTILLO%20VERA#/history
+Accredited assistants
+-	Miguel José GARCIA JONES 
+-	Abraham VELARDE GONZALEZ 
+Accredited assistants (grouping)
+-	Carlos Casimiro SALVADOR ARMENDARIZ 
+-	Silvia HITOS 
+-	Beatriz CARO NIETO 
+-	Daniel ACKERMAN LANADO 
+-	Almudena DOCAVO MUNIZ 
+-	Laura PASCUAL TRUJILLO 
+-	Pedro MIELGO CIMAS 
+-	Jesus GARCIA ALBERTI 
+-	Carmen Macarena MARTINEZ MATEO 
+Paying agents 
+-	GERBONSA Y ESCANDELL, S.L. 
+Local assistants
+Service providers
+-	Pedro MIELGO CIMAS
+
+32) 
+Name: Raffaele STANCANELLI 
+National party: FRATELLI D'ITALIA
+Country: Italy
+Group: European Conservatives and Reformists Group
+date scraped: https://parltrack.org/mep/197825/Raffaele%20STANCANELLI#/history) 
+Accredited assistants
+-	Paola Francesca GRAZIANO 
+-	Andrea GUGLIELMI
+-	Luca PAVANATO
+Accredited assistants (grouping)
+-	Rocco SARLI
+-	Annunziata CARNEVALE 
+-	Alisea GIORDANO
+Paying agents 
+-	Dario Salvatore Giovanni BIONDI
+-	FIMACCOUNT SPRL 
+Local assistants
+-	Marcello ARMENIA
+-	Marcello PULVIRENTI
+-	Gianfranco Salvatore VITALE
+-	Pietro MATRANGA
+-	Valeria BORELLINI
+-	Dario Antonio LORITTO
+-	Luciano ZUCCARELLO
+-	Angelo SIRINGO
+-	Sergio LEMBO
+-	Dalila STRANO 
+-	Alessandra ACI 
+-	Cesare Carmelo MARZULLO 
+-	Dalila STRANO 
+-	Giorgio FALZONE 
+-	Antonino CATANZARO 
+-	Victoria GRIFFING 
+-	Maria PAPPALARDO 
+-	Giorgio FALZONE 
+Service providers
+-	MICHELA PETRINA
+-	BRUXELLES EUROPE Asbl
+-	Giuseppa VEGNA
+-	SOLUM LAB SRL 
+-	Luca CILIBERTI
+-	Giacomo CACI
+
+33) 
+Name: Rosa ESTARÀS FERRAGUT
+National party: Partido Popular 
+Country: Spain 
+Group: Group of the European People's Party (Christian Democrats)
+date scraped: https://parltrack.org/mep/96811/Rosa%20ESTAR%C3%80S%20FERRAGUT#/history
+Accredited assistants
+-	Francisco de Paula Gambus Millet
+-	Francesc Gambús
+-	Fernando DIAZ MARTINEZ
+-	Macarena MARTIN SEGURADO
+-	Elena MATO MALDONADO
+Accredited assistants (grouping)
+-	Pedro MIELGO CIMAS
+-	Carlos Casimiro SALVADOR ARMENDARIZ
+-	Silvia HITOS
+-	Beatriz CARO NIETO
+-	Daniel ACKERMAN LANADO
+-	Almudena DOCAVO MUNIZ
+-	Rocío MORENO MERINO
+-	Laura PASCUAL TRUJILLO
+-	Jesus GARCIA ALBERTI
+-	Carlos Casimiro SALVADOR ARMENDARIZ
+-	Carmen Macarena MARTINEZ MATEO
+Paying agents 
+-	GB ASESORES
+-	GERBONSA Y ESCANDELL, S.L.
+Local assistants
+-	Luis POMAR VIDAL
+-	Gregorio JAUME BONNIN
+-	Jordi ROCA MAS
+Service providers
+-	BRAIN COMUNICATION S.L.
+
+34) 
+Name: Salvatore DE MEO
+National party: Forza Italia 
+Group: Group of the European People's Party (Christian Democrats)
+Country: Italy
+date scraped: https://parltrack.org/mep/204333/Salvatore%20DE%20MEO#/history
+Accredited assistants
+-	Stefano Matonte
+-	Rachele TESEI
+-	BEATRICE BRANCADORO
+-	Federico ANTONELLI
+Accredited assistants (grouping)
+Paying agents 
+-	Marco MARCOVALDI
+-	Alessandro PARISELLA
+Local assistants
+-	Marco DI STEFANO
+-	Giuseppe FONISTO
+-	Ciro RUSSO
+-	Enrico DELLAPIETA
+-	Marco DI STEFANO
+-	Eva Rita RUGGIERI
+-	Antonio DI TRENTO
+-	Nicola TURCHETTA
+-	Marco MARCANTONIO
+-	ANGELO FORTE
+-	Polya Stefchova KRASTEVA
+-	Giovanni MELONI
+Service providers
+-	26LETTERE S.R.L.
+-	PALMO SRL
+-	STAND OUT S.R.L.
+-	Daniele MARZANO
+-	Cristina COLUMPSI
+-	B2B COMMUNICATION SRL
+-	Marco MARCANTONIO
+-	Verdiana MATTEI
+
+35) 
+Name: Susana SOLÍS PÉREZ
+National party: Ciudadanos – Partido de la Ciudadanía 
+Group: Renew Europe Group (until 12-06-2024), Group of the European People's Party (Christian Democrats)
+Country: Spain
+date scraped: https://parltrack.org/mep/197784/Susana%20SOL%C3%8DS%20P%C3%89REZ#/history
+Accredited assistants
+-	Despina MANOUSOS
+-	Kevin MARTINEZ CARROZA
+-	Jorge VINUELAS GONZALEZ
+-	Lucia MARTINEZ MAROTO
+-	Marina Ana CUBEDO VICEN 
+-	Oscar PANDIELLO FERNANDEZ
+-	JAVIER FELIPE ANDREU 
+-	OLALLA BENITO RODRIGUEZ 
+-	Lucia MARTINEZ MAROTO 
+Accredited assistants (grouping)	
+-	Aintzane CONESA PALACIOS
+-	Marta CORTES CURRUBI
+-	Antonio DE TORRE ALVAREZ
+-	Kevin MARTINEZ CARROZA
+-	Sebastian RODRIGUEZ PEREZ
+-	Arabela Anca SABANGEANU
+-	Adrian VAZQUEZ LAZARA
+-	Jorge VINUELAS GONZALEZ
+-	Fernando Jose SOLS CUETO
+-	Adrian VAZQUEZ LAZARA
+-	Laura ESTRELLA BLAYA
+-	Jorge VINUELAS GONZALEZ
+-	Javier BALMASEDA DOMINGUEZ
+-	Sebastian RODRIGUEZ PEREZ 
+-	JUAN DEL CONSUELO VADILLO GARCIA 
+-	Javier BALMASEDA DOMINGUEZ 
+-	Daniel BARDAVIO COLEBROOK
+-	Aintzane CONESA PALACIOS 
+-	Antonio DE TORRE ALVAREZ 
+-	JUAN DEL CONSUELO VADILLO GARCIA 
+-	Laura ESTRELLA BLAYA 
+-	LAURA INMACULADA SÁNCHEZ GARCIA 
+-	Arabela Anca SABANGEANU 
+-	Diego VIUDEZ PÉREZ 
+-	Fernando Jose SOLS CUETO 
+-	Kevin MARTINEZ CARROZA 
+-	OLALLA BENITO RODRIGUEZ 
+-	JULIA ARIÑO NOGUER 
+-	Diego DE CASTRO POLO
+-	Gustavo Miguel RODRIGUEZ HIDALGO 
+Paying agents 
+-	OFICINA LEGAL GESTIO AMINISTRACIO EMPRESARIAL
+Paying agents (grouping) 
+-	OFICINA LEGAL GESTIO AMINISTRACIO EMPRESARIAL
+Local assistants 
+-	Ruben Ignacio TEJEDOR CEMBRERO
+-	Juan Sebastian RUIZ-CONSTANTINO FERNANDEZ 
+-	OLALLA BENITO RODRIGUEZ
+-	David BERTRANS ROMAN 
+Local assistants (grouping) 
+-	Javier BALMASEDA DOMINGUEZ
+-	Jose Manuel CALVO ROY
+-	Maria HERNANDEZ JIMENEZ 
+-	David BERTRANS ROMAN 
+-	María José ARTUCH IRIBERRI 
+•	María José ARTUCH IRIBERRI
+•	Jose Manuel CALVO ROY
+•	Maria HERNANDEZ JIMENEZ
+•	Luis Antonio LOPEZ LATORRE
+Service providers
+-	CONSEJO EUROPEO DE RELACIONES EXTERIORES
+-	María José ARTUCH IRIBERRI 
+-	MARLOW INSIGHT SL 
+-	Luis Antonio LOPEZ LATORRE 
+-	INSTITUTO de COMUNICACION EMPRESARIAL SL 
+-	EYECC S.U.L. ECONOMIA Y ESTRATEGIA CONSULTING COM 
+-	Francisco LUPIANEZ VILLANUEVA 
+-	Luis Antonio LOPEZ LATORRE 
+
+36) 
+Name: Thomas WAITZ
+National party: Die Grünen - Die Grüne Alternative 
+Group: Group of the Greens/European Free Alliance
+Country: Austria
+date scraped: https://parltrack.org/mep/190464/Thomas%20WAITZ#/history 
+Accredited assistants
+-	Yih-Chuen Ingeborg CHEN
+-	Sara Marie STAENDER
+-	Mona SEFEN
+-	Ricarda Agnes PFINGSTL
+-	Simon Philipp BAUER
+-	Laura KRENZKE-WOHLFART
+Accredited assistants (grouping)
+Paying agents 
+-	MERKUR TAXAID WIRTSCHAFTSPRUFUNG
+Local assistants
+-	Ben DAGAN
+-	Irmtraud SALZER
+-	Paul SCHWARZL
+-	Clara SCHWEIGHOFER
+-	Agnes SIEBERTH
+-	Gabriele WINDHAGER-ZORNIG
+-	Antares REICH
+-	Matea ZLATKOVIC
+-	MATTHIAS STEFAN SCHROLL 
+Service providers
+Trainees 
+•	Ricarda Agnes PFINGSTL
+•	Frederik Aljoscha SALZGEBER
+
+37) Adrián VÁZQUEZ LÁZARA
+38) Anders VISTISEN
+39) Johan DANIELSSON
+40) Marie DAUCHY
+41) Katarína ROTH NEVEĎALOVÁ
+42) Thijs REUTEN
+43) Marina MESURE

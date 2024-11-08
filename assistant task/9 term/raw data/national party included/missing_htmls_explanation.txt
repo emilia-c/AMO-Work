@@ -1,6 +1,4 @@
-NOTES for 157 MEPs URL
-
-1) Achille Variati 
+1) Achille VARIATI
 URL: NO ARCHIVED URL AVAILABLE
 Notes: in parliament from 02-11-2022 / 15-07-2024 
 Website: https://www.europarl.europa.eu/meps/en/239257/ACHILLE_VARIATI/history/9
@@ -17,7 +15,7 @@ Website: https://www.europarl.europa.eu/meps/en/30490/AILEEN_MCLEOD/history/9
 
 4) Alex AGIUS SALIBA
 URL: NO ARCHIVED URL AVAILABLE
-Notes: S&D, also in 10th parliament !
+Notes: SD, also in 10th parliament !
 Website: https://www.europarl.europa.eu/meps/en/197403/ALEX_AGIUS+SALIBA/history/9#detailedcardmep
 
 5) Alexander ALEXANDROV YORDANOV
@@ -170,10 +168,10 @@ URL: NO URL AVAILABLE
 Notes: 02-07-2019 / 04-04-2024 : Group of the European People's Party (Christian Democrats) - Member
 Website: https://www.europarl.europa.eu/meps/en/124734/CLAUDIA_MONTEIRO+DE+AGUIAR/history/9
 
-35) Cristina MAESTRE
+35) Cristina MAESTRE / Cristina MAESTRE MARTÍN DE ALMAGRO
 URL: http://www.europarl.europa.eu/meps/en/197719/CRISTINA_MAESTRE%2BMARTIN%2BDE%2BALMAGRO/assistants
 Notes: !! Also in 10th parliament !! name was scraped incorrectly 
-Website: 
+Website: https://www.europarl.europa.eu/meps/en/197719/CRISTINA_MAESTRE/history/9#detailedcardmep
 
 36) Daniel HANNAN
 URL: NO URL AVAILABLE 
@@ -290,12 +288,12 @@ Website: https://www.europarl.europa.eu/meps/en/4513/GEOFFREY_VAN+ORDEN/history/
 
 57) Georg MAYER
 URL: NO ARCHIVED URL AVAILABLE
-Notes: Served from 02-07-2019 / 15-07-2024 : Identity and Democracy Group - Member
+Notes: !! Also in 10th parliament !! Served from 02-07-2019 / 15-07-2024 : Identity and Democracy Group - Member
 Website: https://www.europarl.europa.eu/meps/en/38511/GEORG_MAYER/history/9#detailedcardmep
 
 58) Gerolf ANNEMANS
 URL: NO ARCHIVED URL AVAILABLE
-Notes: Served from 02-07-2019 / 15-07-2024 : Identity and Democracy Group - Member of the Bureau
+Notes: !! Also in 10th term !! Served from 02-07-2019 / 15-07-2024 : Identity and Democracy Group - Member of the Bureau
 Website: https://www.europarl.europa.eu/meps/en/124973/GEROLF_ANNEMANS/history/9#detailedcardmep 
 
 59) Gianantonio DA RE
@@ -347,7 +345,7 @@ Website: https://www.europarl.europa.eu/meps/en/197625/IRINA_VON+WIESE/history/9
 
 68) Isabel BENJUMEA BENJUMEA
 URL: NO ARCHIVED URL AVAILABLE
-Notes: Served from 02-07-2019 / 15-07-2024 : Group of the European People's Party (Christian Democrats) - Member
+Notes: !! Also in 10th parliament !! Served from 02-07-2019 / 15-07-2024 : Group of the European People's Party (Christian Democrats) - Member
 Website: https://www.europarl.europa.eu/meps/en/197679/ISABEL_BENJUMEA+BENJUMEA/history/9#detailedcardmep
 
 69) Isabel GARCÍA MUÑOZ 
@@ -377,7 +375,7 @@ Website: https://www.europarl.europa.eu/meps/en/197757/JAMES_WELLS/history/9
 
 74) Javier MORENO SÁNCHEZ
 URL: NO ARCHIVED URL AVAILABLE
-Notes: Served from 02-07-2019 / 15-07-2024 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
+Notes: !! Also in 10th parliament !! Served from 02-07-2019 / 15-07-2024 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
 Website: https://www.europarl.europa.eu/meps/en/28347/JAVIER_MORENO+SANCHEZ/history/9#detailedcardmep
 
 75) Jill EVANS
@@ -467,7 +465,7 @@ URL: NO ARCHIVED URL AVAILABLE
 Notes: !! Also in 10th parliament !! Served from 02-07-2019 / 15-07-2024 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
 Website: https://www.europarl.europa.eu/meps/en/5729/KATHLEEN_VAN+BREMPT/history/9#detailedcardmep
 
-92)Kim VAN SPARRENTAK 
+92) Kim VAN SPARRENTAK 
 URL: NO ARCHIVED URL AVAILABLE
 Notes: !! Also in 10th parliament !! Served from 02-07-2019 / 15-07-2024 : Group of the Greens/European Free Alliance - Member
 Website: https://www.europarl.europa.eu/meps/en/197870/KIM_VAN+SPARRENTAK/history/9#detailedcardmep
@@ -504,7 +502,7 @@ URL: NO ARCHIVED URL AVAILABLE
 Notes: Served from 02-07-2019 / 15-07-2024 : Group of the European People's Party (Christian Democrats) - Member 
 Website: https://www.europarl.europa.eu/meps/en/197777/LEOPOLDO_LOPEZ+GIL/history/9
 
-99) Lina GÁLVEZ 
+99) Lina GÁLVEZ / Lina GÁLVEZ MUÑOZ
 URL: NO ARCHIVED URL AVAILABLE
 Notes: !! Also in 10th parliament !! name was scraped incorrectly. Served from 02-07-2019 / 15-07-2024 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
 Website: https://www.europarl.europa.eu/meps/en/197702/LINA_GALVEZ/history/9#detailedcardmep
@@ -818,10 +816,113 @@ URL: NO ARCHIVED URL AVAILABLE
 Notes: Served from 16-11-2023 / 15-07-2024 : Group of the European People's Party (Christian Democrats) - Member
 Website: https://www.europarl.europa.eu/meps/en/250235/WITOLD_PAHL/history/9
 
-HERE ARE SOME MORE WITH NO SNAPSHOTS 
-{'name': 'Johan DANIELSSON', 'party': None, 'country': 'Sweden', 'assistants': {}}
-{'name': 'Linea SØGAARD-LIDELL', 'party': None, 'country': 'Denmark', 'assistants': {}}
-{'name': 'Manuel BOMPARD', 'party': None, 'country': 'France', 'assistants': {}}
-{'name': 'Miroslav ČÍŽ', 'party': None, 'country': 'Slovakia', 'assistants': {}}
-{'name': 'Nicola DANTI', 'party': None, 'country': 'Italy', 'assistants': {}}
-{'name': 'Sira REGO', 'party': None, 'country': 'Spain', 'assistants': {}}
+158) Manuel BOMPARD
+URL: NO ARCHIVED URL AVAILABLE
+Notes: Served from
+    02-07-2019 / 17-12-2020 : Group of the European United Left - Nordic Green Left - Member
+    18-12-2020 / 28-07-2022 : The Left group in the European Parliament - GUE/NGL - Member
+Website: https://www.europarl.europa.eu/meps/en/197521/MANUEL_BOMPARD/history/9
+
+159) Adrián VÁZQUEZ LÁZARA
+URL: NO ARCHIVED URL AVAILABLE
+Notes: !! Also in 10th parliament  !! Served from 
+    04-02-2020 / 16-06-2024 : Renew Europe Group - Member
+    17-06-2024 / 15-07-2024 : Group of the European People's Party (Christian Democrats) - Member
+Website: https://www.europarl.europa.eu/meps/en/204400/ADRIAN_VAZQUEZ+LAZARA/home
+
+160) Róża THUN UND HOHENSTEIN
+URL: NO ARCHIVED URL AVAILABLE
+Notes: Served from
+    02-07-2019 / 09-11-2021 : Group of the European People's Party (Christian Democrats) - Member
+    10-11-2021 / 15-07-2024 : Renew Europe Group - Member
+Website: https://www.europarl.europa.eu/meps/en/96776/ROZA_THUN+UND+HOHENSTEIN/history/9
+
+161) Włodzimierz KARPIŃSKI
+URL: NO ARCHIVED URL AVAILABLE
+Notes: Served from: 16-11-2023 / 15-07-2024 : Group of the European People's Party (Christian Democrats) - Member
+Website: https://www.europarl.europa.eu/meps/en/250237/WLODZIMIERZ_KARPINSKI/history/9
+
+162) Anders VISTISEN
+URL: NO ARCHIVED URL AVAILABLE
+Notes: !! Also in 10th parliament !! 22-11-2022 / 15-07-2024 : Identity and Democracy Group - Member
+Website: https://www.europarl.europa.eu/meps/en/124875/ANDERS_VISTISEN/history/9
+
+163) Rafał ROMANOWSKI
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 29-11-2023 / 15-07-2024 : European Conservatives and Reformists Group - Member
+Website: https://www.europarl.europa.eu/meps/en/250538/RAFAL_ROMANOWSKI/history/9
+
+164) Linea SØGAARD-LIDELL
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 01-02-2020 / 14-11-2022 : Renew Europe Group - Member
+Website: https://www.europarl.europa.eu/meps/en/204331/LINEA_SOGAARD-LIDELL/history/9
+
+165) Johan DANIELSSON
+URL: NO ARCHIVED URL AVAILABLE
+Notes: !! Also in 10th parliament !! 02-07-2019 / 29-11-2021 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
+Website: https://www.europarl.europa.eu/meps/en/38542/JOHAN_DANIELSSON/history/9#detailedcardmep
+
+166) Lucia ĎURIŠ NICHOLSONOVÁ
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 
+    02-07-2019 / 19-05-2021 : European Conservatives and Reformists Group - Member of the Bureau
+    20-05-2021 / 15-07-2024 : Renew Europe Group - Member
+Website: https://www.europarl.europa.eu/meps/en/197766/LUCIA_DURIS+NICHOLSONOVA/history/9
+
+167) Marie DAUCHY
+URL: NO ARCHIVED URL AVAILABLE
+Notes: !! Also in 10th parliament !! 29-07-2022 / 15-07-2024 : Identity and Democracy Group - Member
+Website: https://www.europarl.europa.eu/meps/en/236050/MARIE_DAUCHY/history/9
+
+168) Michiel HOOGEVEEN
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 
+    15-04-2021 / 18-04-2021 : Non-attached Members
+    19-04-2021 / 15-07-2024 : European Conservatives and Reformists Group - Member
+Website: https://www.europarl.europa.eu/meps/en/218349/MICHIEL_HOOGEVEEN/history/9
+
+169) Miroslav ČÍŽ
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 02-07-2019 / 29-12-2022 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
+Website: https://www.europarl.europa.eu/meps/en/197761/MIROSLAV_CIZ/history/9
+
+170) Katarína ROTH NEVEĎALOVÁ
+URL: NO ARCHIVED URL AVAILABLE
+Notes: !! ALso in 10th parliament !!
+    30-12-2022 / 17-10-2023 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
+    18-10-2023 / 15-07-2024 : Non-attached Members
+Website: https://www.europarl.europa.eu/meps/en/96653/KATARINA_ROTH+NEVEDALOVA/history/9
+
+
+171) Sira REGO
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 
+    02-07-2019 / 17-07-2019 : Group of the European United Left - Nordic Green Left - Member
+    18-07-2019 / 17-12-2020 : Group of the European United Left - Nordic Green Left - Vice-Chair
+    18-12-2020 / 20-11-2023 : The Left group in the European Parliament - GUE/NGL - Vice-Chair
+Website: https://www.europarl.europa.eu/meps/en/197681/SIRA_REGO/history/9
+
+172) Eric MINARDI
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 29-07-2022 / 15-07-2024 : Identity and Democracy Group - Member
+Website: https://www.europarl.europa.eu/meps/en/236051/ERIC_MINARDI/history/9
+
+173) Thijs REUTEN
+URL: NO ARCHIVED URL AVAILABLE
+Notes: !! Also in 10th parliament "!! 
+    15-04-2021 / 20-04-2021 : Non-attached Members
+    21-04-2021 / 15-07-2024 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
+Website: https://www.europarl.europa.eu/meps/en/218347/THIJS_REUTEN/history/9#detailedcardmep
+
+174) Marina MESURE
+URL: NO ARCHIVED URL AVAILABLE
+Notes: !! ALso in 10th parliament!! 29-07-2022 / 15-07-2024 : The Left group in the European Parliament - GUE/NGL - Member
+Website: https://www.europarl.europa.eu/meps/en/236053/MARINA_MESURE/history/9#detailedcardmep
+
+175) Nicola DANTI
+URL: NO ARCHIVED URL AVAILABLE
+Notes: 
+    05-09-2019 / 12-02-2020 : Group of the Progressive Alliance of Socialists and Democrats in the European Parliament - Member
+    13-02-2020 / 18-10-2021 : Renew Europe Group - Member
+    19-10-2021 / 15-07-2024 : Renew Europe Group - Vice-Chair
+Website: https://www.europarl.europa.eu/meps/en/124821/NICOLA_DANTI/history/9

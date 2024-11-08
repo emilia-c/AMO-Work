@@ -11,6 +11,7 @@ from bs4 import BeautifulSoup
 import requests
 from tqdm import tqdm
 import unicodedata
+import os
 
 class MEP:
     def __init__(self, url):
@@ -21,12 +22,22 @@ class MEP:
         self.meetings = {}
         
         # Setup Selenium
+       # Setup Selenium with robust options
         chrome_options = Options()
-        #chrome_options.add_argument("--headless")  # Run in headless mode (no GUI)
-        chrome_options.add_argument("start-maximized")
-        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-        chrome_options.add_experimental_option('useAutomationExtension', False)
+        chrome_options.add_argument("--headless=new")  # Use the new headless mode
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--no-sandbox")  # Helps in Linux environments
+        chrome_options.add_argument("--disable-dev-shm-usage")  # Prevent crashes due to shared memory limits
+        chrome_options.add_argument("--remote-debugging-port=9222")  # Enable remote debugging
+        chrome_options.add_argument("--disable-extensions")  # Disable extensions for stability
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")  # Avoid detection
+        chrome_options.add_argument("--window-size=1920,1080")  # Set a larger window size
+        chrome_options.add_argument("--log-level=3")  # Reduce Chrome log verbosity
+        chrome_options.add_argument("--disable-software-rasterizer")  # Reduce GPU usage
+
         self.driver = webdriver.Chrome(service=ChromeService(), options=chrome_options)
+        self.driver.set_page_load_timeout(120)  # Increase page load timeout to 120 seconds
+
 
     def get_mep_data(self):
         # Navigate to the URL
@@ -207,30 +218,64 @@ def scrape_meps(url, mep_name):
     
     return mep.to_dict()
 
+def load_existing_data(file_path):
+    """Load existing MEP data if the JSON file already exists."""
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as infile:
+            try:
+                return json.load(infile)
+            except json.JSONDecodeError:
+                print("Error decoding JSON. Starting with an empty list.")
+                return []
+    return []
+
 def main():
-    # Get all MEP links and names
+    # File paths
     json_path = 'C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/mep names/merged_mep_9term.json'
+    output_file = "9term_mep_meetings_FULL.json"
+
+    # Load MEP links and names
     mep_links = get_mep_links(json_path)
 
-    # Limit to the first five MEPs for testing
-    mep_links = mep_links[:3]
+    # test MEP links 
+    #mep_links = mep_links[:5]
 
-    # Load MEP names from the JSON
+    # Load MEP data from JSON
     with open(json_path, 'r', encoding='utf-8') as f:
         meps_data = json.load(f)
 
-    all_mep_data = []  # List to hold all MEP data as dictionaries
+    # Load existing data from the output file
+    existing_data = load_existing_data(output_file)
+    processed_meps = {mep["name"] for mep in existing_data if "name" in mep}
 
+    # Initialize list with existing data
+    all_mep_data = existing_data
+
+    # Iterate and scrape only new MEPs
     for mep_info, mep_url in tqdm(zip(meps_data, mep_links), desc="Scraping MEPs"):
-        mep_name = mep_info["mep_name"]  # Get the MEP's name from JSON
-        mep_data = scrape_meps(mep_url, mep_name)
-        all_mep_data.append(mep_data)
-        time.sleep(1)  # Optional: To avoid overwhelming the server
+        mep_name = mep_info["mep_name"]
 
-        with open("9term_mep_meetings_FULL.json", "w", encoding="utf-8") as outfile:
-            json.dump(all_mep_data, outfile, ensure_ascii=False, indent=4)
+        # Skip if already processed
+        if mep_name in processed_meps:
+            print(f"Skipping already processed MEP: {mep_name}")
+            continue
 
-    print(json.dumps(all_mep_data, indent=4, ensure_ascii=False))
+        try:
+            mep_data = scrape_meps(mep_url, mep_name)
+            all_mep_data.append(mep_data)
+            processed_meps.add(mep_name)
+
+            # Save progress after each MEP
+            with open(output_file, "w", encoding="utf-8") as outfile:
+                json.dump(all_mep_data, outfile, ensure_ascii=False, indent=4)
+
+        except Exception as e:
+            print(f"Error scraping {mep_name}: {e}")
+
+        time.sleep(1)  # Optional delay to avoid server overload
+
+    print("Scraping completed successfully!")
+
     
 if __name__ == "__main__":
     main()
