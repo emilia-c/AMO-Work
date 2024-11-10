@@ -799,7 +799,7 @@ Service providers
 -	Fernado MATRES PAREJO 
 -	Santiago MARTINES VARES GIGLIOTTI
 
-17) 
+18) 
 Name: Kathleen VAN BREMPT 
 National party: Socialistische Partij.Anders (2019-2021), Vooruit (2021-2024)
 Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
@@ -826,7 +826,7 @@ Service providers
 -	VAN BAEL AND BELLIS
 -	WOORDPOOL COMM V
 
-18)
+19)
 Name: Kim VAN SPARRENTAK 
 National party: GroenLinks
 Group: Group of the Greens/European Free Alliance
@@ -872,7 +872,7 @@ Service providers
 -	Mariana GKLIATI
 -	Lianne VAN DER LEE
 
-19)
+20)
 Name: Konstantinos ARVANITIS
 National party: Coalition of the Radical Left  
 Country: Greece
@@ -900,7 +900,7 @@ Local assistants
 -	Olga NASSI 
 Service providers
 
-20) 
+21) 
 Name: Krzysztof BREJZA
 National party: Platforma Obywatelska
 Country: Poland 
@@ -922,7 +922,7 @@ Local assistants
 Service providers
 -	Kaja Magdalena BEIFUS
 
-21)
+22)
 Name: Laura BALLARÍN CEREZA
 National party: Partido Socialista Obrero Español  
 Country: Spain 
@@ -939,7 +939,7 @@ Local assistants
 Service providers
 -	MEMOLATUCARA SL (ex MEMOLATUCARA SCP)
 
-22) 
+23) 
 Name: Lefteris NIKOLAOU-ALAVANOS
 National party: Communist Party of Greece 
 Country: Greece 
@@ -959,7 +959,7 @@ Local assistants
 -	Eleni PETROPOULOU 
 Service providers
 
-23) 
+24) 
 Name: Lina GÁLVEZ 
 National party: Partido Socialista Obrero Español
 Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
@@ -1066,7 +1066,7 @@ Paying agents
 Local assistants
 Service providers
 
-24) 
+25) 
 Name: Loucas FOURLAS 
 National party: Democratic Rally
 Country: Cyprus
@@ -1091,7 +1091,7 @@ Trainees
 -	Nikos SYMEOU
 -	Danai MAVROUDI
 
-25) 
+26) 
 Name: Margarita DE LA PISA CARRIÓN 
 National party: VOX
 Group: European Conservatives and Reformists Group
@@ -1136,7 +1136,7 @@ Service providers
 Trainees 
 -	Pablo PEREZ MERINO
 
-26)
+27)
 Name: Matthias ECKE 
 National party: Sozialdemokratische Partei Deutschlands
 Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
@@ -1163,7 +1163,7 @@ Service providers
 Trainees 
 -	Emely Marie SCHAEFER
 
-27)
+28)
 Name: Nacho SÁNCHEZ AMOR
 National party: Partido Socialista Obrero Español 
 Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
@@ -1292,7 +1292,7 @@ Paying agents
 Local assistants
 Service providers
 
-28) 
+29) 
 Name: Nicolás GONZÁLEZ CASARES
 National party: Partido Socialista Obrero Español
 Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
@@ -1412,7 +1412,7 @@ Paying agents
 Local assistants
 Service providers
 
-29) 
+30) 
 Name: Pablo ARIAS ECHEVERRÍA
 National party: Partido Popular  
 Group: Group of the European People's Party (Christian Democrats)
@@ -1448,7 +1448,7 @@ Service providers
 -	ANALISIS ECONOMICO INTEGRAL S.L.N.E.
 -	INDIE COMMUNICATIONS S.L
 
-30)
+31)
 Name: Pernando BARRENA ARZA
 National party: EH BILDU
 Group: The Left group in the European Parliament - GUE/NGL
@@ -1475,7 +1475,7 @@ Local assistants
 Service providers
 -	Pedro MIELGO CIMAS
 
-31) 
+32) 
 Name: Pilar del CASTILLO VERA
 National party: Partido Popular 
 Group: Group of the European People's Party (Christian Democrats)
@@ -1500,7 +1500,7 @@ Local assistants
 Service providers
 -	Pedro MIELGO CIMAS
 
-32) 
+33) 
 Name: Raffaele STANCANELLI 
 National party: FRATELLI D'ITALIA
 Country: Italy
@@ -1544,7 +1544,7 @@ Service providers
 -	Luca CILIBERTI
 -	Giacomo CACI
 
-33) 
+34) 
 Name: Rosa ESTARÀS FERRAGUT
 National party: Partido Popular 
 Country: Spain 
@@ -1578,7 +1578,7 @@ Local assistants
 Service providers
 -	BRAIN COMUNICATION S.L.
 
-34) 
+35) 
 Name: Salvatore DE MEO
 National party: Forza Italia 
 Group: Group of the European People's Party (Christian Democrats)
@@ -1616,7 +1616,7 @@ Service providers
 -	Marco MARCANTONIO
 -	Verdiana MATTEI
 
-35) 
+36) 
 Name: Susana SOLÍS PÉREZ
 National party: Ciudadanos – Partido de la Ciudadanía 
 Group: Renew Europe Group (until 12-06-2024), Group of the European People's Party (Christian Democrats)
@@ -1692,7 +1692,7 @@ Service providers
 -	Francisco LUPIANEZ VILLANUEVA 
 -	Luis Antonio LOPEZ LATORRE 
 
-36) 
+37) 
 Name: Thomas WAITZ
 National party: Die Grünen - Die Grüne Alternative 
 Group: Group of the Greens/European Free Alliance
@@ -1723,7 +1723,7 @@ Trainees
 -	Ricarda Agnes PFINGSTL
 -	Frederik Aljoscha SALZGEBER
 
-37) 
+38) 
 Name: Adrián VÁZQUEZ LÁZARA
 National party: Ciudadanos – Partido de la Ciudadanía 
 Group: Renew Europe Group (04.02.2020-16.06.2024), Group of the European People's Party (Christian Democrats) (17.06.2024-15.07.2024)
@@ -1766,7 +1766,7 @@ Service providers
 - BEBARTLET SL
 - Herwig HOFMANN 
 
-38) 
+39) 
 Name: Anders VISTISEN
 National party: Dansk Folkeparti
 Group: Identity and Democracy Group
@@ -1784,7 +1784,7 @@ Paying agents
 Service providers
 - Mathias WEHRSDORF
 
-39) 
+40) 
 Name: Johan DANIELSSON
 National party: Arbetarepartiet- Socialdemokraterna
 Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
@@ -1834,7 +1834,7 @@ Paying agents
 - GRY Revision och Redovisning AB
 Service providers
 
-40) 
+41) 
 Name: Marie DAUCHY
 National party: Rassemblement national
 Group: Identity and Democracy Group
@@ -1856,7 +1856,7 @@ Paying agents
 - Nicolas CROCHET 
 Service providers
 
-41) 
+42) 
 Name: Katarína ROTH NEVEĎALOVÁ
 National party: SMER-Sociálna demokracia
 Group: Group of the Progressive Alliance of Socialists and Democrats in the European Parliament (2022-17.10.2023), Non-attached Members (18.10.2023 - 15.07.2024) 
@@ -1875,7 +1875,7 @@ Paying agents
 Service providers
 - MC PublicRelations s.r.o.
 
-42) 
+43) 
 Name: Thijs REUTEN
 National party: Partij van de Arbeid
 Group: Non-attached Members (15.04.2021, 20.04.2021), Group of the Progressive Alliance of Socialists and Democrats in the European Parliament (21.04.2024 - 16.07.2024)
@@ -1906,7 +1906,7 @@ Paying agents
 - TIMMERMANS ACCOUNTANCY
 Service providers
 
-43) 
+44) 
 Name: Marina MESURE
 National party: La France Insoumise
 Group: The Left group in the European Parliament - GUE/NGL
@@ -1922,7 +1922,7 @@ Local assistants
 Paying agents 
 Service providers
 
-44) 
+45) 
 Name: Jorge BUXADÉ VILLALBA 
 Country: Spain
 National party: VOX

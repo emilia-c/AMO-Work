@@ -232,7 +232,7 @@ def load_existing_data(file_path):
 def main():
     # File paths
     json_path = 'C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/assistant task/9 term/raw data/mep names/merged_mep_9term.json'
-    output_file = "9term_mep_meetings_FULL.json"
+    output_file = "C:/Users/Emilia/Documents/Uni Helsinki/Year Three/AMO Freelance/9term_mep_meetings_FULL.json"
 
     # Load MEP links and names
     mep_links = get_mep_links(json_path)
@@ -276,6 +276,6 @@ def main():
 
     print("Scraping completed successfully!")
 
-    
+
 if __name__ == "__main__":
     main()
