@@ -1,0 +1,183 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#FFD700", "id": "Abir AL-SAHLANI", "label": "Abir AL-SAHLANI", "physics": true, "shape": "dot", "size": 30, "title": "Abir AL-SAHLANI\nPolitical Group: Renew\nNational Party: Centerpartiet\n\nAll Assistants: \n- Anna Sophia BENGTSSON\n- John August HULTENGAARD\n- Tyra Louise LUNDBERG\n- Linn Christina Brunhilde OETTERLI"}, {"color": "lightgray", "id": "Anna Sophia BENGTSSON", "label": "Anna Sophia BENGTSSON", "physics": true, "shape": "dot", "size": 22, "title": "Anna Sophia BENGTSSON\nTerm: 9"}, {"color": "lightgray", "id": "John August HULTENGAARD", "label": "John August HULTENGAARD", "physics": true, "shape": "dot", "size": 22, "title": "John August HULTENGAARD\nTerm: 9"}, {"color": "lightgray", "id": "Tyra Louise LUNDBERG", "label": "Tyra Louise LUNDBERG", "physics": true, "shape": "dot", "size": 22, "title": "Tyra Louise LUNDBERG\nTerm: 9"}, {"color": "lightgray", "id": "Linn Christina Brunhilde OETTERLI", "label": "Linn Christina Brunhilde OETTERLI", "physics": true, "shape": "dot", "size": 22, "title": "Linn Christina Brunhilde OETTERLI\nTerm: 9"}, {"color": "#3399FF", "id": "Adam JARUBAS", "label": "Adam JARUBAS", "physics": true, "shape": "dot", "size": 30, "title": "Adam JARUBAS\nPolitical Group: EPP\nNational Party: Polskie Stronnictwo Ludowe\n\nAll Assistants: \n- Borys Maria BRZEZINSKI\n- Lukasz WILKOSZ\n- Sylwia Joanna BETKOWSKA"}, {"color": "lightgray", "id": "Sylwia Joanna BETKOWSKA", "label": "Sylwia Joanna BETKOWSKA", "physics": true, "shape": "dot", "size": 22, "title": "Sylwia Joanna BETKOWSKA\nTerm: 9"}, {"color": "lightgray", "id": "Borys Maria BRZEZINSKI", "label": "Borys Maria BRZEZINSKI", "physics": true, "shape": "dot", "size": 22, "title": "Borys Maria BRZEZINSKI\nTerm: 9"}, {"color": "lightgray", "id": "Lukasz WILKOSZ", "label": "Lukasz WILKOSZ", "physics": true, "shape": "dot", "size": 22, "title": "Lukasz WILKOSZ\nTerm: 9"}, {"color": "#3399FF", "id": "Adina-Ioana V\u0102LEAN", "label": "Adina-Ioana V\u0102LEAN", "physics": true, "shape": "dot", "size": 30, "title": "Adina-Ioana V\u0102LEAN\nPolitical Group: EPP\nNational Party: Partidul Na\u0163ional Liberal\n\nAll Assistants: \n- Razvan-Gheorghe MARC\n- Daniel-Alexandru NANCU\n- Filip Alexandru NEGREANU ARBOREANU"}, {"color": "lightgray", "id": "Razvan-Gheorghe MARC", "label": "Razvan-Gheorghe MARC", "physics": true, "shape": "dot", "size": 22, "title": "Razvan-Gheorghe MARC\nTerm: 9"}, {"color": "lightgray", "id": "Daniel-Alexandru NANCU", "label": "Daniel-Alexandru NANCU", "physics": true, "shape": "dot", "size": 22, "title": "Daniel-Alexandru NANCU\nTerm: 9"}, {"color": "lightgray", "id": "Filip Alexandru NEGREANU ARBOREANU", "label": "Filip Alexandru NEGREANU ARBOREANU", "physics": true, "shape": "dot", "size": 22, "title": "Filip Alexandru NEGREANU ARBOREANU\nTerm: 9"}, {"color": "#FF0000", "id": "Adrian-Drago\u015f BENEA", "label": "Adrian-Drago\u015f BENEA", "physics": true, "shape": "dot", "size": 30, "title": "Adrian-Drago\u015f BENEA\nPolitical Group: S\u0026D\nNational Party: Partidul Social Democrat\n\nAll Assistants: \n- Ilinca SOVA\n- Paula-Ramona TURCU"}, {"color": "lightgray", "id": "Ilinca SOVA", "label": "Ilinca SOVA", "physics": true, "shape": "dot", "size": 22, "title": "Ilinca SOVA\nTerm: 9"}, {"color": "lightgray", "id": "Paula-Ramona TURCU", "label": "Paula-Ramona TURCU", "physics": true, "shape": "dot", "size": 22, "title": "Paula-Ramona TURCU\nTerm: 9"}, {"color": "#3399FF", "id": "Agn\u00e8s EVREN", "label": "Agn\u00e8s EVREN", "physics": true, "shape": "dot", "size": 30, "title": "Agn\u00e8s EVREN\nPolitical Group: EPP\nNational Party: Les R\u00e9publicains\n\nAll Assistants: \n- Melanie Charlene Sophie BERNARD\n- Ugo Charles Yves VUILLARD-CORNU"}, {"color": "lightgray", "id": "Melanie Charlene Sophie BERNARD", "label": "Melanie Charlene Sophie BERNARD", "physics": true, "shape": "dot", "size": 22, "title": "Melanie Charlene Sophie BERNARD\nTerm: 9"}, {"color": "lightgray", "id": "Ugo Charles Yves VUILLARD-CORNU", "label": "Ugo Charles Yves VUILLARD-CORNU", "physics": true, "shape": "dot", "size": 22, "title": "Ugo Charles Yves VUILLARD-CORNU\nTerm: 9"}, {"color": "#3399FF", "id": "Aldo PATRICIELLO", "label": "Aldo PATRICIELLO", "physics": true, "shape": "dot", "size": 30, "title": "Aldo PATRICIELLO\nPolitical Group: EPP\nNational Party: Forza Italia\n\nAll Assistants: \n- Ivan FORTE\n- Lionel VERRECCHIA"}, {"color": "lightgray", "id": "Ivan FORTE", "label": "Ivan FORTE", "physics": true, "shape": "dot", "size": 22, "title": "Ivan FORTE\nTerm: 9"}, {"color": "lightgray", "id": "Lionel VERRECCHIA", "label": "Lionel VERRECCHIA", "physics": true, "shape": "dot", "size": 22, "title": "Lionel VERRECCHIA\nTerm: 9"}, {"color": "#2B3856", "id": "Alessandra BASSO", "label": "Alessandra BASSO", "physics": true, "shape": "dot", "size": 30, "title": "Alessandra BASSO\nPolitical Group: ID\nNational Party: Lega\n\nAll Assistants: \n- Arrigo VERTUA\n- Fabio LUGANO"}, {"color": "lightgray", "id": "Fabio LUGANO", "label": "Fabio LUGANO", "physics": true, "shape": "dot", "size": 22, "title": "Fabio LUGANO\nTerm: 9"}, {"color": "lightgray", "id": "Arrigo VERTUA", "label": "Arrigo VERTUA", "physics": true, "shape": "dot", "size": 22, "title": "Arrigo VERTUA\nTerm: 9"}, {"color": "#FF0000", "id": "Alessandra MORETTI", "label": "Alessandra MORETTI", "physics": true, "shape": "dot", "size": 30, "title": "Alessandra MORETTI\nPolitical Group: S\u0026D\nNational Party: Partito Democratico\n\nAll Assistants: \n- Alessandra MOSER\n- Marco CASTAGNETO\n- Francesca GARBAGNATI"}, {"color": "lightgray", "id": "Marco CASTAGNETO", "label": "Marco CASTAGNETO", "physics": true, "shape": "dot", "size": 22, "title": "Marco CASTAGNETO\nTerm: 9"}, {"color": "lightgray", "id": "Francesca GARBAGNATI", "label": "Francesca GARBAGNATI", "physics": true, "shape": "dot", "size": 22, "title": "Francesca GARBAGNATI\nTerm: 9"}, {"color": "lightgray", "id": "Alessandra MOSER", "label": "Alessandra MOSER", "physics": true, "shape": "dot", "size": 22, "title": "Alessandra MOSER\nTerm: 9"}, {"color": "#3399FF", "id": "Alessandra MUSSOLINI", "label": "Alessandra MUSSOLINI", "physics": true, "shape": "dot", "size": 30, "title": "Alessandra MUSSOLINI\nPolitical Group: EPP\nNational Party: Forza Italia\n\nAll Assistants: \n- Paolo CAMPISI\n- Ludovico PEZZATO\n- Federico ANTONELLI"}, {"color": "lightgray", "id": "Federico ANTONELLI", "label": "Federico ANTONELLI", "physics": true, "shape": "dot", "size": 22, "title": "Federico ANTONELLI\nTerm: 9"}, {"color": "lightgray", "id": "Paolo CAMPISI", "label": "Paolo CAMPISI", "physics": true, "shape": "dot", "size": 22, "title": "Paolo CAMPISI\nTerm: 9"}, {"color": "lightgray", "id": "Ludovico PEZZATO", "label": "Ludovico PEZZATO", "physics": true, "shape": "dot", "size": 22, "title": "Ludovico PEZZATO\nTerm: 9"}, {"color": "#2B3856", "id": "Alessandro PANZA", "label": "Alessandro PANZA", "physics": true, "shape": "dot", "size": 30, "title": "Alessandro PANZA\nPolitical Group: ID\nNational Party: Lega\n\nAll Assistants: \n- Matteo BONACCORSI"}, {"color": "lightgray", "id": "Matteo BONACCORSI", "label": "Matteo BONACCORSI", "physics": true, "shape": "dot", "size": 22, "title": "Matteo BONACCORSI\nTerm: 9"}, {"color": "#3399FF", "id": "Alexander BERNHUBER", "label": "Alexander BERNHUBER", "physics": true, "shape": "dot", "size": 30, "title": "Alexander BERNHUBER\nPolitical Group: EPP\nNational Party: \u00d6sterreichische Volkspartei\n\nAll Assistants: \n- Marlene Elisabeth STROEHM\n- Elisabeth HUETTER"}, {"color": "lightgray", "id": "Elisabeth HUETTER", "label": "Elisabeth HUETTER", "physics": true, "shape": "dot", "size": 22, "title": "Elisabeth HUETTER\nTerm: 9"}, {"color": "lightgray", "id": "Marlene Elisabeth STROEHM", "label": "Marlene Elisabeth STROEHM", "physics": true, "shape": "dot", "size": 22, "title": "Marlene Elisabeth STROEHM\nTerm: 9"}, {"color": "#0054A5", "id": "Alexandr VONDRA", "label": "Alexandr VONDRA", "physics": true, "shape": "dot", "size": 30, "title": "Alexandr VONDRA\nPolitical Group: ECR\nNational Party: Ob\u010dansk\u00e1 demokratick\u00e1 strana\n\nAll Assistants: \n- Ondrej KRUTILEK\n- Hedvika VURBALOVA"}, {"color": "lightgray", "id": "Ondrej KRUTILEK", "label": "Ondrej KRUTILEK", "physics": true, "shape": "dot", "size": 22, "title": "Ondrej KRUTILEK\nTerm: 9"}, {"color": "lightgray", "id": "Hedvika VURBALOVA", "label": "Hedvika VURBALOVA", "physics": true, "shape": "dot", "size": 22, "title": "Hedvika VURBALOVA\nTerm: 9"}, {"color": "#009900", "id": "Alexandra GEESE", "label": "Alexandra GEESE", "physics": true, "shape": "dot", "size": 30, "title": "Alexandra GEESE\nPolitical Group: G/EFA\nNational Party: B\u00fcndnis 90/Die Gr\u00fcnen\n\nAll Assistants: \n- Kirsten Ariane FIEDLER\n- Jana GOOTH\n- Anna FERRARI\n- Theresia REINHOLD"}, {"color": "lightgray", "id": "Anna FERRARI", "label": "Anna FERRARI", "physics": true, "shape": "dot", "size": 22, "title": "Anna FERRARI\nTerm: 9"}, {"color": "lightgray", "id": "Kirsten Ariane FIEDLER", "label": "Kirsten Ariane FIEDLER", "physics": true, "shape": "dot", "size": 22, "title": "Kirsten Ariane FIEDLER\nTerm: 9"}, {"color": "lightgray", "id": "Jana GOOTH", "label": "Jana GOOTH", "physics": true, "shape": "dot", "size": 22, "title": "Jana GOOTH\nTerm: 9"}, {"color": "lightgray", "id": "Theresia REINHOLD", "label": "Theresia REINHOLD", "physics": true, "shape": "dot", "size": 22, "title": "Theresia REINHOLD\nTerm: 9"}, {"color": "#009900", "id": "Alexandra Louise Rosenfield PHILLIPS", "label": "Alexandra Louise Rosenfield PHILLIPS", "physics": true, "shape": "dot", "size": 30, "title": "Alexandra Louise Rosenfield PHILLIPS\nPolitical Group: G/EFA\nNational Party: Green Party\n\nAll Assistants: \n- Thomas Isaac Augustine LEQUESNE\n- Katy CADWALLADER"}, {"color": "lightgray", "id": "Katy CADWALLADER", "label": "Katy CADWALLADER", "physics": true, "shape": "dot", "size": 22, "title": "Katy CADWALLADER\nTerm: 9"}, {"color": "lightgray", "id": "Thomas Isaac Augustine LEQUESNE", "label": "Thomas Isaac Augustine LEQUESNE", "physics": true, "shape": "dot", "size": 22, "title": "Thomas Isaac Augustine LEQUESNE\nTerm: 9"}, {"color": "#990000", "id": "Alexis GEORGOULIS", "label": "Alexis GEORGOULIS", "physics": true, "shape": "dot", "size": 30, "title": "Alexis GEORGOULIS\nPolitical Group: GUE/NGL\nNational Party: Coalition of the Radical Left\n\nAll Assistants: \n- Stylianos Foteinopoulos\n- Emmanouil KALAINTZIS"}, {"color": "lightgray", "id": "Stylianos Foteinopoulos", "label": "Stylianos Foteinopoulos", "physics": true, "shape": "dot", "size": 22, "title": "Stylianos Foteinopoulos\nTerm: 9"}, {"color": "lightgray", "id": "Emmanouil KALAINTZIS", "label": "Emmanouil KALAINTZIS", "physics": true, "shape": "dot", "size": 22, "title": "Emmanouil KALAINTZIS\nTerm: 9"}, {"color": "#FF0000", "id": "Alfred SANT", "label": "Alfred SANT", "physics": true, "shape": "dot", "size": 30, "title": "Alfred SANT\nPolitical Group: S\u0026D\nNational Party: Partit Laburista\n\nAll Assistants: \n- Ines Marie-Rose Alice ROHMER\n- Daniel BUHAGIAR"}, {"color": "lightgray", "id": "Daniel BUHAGIAR", "label": "Daniel BUHAGIAR", "physics": true, "shape": "dot", "size": 22, "title": "Daniel BUHAGIAR\nTerm: 9"}, {"color": "lightgray", "id": "Ines Marie-Rose Alice ROHMER", "label": "Ines Marie-Rose Alice ROHMER", "physics": true, "shape": "dot", "size": 22, "title": "Ines Marie-Rose Alice ROHMER\nTerm: 9"}, {"color": "#009900", "id": "Alice KUHNKE", "label": "Alice KUHNKE", "physics": true, "shape": "dot", "size": 30, "title": "Alice KUHNKE\nPolitical Group: G/EFA\nNational Party: Milj\u00f6partiet de gr\u00f6na\n\nAll Assistants: \n- AMANDA ELISABET ANNIE ARLEKLO"}, {"color": "lightgray", "id": "AMANDA ELISABET ANNIE ARLEKLO", "label": "AMANDA ELISABET ANNIE ARLEKLO", "physics": true, "shape": "dot", "size": 22, "title": "AMANDA ELISABET ANNIE ARLEKLO\nTerm: 9"}]);
+                  edges = new vis.DataSet([{"from": "Abir AL-SAHLANI", "to": "Anna Sophia BENGTSSON"}, {"from": "Abir AL-SAHLANI", "to": "John August HULTENGAARD"}, {"from": "Abir AL-SAHLANI", "to": "Tyra Louise LUNDBERG"}, {"from": "Abir AL-SAHLANI", "to": "Linn Christina Brunhilde OETTERLI"}, {"from": "Adam JARUBAS", "to": "Sylwia Joanna BETKOWSKA"}, {"from": "Adam JARUBAS", "to": "Borys Maria BRZEZINSKI"}, {"from": "Adam JARUBAS", "to": "Lukasz WILKOSZ"}, {"from": "Adina-Ioana V\u0102LEAN", "to": "Razvan-Gheorghe MARC"}, {"from": "Adina-Ioana V\u0102LEAN", "to": "Daniel-Alexandru NANCU"}, {"from": "Adina-Ioana V\u0102LEAN", "to": "Filip Alexandru NEGREANU ARBOREANU"}, {"from": "Adrian-Drago\u015f BENEA", "to": "Ilinca SOVA"}, {"from": "Adrian-Drago\u015f BENEA", "to": "Paula-Ramona TURCU"}, {"from": "Agn\u00e8s EVREN", "to": "Melanie Charlene Sophie BERNARD"}, {"from": "Agn\u00e8s EVREN", "to": "Ugo Charles Yves VUILLARD-CORNU"}, {"from": "Aldo PATRICIELLO", "to": "Ivan FORTE"}, {"from": "Aldo PATRICIELLO", "to": "Lionel VERRECCHIA"}, {"from": "Alessandra BASSO", "to": "Fabio LUGANO"}, {"from": "Alessandra BASSO", "to": "Arrigo VERTUA"}, {"from": "Alessandra MORETTI", "to": "Marco CASTAGNETO"}, {"from": "Alessandra MORETTI", "to": "Francesca GARBAGNATI"}, {"from": "Alessandra MORETTI", "to": "Alessandra MOSER"}, {"from": "Alessandra MUSSOLINI", "to": "Federico ANTONELLI"}, {"from": "Alessandra MUSSOLINI", "to": "Paolo CAMPISI"}, {"from": "Alessandra MUSSOLINI", "to": "Ludovico PEZZATO"}, {"from": "Alessandro PANZA", "to": "Matteo BONACCORSI"}, {"from": "Alexander BERNHUBER", "to": "Elisabeth HUETTER"}, {"from": "Alexander BERNHUBER", "to": "Marlene Elisabeth STROEHM"}, {"from": "Alexandr VONDRA", "to": "Ondrej KRUTILEK"}, {"from": "Alexandr VONDRA", "to": "Hedvika VURBALOVA"}, {"from": "Alexandra GEESE", "to": "Anna FERRARI"}, {"from": "Alexandra GEESE", "to": "Kirsten Ariane FIEDLER"}, {"from": "Alexandra GEESE", "to": "Jana GOOTH"}, {"from": "Alexandra GEESE", "to": "Theresia REINHOLD"}, {"from": "Alexandra Louise Rosenfield PHILLIPS", "to": "Katy CADWALLADER"}, {"from": "Alexandra Louise Rosenfield PHILLIPS", "to": "Thomas Isaac Augustine LEQUESNE"}, {"from": "Alexis GEORGOULIS", "to": "Stylianos Foteinopoulos"}, {"from": "Alexis GEORGOULIS", "to": "Emmanouil KALAINTZIS"}, {"from": "Alfred SANT", "to": "Daniel BUHAGIAR"}, {"from": "Alfred SANT", "to": "Ines Marie-Rose Alice ROHMER"}, {"from": "Alice KUHNKE", "to": "AMANDA ELISABET ANNIE ARLEKLO"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.6,
+            "gravitationalConstant": -2000,
+            "springConstant": 0.1,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    
+    <div style='position: absolute; bottom: 10px; left: 10px; z-index: 1000; background: white; padding: 10px; border: 1px solid #ccc;'>
+        <label for='termFilter'>Filter by Term:</label>
+        <select id='termFilter'>
+            <option value='all'>All</option>
+            <option value='9'>Term 9</option>
+            <option value='10'>Term 10</option>
+        </select>
+    </div>
+    <script>
+        const termFilter = document.getElementById('termFilter');
+        termFilter.addEventListener('change', function() {
+            const selectedTerm = termFilter.value;
+            network.body.data.nodes.update(network.body.data.nodes.get().map(node => {
+                node.hidden = selectedTerm !== 'all' && node.title.includes('Term:') && !node.title.includes(selectedTerm);
+                return node;
+            }));
+        });
+    </script>
+    </body>
+</html>
