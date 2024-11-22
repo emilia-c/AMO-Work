@@ -1,0 +1,269 @@
+Term 10: Taiwan/Taipei Keyword Matches
+
+MEP: Mika AALTOLA
+Meeting ID: 19
+Capacity: Member
+Date: 09-10-2024
+Meeting With: Ambassador of Taiwan
+Reason: Foreign Policy
+  - Keywords matched in meeting with: Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Marc ANGEL
+Meeting ID: 8
+Capacity: Member
+Date: 08-10-2024
+Meeting With: Taipei Representative Office in the European Union and Belgium
+Reason: Bilateral relations
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Petras AUŠTREVIČIUS
+Meeting ID: 2
+Capacity: Member
+Date: 05-09-2024
+Meeting With: Taiwan National Security Council
+Reason: EU-Taiwan
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Borja GIMÉNEZ LARRAZ
+Meeting ID: 7
+Capacity: Member
+Date: 15-10-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Meeting with Representative Ambassador of Taiwan to the EU and Belgium
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Borja GIMÉNEZ LARRAZ
+Meeting ID: 11
+Capacity: Member
+Date: 23-09-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Meeting with Taipei Representative Office in the EU and Belgium
+  - Keywords matched in reason: Taipei
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Svenja HAHN
+Meeting ID: 10
+Capacity: Member
+Date: 09-10-2024
+Meeting With: Representative, Taipei Representative Office in the EU and Belgium
+Reason: Introductory Meeting
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Ivars IJABS
+Meeting ID: 4
+Capacity: Member
+Date: 01-10-2024
+Meeting With: Taipei Representative Office in the EU
+Reason: EU-Taiwan relations
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Andrius KUBILIUS
+Meeting ID: 0
+Capacity: Member
+Date: 17-10-2024
+Meeting With: Representative of Taiwan civil society
+Reason: Situation in Taiwan, EU-Taiwan relations
+  - Keywords matched in reason: Taiwan, Taiwan
+  - Keywords matched in meeting with: Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Nathalie LOISEAU
+Meeting ID: 23
+Capacity: Member
+Date: 31-08-2024
+Meeting With: M. Joseph Wu, Secrétaire général du Conseil national de sécurité de Taïwan
+Reason: Lutte contre les ingérences étrangères et la manipulation de l'information
+  - Keywords matched in meeting with: Taïwan
+  - No match found in transparency registry.
+
+
+MEP: Bert-Jan RUISSEN
+Meeting ID: 9
+Capacity: Member
+Date: 15-07-2024
+Meeting With: Taipei Representative Office
+Reason: Friends of Taiwan Reception
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Joachim STREIT
+Meeting ID: 3
+Capacity: Member
+Date: 08-10-2024
+Meeting With: Taiwan Botschaft
+Reason: Aktuelle politische Lage in Taiwan
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Beata SZYDŁO
+Meeting ID: 0
+Capacity: Member
+Date: 17-10-2024
+Meeting With: European Taiwan Friendship Group
+Reason: EU-Taiwan relations
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Beata SZYDŁO
+Meeting ID: 3
+Capacity: Member
+Date: 09-10-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan relations
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Alice TEODORESCU MÅWE
+Meeting ID: 16
+Capacity: Member
+Date: 13-09-2024
+Meeting With: Taipei Representative Office in the European Union and Belgium
+Reason: EU-Taiwan relations, China
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Ingeborg TER LAAK
+Meeting ID: 16
+Capacity: Member
+Date: 03-10-2024
+Meeting With: Taiwan Taipei
+Reason: Representation Taipei
+  - Keywords matched in reason: Taipei
+  - Keywords matched in meeting with: Taiwan, Taipei
+  - No match found in transparency registry.
+
+
+MEP: Ingeborg TER LAAK
+Meeting ID: 20
+Capacity: Member
+Date: 15-07-2024
+Meeting With: representation of Taipei
+Reason: Europe Taiwan cocktail reception
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Beatrice TIMGREN
+Meeting ID: 1
+Capacity: Member
+Date: 07-11-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU Taiwan relations
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Sebastian TYNKKYNEN
+Meeting ID: 21
+Capacity: Member
+Date: 04-10-2024
+Meeting With: Taipei Representative Office in the European Union and Belgium
+Reason: Taiwanin ja EU:n suhteet
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 15
+Capacity: Member
+Date: 25-07-2024
+Meeting With: Taiwan Representative Office in the EU
+Reason: Exchange of view about EU-Taiwan relations
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 3
+Capacity: Member
+Date: 16-10-2024
+Meeting With: Taipei Office
+Reason: TAIWAN
+  - Keywords matched in reason: TAIWAN
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 10
+Capacity: Member
+Date: 03-10-2024
+Meeting With: Taipei Office
+Reason: TAIWAN
+  - Keywords matched in reason: TAIWAN
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 18
+Capacity: Member
+Date: 01-10-2024
+Meeting With: Ambassadeur Roy Lee et Wu Pei-Chien
+Reason: Ambassade de Taiwan
+  - Keywords matched in reason: Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Isabel WISELER-LIMA
+Meeting ID: 1
+Capacity: Member
+Date: 17-10-2024
+Meeting With: Taipei Representative Office in the European Union and Belgium
+Reason: Europe-Taiwan relations
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.
+
+
+MEP: Isabel WISELER-LIMA
+Meeting ID: 2
+Capacity: Member
+Date: 17-10-2024
+Meeting With: European Taiwan Friendship Group Former President of Taiwan
+Reason: Europe-Taiwan relations
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taiwan, Taiwan
+  - No match found in transparency registry.
+
+
+MEP: Isabel WISELER-LIMA
+Meeting ID: 7
+Capacity: Member
+Date: 02-10-2024
+Meeting With: The Taipei Representative Office in the EU and Belgium
+Reason: Taiwan’s 113th National Day Reception
+  - Keywords matched in reason: Taiwan
+  - Keywords matched in meeting with: Taipei
+  - No match found in transparency registry.

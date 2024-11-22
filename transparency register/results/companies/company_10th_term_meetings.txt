@@ -1,0 +1,290 @@
+Term 10: Company Keyword Matches
+
+MEP: Pascal ARIMONT
+Meeting ID: 28
+Capacity: Member
+Date: 17-09-2024
+Meeting With: TikTok Technology Ltd
+Reason: Protection of children on social media
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Stine BOSSE
+Meeting ID: 20
+Capacity: Member
+Date: 15-10-2024
+Meeting With: Confederation of Danish Industry
+Reason: European consumer protection - TEMU
+  - Keywords matched in reason: TEMU
+  - Company match: confederation of danish industry (Score: 100.0)
+    - HQ Country: DENMARK
+    - Registration Category: Trade and business associations
+
+
+MEP: Dóra DÁVID
+Meeting ID: 2
+Capacity: Member
+Date: 18-10-2024
+Meeting With: SHEIN Group
+Reason: E-Commerce platforms
+  - Keywords matched in meeting with: SHEIN
+  - Company match: shein group (Score: 100.0)
+    - HQ Country: SINGAPORE
+    - Registration Category: Companies & groups
+
+
+MEP: Adnan DIBRANI
+Meeting ID: 13
+Capacity: Member
+Date: 24-09-2024
+Meeting With: Volvo cars
+Reason: Industri och konkurrenskraft
+  - Keywords matched in meeting with: Volvo cars
+  - Company match: volvo car corporation ab (Score: 94.73684210526316)
+    - HQ Country: SWEDEN
+    - Registration Category: Companies & groups
+
+
+MEP: Pietro FIOCCHI
+Meeting ID: 5
+Capacity: Member
+Date: 17-09-2024
+Meeting With: Huawei Technologies
+Reason: Energy
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Chiara GEMMA
+Meeting ID: 3
+Capacity: Member
+Date: 17-07-2024
+Meeting With: Huawei Technologies
+Reason: Stakeholder meeting
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Jens GIESEKE
+Meeting ID: 19
+Capacity: Member
+Date: 23-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: Austausch zu Digitalpolitik
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Sunčana GLAVAK
+Meeting ID: 13
+Capacity: Member
+Date: 26-09-2024
+Meeting With: TikTok Technology Ltd
+Reason: Meeting on political content on TikTok
+  - Keywords matched in reason: TikTok
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: András GYÜRK
+Meeting ID: 41
+Capacity: Member
+Date: 17-07-2024
+Meeting With: Huawei Technologies
+Reason: Overview of upcoming EU-telecom proposals
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Eero HEINÄLUOMA
+Meeting ID: 12
+Capacity: Member
+Date: 03-10-2024
+Meeting With: Huawei Technologies
+Reason: Current Affairs
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Lukas MANDL
+Meeting ID: 48
+Capacity: Member
+Date: 18-07-2024
+Meeting With: Huawei Technologies
+Reason: EU competitiveness and industry
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Cynthia NÍ MHURCHÚ
+Meeting ID: 10
+Capacity: Member
+Date: 18-09-2024
+Meeting With: TikTok Technology Ltd
+Reason: Child Safety Online
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Diana RIBA I GINER
+Meeting ID: 23
+Capacity: Member
+Date: 17-09-2024
+Meeting With: TikTok Technology Ltd
+Reason: EU Audiovisual policies
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Antonella SBERNA
+Meeting ID: 8
+Capacity: Member
+Date: 08-10-2024
+Meeting With: Huawei Technologies
+Reason: Commitment to Renewable Technologies and Solar Energy Production in Italy
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Andreas SCHWAB
+Meeting ID: 0
+Capacity: Member
+Date: 24-10-2024
+Meeting With: TikTok Technology Ltd
+Reason: DMA and DSA implementation
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Sven SIMON
+Meeting ID: 0
+Capacity: Member
+Date: 17-09-2024
+Meeting With: TikTok Technology Ltd
+Reason: Digitalpolitik
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Tomislav SOKOL
+Meeting ID: 23
+Capacity: Member
+Date: 08-10-2024
+Meeting With: Huawei Technologies
+Reason: Internal market and consumer protection
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Marco SQUARTA
+Meeting ID: 1
+Capacity: Member
+Date: 23-10-2024
+Meeting With: SHEIN Group
+Reason: Introduction meeting and discussion about DSA and CULT initiatives
+  - Keywords matched in meeting with: SHEIN
+  - Company match: shein group (Score: 100.0)
+    - HQ Country: SINGAPORE
+    - Registration Category: Companies & groups
+
+
+MEP: Dario TAMBURRANO
+Meeting ID: 22
+Capacity: Member
+Date: 16-09-2024
+Meeting With: Huawei Technologies
+Reason: Incontro di presentazione
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Zala TOMAŠIČ
+Meeting ID: 6
+Capacity: Member
+Date: 01-10-2024
+Meeting With: TikTok Technology Ltd
+Reason: Social media
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Sebastian TYNKKYNEN
+Meeting ID: 6
+Capacity: Member
+Date: 17-10-2024
+Meeting With: TikTok Technology Ltd
+Reason: Koulutus avustajille
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Maria WALSH
+Meeting ID: 4
+Capacity: Member
+Date: 16-10-2024
+Meeting With: TikTok Technology Ltd
+Reason: Cyberbullying & Deepfakes
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups
+
+
+MEP: Andrea WECHSLER
+Meeting ID: 51
+Capacity: Member
+Date: 17-07-2024
+Meeting With: Huawei Technologies
+Reason: EU digital strategy
+  - Keywords matched in meeting with: Huawei Technologies
+  - Company match: huawei technologies (Score: 100.0)
+    - HQ Country: CHINA
+    - Registration Category: Companies & groups
+
+
+MEP: Angelika WINZIG
+Meeting ID: 8
+Capacity: Member
+Date: 14-10-2024
+Meeting With: TikTok Technology Ltd
+Reason: Meeting with a representative of TikTok
+  - Keywords matched in reason: TikTok
+  - Keywords matched in meeting with: TikTok
+  - Company match: tiktok technology ltd (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Companies & groups

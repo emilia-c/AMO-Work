@@ -1,0 +1,804 @@
+Term 9: HK Keyword Matches
+
+MEP: Maria ARENA
+Meeting ID: 153
+Capacity: Member
+Date: 05-09-2019
+Meeting With: Ambassadrice de Hong Kong
+Reason: Rencontre de courtoisie
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: José Ramón BAUZÁ DÍAZ
+Meeting ID: 55
+Capacity: Member
+Date: 10-10-2019
+Meeting With: Hong Kong Higher Institutions International Affairs Delegation (HKIAD)
+Reason: The Hong Kong protests
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Nicola BEER
+Meeting ID: 25
+Capacity: Member
+Date: 05-07-2023
+Meeting With: Hong Kong Watch
+Reason: Exhange of views
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Udo BULLMANN
+Meeting ID: 13
+Capacity: Committee chair
+Date: 22-01-2024
+Meeting With: Hong Kong Activists
+Reason: Exchange of views on democracy
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 134
+Capacity: Member
+Date: 17-11-2023
+Meeting With: Conference organised by Freiheit für Hongkong e.V. and Hong Kong Watch
+Reason: Participant
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 141
+Capacity: Member
+Date: 08-11-2023
+Meeting With: Hong Kong Watch
+Reason: Exchange of views
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 253
+Capacity: Member
+Date: 04-07-2023
+Meeting With: Students of Hong Kong Baptist University + Universität Heidelberg
+Reason: Exchange of views
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 487
+Capacity: Member
+Date: 11-10-2022
+Meeting With: Members of Hong Kong Watch Group
+Reason: Exchange of views
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 488
+Capacity: Member
+Date: 11-10-2022
+Meeting With: Members of Hong Kong Watch Group
+Reason: Reception
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 489
+Capacity: Member
+Date: 10-10-2022
+Meeting With: EEAS, China,Hong Kong, Macao, Taiwan, Mongolia
+Reason: Exchange
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 577
+Capacity: Member
+Date: 27-06-2022
+Meeting With: European Union Office to Hong Kong and Macao
+Reason: Exchange of views
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 603
+Capacity: Member
+Date: 01-06-2022
+Meeting With: European Union Office to Hong Kong and Macao
+Reason: Exchange of views
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 661
+Capacity: Member
+Date: 01-04-2022
+Meeting With: The Committee for Freedom in Hong Kong (CFHK)
+Reason: Exchange of views
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 912
+Capacity: Member
+Date: 15-04-2021
+Meeting With: Hong Kong’s National Security Law and the case of the 12 detainees – What role for the EU in China’s Human Rights Abuses?
+Reason: Host
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1020
+Capacity: Member
+Date: 10-07-2020
+Meeting With: Thomas Gnocchi Deputy Head of Division Japan, Korea, Australia, New Zealand and Pacific Camille Larene, the EEAS desk officer for Hong Kong
+Reason: Meeting
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1076
+Capacity: Member
+Date: 22-01-2020
+Meeting With: VertreterInnen der Bewegung „Stand With Hong Kong“,
+Reason: Treffen
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Pascal DURAND
+Meeting ID: 202
+Capacity: Member
+Date: 24-04-2020
+Meeting With: Hong Kong Watch
+Reason: Situation à Hong Kong (APA only)
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Engin EROGLU
+Meeting ID: 4
+Capacity: Member
+Date: 22-01-2024
+Meeting With: Stand With Hong Kong Action Inc. Germany Stands with Hong Kong
+Reason: Exchange on Hong Kong activists groups in the EU
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong, Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Engin EROGLU
+Meeting ID: 12
+Capacity: Member
+Date: 17-11-2023
+Meeting With: Hong Kong Watch Freiheit für Hongkong e. V.
+Reason: Panel discussion on Germany’s New China strategy and Hong Kong and Taiwan’s significance for the EU and the international order
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Engin EROGLU
+Meeting ID: 13
+Capacity: Member
+Date: 08-11-2023
+Meeting With: Hong Kong Watch
+Reason: Suppression of religious freedom in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Anna FOTYGA
+Meeting ID: 2
+Capacity: Member
+Date: 28-02-2024
+Meeting With: Hong Kong Watch
+Reason: Situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Anna FOTYGA
+Meeting ID: 27
+Capacity: Member
+Date: 07-11-2023
+Meeting With: Hong Kong Watch
+Reason: Suppression of the freedom of religion in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Anna FOTYGA
+Meeting ID: 33
+Capacity: Member
+Date: 27-06-2023
+Meeting With: Hong Kong Watch
+Reason: Situation of human rights in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Cindy FRANSSEN
+Meeting ID: 222
+Capacity: Member
+Date: 16-10-2019
+Meeting With: Hong Kong Trade Union Confederation
+Reason: Ontwikkelingen in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 23
+Capacity: Member
+Date: 04-07-2023
+Meeting With: Hong Kong Watch
+Reason: APA Level - National Security Law
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 103
+Capacity: Member
+Date: 06-05-2020
+Meeting With: Sam Goodman - Hong Kong Watch
+Reason: HR and Rule of Law in Hong-Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 114
+Capacity: Member
+Date: 22-01-2020
+Meeting With: Stand with Hong Kong group
+Reason: Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 6
+Capacity: Member
+Date: 19-03-2024
+Meeting With: Hong Kong Watch
+Reason: Meeting with Hong Kong Watch
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 24
+Capacity: Member
+Date: 27-06-2023
+Meeting With: Representatives of Hong Kong Watch
+Reason: Meeting with Hong Kong Watch
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 46
+Capacity: Member
+Date: 12-10-2022
+Meeting With: Hong Kong policy advocate and columnist
+Reason: Meeting on Hong Kong affairs
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Francisco GUERREIRO
+Meeting ID: 95
+Capacity: Member
+Date: 05-10-2020
+Meeting With: White House Consulting
+Reason: Reunião online com a White House Consulting sobre a situação política em Hong Kong.
+  - Keywords matched in reason: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Francisco GUERREIRO
+Meeting ID: 100
+Capacity: Member
+Date: 05-09-2020
+Meeting With: White House Consulting
+Reason: Exchange of views: Political situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Svenja HAHN
+Meeting ID: 107
+Capacity: Member
+Date: 07-12-2021
+Meeting With: Representatives of the Organisation 'Fight for Freedom. Stand with Hong Kong'
+Reason: Human Rights
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Svenja HAHN
+Meeting ID: 139
+Capacity: Member
+Date: 08-04-2021
+Meeting With: Hong Kong Watch
+Reason: Human rights and political situation in Hong Kong, National Security Law
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Heidi HAUTALA
+Meeting ID: 409
+Capacity: Member
+Date: 29-05-2020
+Meeting With: Stand with Hong Kong
+Reason: Fundamental Freedom of Honkongers
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Antony HOOK
+Meeting ID: 4
+Capacity: Member
+Date: 10-10-2019
+Meeting With: Hong Kong Higher Institutions International Affairs Delegation
+Reason: Current situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Rasa JUKNEVIČIENĖ
+Meeting ID: 2
+Capacity: Member
+Date: 19-03-2024
+Meeting With: Hong Kong Watch
+Reason: Situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Andrius KUBILIUS
+Meeting ID: 8
+Capacity: Member
+Date: 28-02-2024
+Meeting With: Hong Kong Watch
+Reason: Situtation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: David LEGA
+Meeting ID: 3
+Capacity: Member
+Date: 07-05-2024
+Meeting With: China Strategic Risks Institute
+Reason: Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: David LEGA
+Meeting ID: 4
+Capacity: Member
+Date: 07-05-2024
+Meeting With: Hong Kong Watch
+Reason: Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: David LEGA
+Meeting ID: 14
+Capacity: Member
+Date: 20-03-2024
+Meeting With: Stand with Hong Kong
+Reason: Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: David LEGA
+Meeting ID: 39
+Capacity: Member
+Date: 22-01-2024
+Meeting With: Stand With Hong Kong
+Reason: Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: David LEGA
+Meeting ID: 51
+Capacity: Member
+Date: 25-10-2023
+Meeting With: Front Line Defenders
+Reason: Human Rights, Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Company match: front line defenders (Score: 100.0)
+    - HQ Country: IRELAND
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: David LEGA
+Meeting ID: 80
+Capacity: Member
+Date: 06-06-2023
+Meeting With: Stand with Hong Kong
+Reason: Hong Kong. China
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Nathalie LOISEAU
+Meeting ID: 35
+Capacity: Member
+Date: 23-01-2024
+Meeting With: Stand With Hong Kong Action Inc.
+Reason: Situation des droits de l'homme à Hong-Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Kris PEETERS
+Meeting ID: 23
+Capacity: Member
+Date: 28-01-2020
+Meeting With: Hong Kong Economic & Trade Office, Belgium Hong Kong Society, several invitees
+Reason: New Year Reception Hong Kong Economic & Trade Office & Belgium Hong Kong Society
+  - Keywords matched in reason: Hong Kong, Hong Kong
+  - Keywords matched in meeting with: Hong Kong, Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Kris PEETERS
+Meeting ID: 80
+Capacity: Member
+Date: 13-09-2019
+Meeting With: Special Representative for Hong Kong Economic & Trade Affairs to the EU
+Reason: Lunch meeting
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Nicola PROCACCINI
+Meeting ID: 3
+Capacity: Member
+Date: 22-01-2020
+Meeting With: Stand With Hong Kong
+Reason: role of the European Parliament in the debate on the situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Isabel SANTOS
+Meeting ID: 10
+Capacity: Member
+Date: 22-01-2024
+Meeting With: Stand With Hong Kong Action Inc.
+Reason: Situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Isabel SANTOS
+Meeting ID: 20
+Capacity: Member
+Date: 08-11-2023
+Meeting With: EU Delegation to Hong Kong and Macau
+Reason: Exchange of views on the situation in both SARs
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Nacho SÁNCHEZ AMOR
+Meeting ID: 11
+Capacity: Member
+Date: 27-02-2024
+Meeting With: Hong Kong Watch
+Reason: Human Rights situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Nacho SÁNCHEZ AMOR
+Meeting ID: 96
+Capacity: Member
+Date: 08-06-2023
+Meeting With: Human Rights defender
+Reason: Human Rights in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Alfred SANT
+Meeting ID: 109
+Capacity: Shadow rapporteur
+Date: 24-02-2022
+Meeting With: Fight for Freedom. Stand With Hong Kong
+Reason: Foreign Subsidies Regulation
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 182
+Capacity: Member
+Date: 08-02-2022
+Meeting With: Hong Kong Watch
+Reason: Exchange of Views
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 268
+Capacity: Member
+Date: 23-02-2021
+Meeting With: Representatives of the Protest Movement
+Reason: Exchange of Views - Situation of Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Liesje SCHREINEMACHER
+Meeting ID: 13
+Capacity: Member
+Date: 15-03-2021
+Meeting With: Hong Kong Watch
+Reason: Hong Kong, Human rights
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 5
+Capacity: Member
+Date: 08-11-2023
+Meeting With: Hong Kong Watch
+Reason: Human Rights situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 8
+Capacity: Rapporteur
+Date: 21-09-2023
+Meeting With: Hong Kong Watch
+Reason: EU-China relations
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 63
+Capacity: Member
+Date: 14-09-2021
+Meeting With: Fight For Freedom. Stand With Hong Kong.
+Reason: Relations UE-Chine, Droits de l'homme, Accord global sur les investissements UE-Chine
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 33
+Capacity: Member
+Date: 16-10-2019
+Meeting With: Hong Kong Civil Society
+Reason: EU value-based engagement
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Salima YENBOU
+Meeting ID: 94
+Capacity: Member
+Date: 23-03-2022
+Meeting With: Activistes hongkongais pro-démocratie Hong Kong Watch
+Reason: Statut des prisonniers politiques de Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Salima YENBOU
+Meeting ID: 159
+Capacity: Member
+Date: 28-09-2020
+Meeting With: Hong Kong Watch Lord Patten, dernier gouverneur de Hong Kong et Patron de HKW
+Reason: Echange de vues
+  - Keywords matched in meeting with: Hong Kong, Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Lara WOLTERS
+Meeting ID: 256
+Capacity: Member
+Date: 20-02-2020
+Meeting With: Taipei Representative Office in the EU
+Reason: Taiwan and Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - No match found in transparency registry.
+
+
+MEP: Alviina ALAMETSÄ
+Meeting ID: 210
+Capacity: Member
+Date: 30-04-2020
+Meeting With: Stand With Hong Kong
+Reason: Civil society resistance movement activities in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Miriam LEXMANN
+Meeting ID: 6
+Capacity: Member
+Date: 23-01-2024
+Meeting With: Hong Kong Watch
+Reason: Briefing/Meeting to discuss human rights situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Thijs REUTEN
+Meeting ID: 14
+Capacity: Member
+Date: 23-01-2024
+Meeting With: Stand With Hong Kong Action Inc.
+Reason: Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: stand with hong kong action inc. (Score: 100.0)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 88
+Capacity: Member
+Date: 27-06-2023
+Meeting With: Hong Kong Watch
+Reason: Rights and freedoms in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 100
+Capacity: Member
+Date: 31-05-2023
+Meeting With: Hong Kong Watch
+Reason: Freedoms situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - Company match: hong kong watch (Score: 100.0)
+    - HQ Country: UNITED KINGDOM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 314
+Capacity: Member
+Date: 14-09-2021
+Meeting With: Fight For Freedom. Stand With Hong Kong (SWHK)
+Reason: Situation in Hong Kong
+  - Keywords matched in reason: Hong Kong
+  - Keywords matched in meeting with: Hong Kong
+  - No match found in transparency registry.
