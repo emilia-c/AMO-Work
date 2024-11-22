@@ -25,6 +25,7 @@ def parse_xml_extract_fields(root):
             'transparency_no': identification_code,
             'reg_date': registration_date,
             'name': name,
+            'registration_category': category_of_registration, 
             'acronym': acronym,
             'hq_city': head_office_city,
             'hq_country': head_office_country
@@ -52,11 +53,18 @@ for url in xml_urls:
 combined_df = pd.concat(all_dfs, ignore_index=True)
 
 # Drop duplicates based on transparency_no (or adjust based on unique identifier)
-#unique_df = combined_df.drop_duplicates(subset='transparency_no', keep='first')
-print(combined_df)
-# clean of whitespace and all to lowercase 
-#unique_df['name'] = unique_df['name'].str.replace(r'\n+', ' ', regex=True).str.strip()
-#unique_df['name'] = unique_df['name'].str.lower().str.strip()
+# unique_df = combined_df.drop_duplicates(subset='transparency_no', keep='first')
+
+# Clean of whitespace and convert to lowercase
+combined_df['name'] = combined_df['name'].str.replace(r'\n+', ' ', regex=True).str.strip()
+
+# Group by the 'name' field and convert to a dictionary
+grouped_data = combined_df.groupby('name').apply(lambda x: x.drop('name', axis=1).to_dict(orient='records')).to_dict()
+
+# Save the grouped data as a JSON file
+import json
+with open('2024_registered_orgs_grouped.json', 'w', encoding='utf-8') as json_file:
+    json.dump(grouped_data, json_file, ensure_ascii=False, indent=4)
 
 # Save the unique DataFrame to an Excel file
-#unique_df.to_excel('2024_registered_orgs.xlsx', index=False, engine='openpyxl')
+#combined_df.to_excel('2024_registered_orgs.xlsx', index=False, engine='openpyxl')

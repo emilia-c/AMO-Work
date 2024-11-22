@@ -1,0 +1,7844 @@
+9th Term Analysis (rough draft) 
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 0
+Date: 08-07-2024
+Meeting With: Mr Lu Kang, Vice Minister of the International Department of Communist Party of China
+Reason: Relationship between Malta and China and how both countries can continue to collaborate in various areas
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 2
+Date: 20-02-2024
+Meeting With: Huawei
+Reason: To discuss the latest innovative solutions in e-health as well as our solutions for smart hospitals and for bringing telemedicine to rural, mountainous and island areas
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 11
+Date: 17-08-2023
+Meeting With: Ambassador for China in Malta
+Reason: EU - China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 22
+Date: 12-01-2023
+Meeting With: DIGITALEUROPE DOT Europe Google Thorn IWF Internet Watch Foundation EDRI VU Amsterdam Cispe Cloud AWS CISPE co-chair of child safety group INHOPE Discord, the voice, video, and text chat app Brave Movement META GSMA TIKTOK ECO – Association of the Internet Industry ECPAT, Child protection authority Yahoo Terre des Hommes Microsoft ChildFund International EuroISPA German CCC Proton Centre for Democracy and Technology Missing Children Europe
+Reason: Prep CSA Regulation Stakeholders meeting
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 26
+Date: 19-10-2022
+Meeting With: TikTok
+Reason: AI
+Language: tl
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 54
+Date: 19-01-2022
+Meeting With: Xiaomi
+Reason: Common Charger
+Language: en
+  - Company match found: Xiaomi Corporation (Score: 100)
+
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 105
+Date: 16-11-2020
+Meeting With: TikTok
+Reason: DSA
+Language: de
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Alex AGIUS SALIBA
+Meeting ID: 142
+Date: 28-05-2020
+Meeting With: Huawei
+Reason: DSA
+Language: de
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Rasmus ANDRESEN
+Meeting ID: 13
+Date: 12-03-2024
+Meeting With: TikTok Technology Ltd
+Reason: European regulation for digital companies
+Language: ro
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Rasmus ANDRESEN
+Meeting ID: 45
+Date: 19-09-2023
+Meeting With: ONE
+Reason: socio-economic situation in Europe
+Language: it
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Rasmus ANDRESEN
+Meeting ID: 124
+Date: 14-07-2021
+Meeting With: TikTok Technology Ltd 165202837974-32
+Reason: Digital Markets Act from the perspective of a challenger business
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Rasmus ANDRESEN
+Meeting ID: 134
+Date: 12-05-2021
+Meeting With: Huawei Technologies (Huawei) 114467111412-38
+Reason: Cybersecurity and Huawei
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Rasmus ANDRESEN
+Meeting ID: 206
+Date: 07-11-2019
+Meeting With: Clemens Fuest President ifo Institute Ulrike Wolf, Director-General at the Bavarian Ministry of Economic Affairs, Regional Development and Energy
+Reason: parliamentary breakfast with discussion on the development of the current account balance between China, the Euro Area and the individual member states. registrationno.: 355074725892-48
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Andrus ANSIP
+Meeting ID: 1
+Date: 23-01-2024
+Meeting With: Taipei Representative Office in the European Union and Belgium
+Reason: 2024 Taiwan Election and its implications
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andrus ANSIP
+Meeting ID: 16
+Date: 13-10-2023
+Meeting With: Taipei Mission in the Republic of Latvia
+Reason: Security situation in the Taiwan Strait and in the world
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andrus ANSIP
+Meeting ID: 187
+Date: 22-04-2021
+Meeting With: TikTok
+Reason: Digital Markets Act
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Attila ARA-KOVÁCS
+Meeting ID: 3
+Date: 16-01-2024
+Meeting With: Mission of China to the European Union
+Reason: Relationship between China and the European Union
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Maria ARENA
+Meeting ID: 153
+Date: 05-09-2019
+Meeting With: Ambassadrice de Hong Kong
+Reason: Rencontre de courtoisie
+Language: fr
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Pascal ARIMONT
+Meeting ID: 26
+Date: 31-01-2024
+Meeting With: Meta Platforms Ireland Limited and its various subsidiaries Snap, Inc. TikTok Technology Ltd
+Reason: EPP Hearing: Protect children online
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Pascal ARIMONT
+Meeting ID: 257
+Date: 19-10-2021
+Meeting With: Volvo Cars
+Reason: New CO2 emission standards for cars and vans
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Pascal ARIMONT
+Meeting ID: 287
+Date: 10-12-2019
+Meeting With: Volvo
+Reason: Data sharing and eletric mobility in the car sector
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Pascal ARIMONT
+Meeting ID: 333
+Date: 23-07-2019
+Meeting With: ONE
+Reason: Signature of OneVote-Pledge
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Katarina BARLEY
+Meeting ID: 2
+Date: 03-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: Social media regulation; role of social media in electoral campaigns.
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Traian BĂSESCU
+Meeting ID: 0
+Date: 16-01-2024
+Meeting With: Mission of the People's Republic of China to the European Union
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: José Ramón BAUZÁ DÍAZ
+Meeting ID: 55
+Date: 10-10-2019
+Meeting With: Hong Kong Higher Institutions International Affairs Delegation (HKIAD)
+Reason: The Hong Kong protests
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nicola BEER
+Meeting ID: 14
+Date: 27-09-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nicola BEER
+Meeting ID: 25
+Date: 05-07-2023
+Meeting With: Hong Kong Watch
+Reason: Exhange of views
+Language: af
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nicola BEER
+Meeting ID: 97
+Date: 14-07-2022
+Meeting With: Ambassador Taipeh
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marek BELKA
+Meeting ID: 8
+Date: 24-10-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: EUCCC's 2023/2024 Position Paper and recent updates on the business climate for European companies in China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marek BELKA
+Meeting ID: 34
+Date: 16-02-2022
+Meeting With: Taipei Representative Office
+Reason: Meeting with the Taipei Representative Office in the EU, Ming-Yen Tsai, on the EU – Taiwan trade cooperation
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Brando BENIFEI
+Meeting ID: 140
+Date: 28-02-2023
+Meeting With: Huawei Technologies
+Reason: Discussion on the AIA
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Brando BENIFEI
+Meeting ID: 165
+Date: 06-07-2022
+Meeting With: TikTok Technology Ltd
+Reason: Discussion on the AIA
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Hildegard BENTELE
+Meeting ID: 18
+Date: 17-02-2024
+Meeting With: Center for China and Globalization
+Reason: Panelist - Munich Security Conference/ China, Europe, and the United States: Climate Cooperation in an Era of Great Power Politics
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Tom BERENDSEN
+Meeting ID: 122
+Date: 16-05-2022
+Meeting With: NS
+Reason: Green Mobility Package
+Language: en
+  - Company match found: Hisense Group (Score: 100)
+
+
+MEP: Tom BERENDSEN
+Meeting ID: 237
+Date: 12-02-2021
+Meeting With: Datenna (Director and Government Relations)
+Reason: Chinese economic influence
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Tom BERENDSEN
+Meeting ID: 254
+Date: 19-11-2020
+Meeting With: Nuctech (EU advisor)
+Reason: Transport security
+Language: en
+  - Company match found: Nuctech (Score: 100)
+
+
+MEP: Tom BERENDSEN
+Meeting ID: 262
+Date: 02-11-2020
+Meeting With: Datenna (CEO)
+Reason: Chinese influence within the EU
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Lars Patrick BERG
+Meeting ID: 1
+Date: 21-02-2024
+Meeting With: Taipei Representative Office in the European Union and Belgium
+Reason: Meeting with Ambassador Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Lars Patrick BERG
+Meeting ID: 7
+Date: 31-10-2023
+Meeting With: Taipei Representative Office in the European Union and Belgium
+Reason: Meeting with Ambassador Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Erik BERGKVIST
+Meeting ID: 216
+Date: 12-03-2021
+Meeting With: Ratio
+Reason: Webinar
+Language: de
+  - Company match found: ZTE Corporation (Score: 100)
+
+
+MEP: Erik BERGKVIST
+Meeting ID: 220
+Date: 03-03-2021
+Meeting With: Huawei
+Reason: Möte
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Erik BERGKVIST
+Meeting ID: 252
+Date: 06-02-2020
+Meeting With: LO
+Reason: Möte
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Robert BIEDROŃ
+Meeting ID: 33
+Date: 02-12-2021
+Meeting With: Huawei Technologies
+Reason: Female leadership
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Izaskun BILBAO BARANDICA
+Meeting ID: 90
+Date: 08-06-2023
+Meeting With: Biocom Energía
+Reason: Biocombustibles e importaciones China
+Language: es
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Izaskun BILBAO BARANDICA
+Meeting ID: 127
+Date: 10-03-2023
+Meeting With: AIC
+Reason: Sector automovilístico
+Language: es
+  - Company match found: SAIC Motor Corporation (Score: 100)
+
+
+MEP: Izaskun BILBAO BARANDICA
+Meeting ID: 355
+Date: 03-02-2021
+Meeting With: ERA
+Reason: ERTMS INI report
+Language: es
+  - Company match found: China General Nuclear Power Group (CGN) (Score: 100)
+
+
+MEP: Izaskun BILBAO BARANDICA
+Meeting ID: 363
+Date: 04-03-2020
+Meeting With: ERA
+Reason: ERTMS
+Language: es
+  - Company match found: China General Nuclear Power Group (CGN) (Score: 100)
+
+
+MEP: Michael BLOSS
+Meeting ID: 34
+Date: 11-12-2023
+Meeting With: COP Delegation of China
+Reason: COP28
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Michael BLOSS
+Meeting ID: 158
+Date: 17-11-2022
+Meeting With: COP27-Delegation China
+Reason: Allgemeiner Austausch
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Michael BLOSS
+Meeting ID: 468
+Date: 09-12-2019
+Meeting With: Greenpeace China
+Reason: climate policy
+Language: it
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Franc BOGOVIČ
+Meeting ID: 27
+Date: 29-11-2023
+Meeting With: Huawei Technologies
+Reason: Meeting on Smart Villages - in the capacity of co-chair of RUMRA & Smart Villages Intergroup
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Marc BOTENGA
+Meeting ID: 13
+Date: 21-11-2023
+Meeting With: Mission of the People's Republic of China to the European Union
+Reason: EU-China Science and Technology Cooperation
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Vlad-Marius BOTOŞ
+Meeting ID: 51
+Date: 04-05-2020
+Meeting With: TIC
+Reason: Product safety in the single market(2019/2190
+Language: en
+  - Company match found: KUKA Robotics (Score: 100)
+
+
+MEP: Patrick BREYER
+Meeting ID: 53
+Date: 03-12-2019
+Meeting With: Huawei
+Reason: Digital Policy
+Language: it
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Milan BRGLEZ
+Meeting ID: 118
+Date: 10-09-2020
+Meeting With: Huawei
+Reason: Cyber security
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Saskia BRICMONT
+Meeting ID: 3
+Date: 28-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: Règles de la communication politique sur Tiktok
+Language: fr
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Saskia BRICMONT
+Meeting ID: 143
+Date: 23-02-2021
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Introductory meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Klaus BUCHNER
+Meeting ID: 27
+Date: 26-09-2019
+Meeting With: Chinesische Gäste namentlich nicht mehr bekannt
+Reason: China Kreislaufwirtschaft
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Udo BULLMANN
+Meeting ID: 13
+Date: 22-01-2024
+Meeting With: Hong Kong Activists
+Reason: Exchange of views on democracy
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Delara BURKHARDT
+Meeting ID: 351
+Date: 05-11-2019
+Meeting With: ONE
+Reason: Austausch mit ONE-Jugendbotschafterin aus Kiel zum Kampf gegen extreme Armut
+Language: de
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Delara BURKHARDT
+Meeting ID: 385
+Date: 13-09-2019
+Meeting With: UKA
+Reason: Austausch zu Energiepolitik
+Language: de
+  - Company match found: KUKA Robotics (Score: 100)
+
+
+MEP: Cristian-Silviu BUŞOI
+Meeting ID: 36
+Date: 13-09-2023
+Meeting With: Huawei Technologies
+Reason: CRA, NZIA and GIA
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Cristian-Silviu BUŞOI
+Meeting ID: 99
+Date: 19-04-2022
+Meeting With: GIE
+Reason: REPowerEU and security supply
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Cristian-Silviu BUŞOI
+Meeting ID: 106
+Date: 08-12-2021
+Meeting With: Huawei Technologies Belgium
+Reason: SNS JU, NIS 2
+Language: de
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 0
+Date: 29-06-2024
+Meeting With: Institut Montaigne
+Reason: speaker "Europe’s engagement of China"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1
+Date: 20-06-2024
+Meeting With: Stiftung Wissenschaft und Politik
+Reason: speaker Daimler Forum "Understanding the Contender: The Principles for China’s Global Strategy"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 2
+Date: 18-06-2024
+Meeting With: Young China Watchers
+Reason: Speaker
+Language: no
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 5
+Date: 10-06-2024
+Meeting With: Ständige Vertretung der Bundesrepublik Deutschland
+Reason: #speaker Dinner discussion on China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 7
+Date: 28-05-2024
+Meeting With: German MarshallFund of the United States
+Reason: Stockholm China Forum
+Language: sv
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 22
+Date: 10-04-2024
+Meeting With: Mission of Japan to the EuropeanUnion +Taipei Representative Office in the EU and Belgium
+Reason: dinner
+Language: af
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 24
+Date: 04-04-2024
+Meeting With: Transatlantic Legislators Dialogue
+Reason: speaker " Transatlantic economic security and the EU-US Tradeand Technology Council, at a time of increased competition with China."
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 28
+Date: 02-04-2024
+Meeting With: Transatlantic Week
+Reason: speaker Geopolitical outlook: China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 40
+Date: 25-03-2024
+Meeting With: President of the Republic of China (Taiwan)
+Reason: Audience
+Language: es
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 44
+Date: 21-03-2024
+Meeting With: Institute of European Studies, Chinese Academy of Social Scienes, Beijing + Ministry of Industry andInformation Technology, Beijing
+Reason: exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 45
+Date: 21-03-2024
+Meeting With: Center for European Policy Analysis (CEPA)
+Reason: Participant "Session to China-Related Investment Issues"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 64
+Date: 19-02-2024
+Meeting With: Institute of Chinese Studies, New Delhi
+Reason: exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 65
+Date: 17-02-2024
+Meeting With: Munich Security Conference
+Reason: speaker "China as an epoch-defining challenge for us"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 77
+Date: 13-02-2024
+Meeting With: Arbeitskreises Wirtschaft der deutschen Länder
+Reason: Redner "Handels,- Beziehungen EU-China"
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 80
+Date: 12-02-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Dinner
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 100
+Date: 23-01-2024
+Meeting With: Meet EU
+Reason: Speaker "European Sovereignty in EU-China Relations: What's onthe Horizon? "
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 125
+Date: 04-12-2023
+Meeting With: Stockholm China Forum, German Marshall Fund of the United States
+Reason: speaker PRC ECONOMIC PRESSURE, NARRATIVE CONTROL AND POLITICAL INFLUENCE OPERATIONS - GETTING THE RESPONSE RIGHT
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 126
+Date: 03-12-2023
+Meeting With: Stockholm China Forum, German Marshall Fund of the United States
+Reason: Opening Dinner
+Language: no
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 127
+Date: 30-11-2023
+Meeting With: Center for European Policy Analysis (CEPA)
+Reason: Discussion: China-EU-US Tech Working Group
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 128
+Date: 29-11-2023
+Meeting With: Institute of West Asian and African Studies, Chinese Academy of International Trade and Economic Cooperation
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 134
+Date: 17-11-2023
+Meeting With: Conference organised by Freiheit für Hongkong e.V. and Hong Kong Watch
+Reason: Participant
+Language: it
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 141
+Date: 08-11-2023
+Meeting With: Hong Kong Watch
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 144
+Date: 02-11-2023
+Meeting With: Transatlantic Policy Forum-EUROPEUM Institute for European Policy
+Reason: speaker: "Empowering Economic Resilience: Strengthening Transatlantic Security Amidst China's Influence"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 151
+Date: 24-10-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: Working Lunch
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 161
+Date: 06-10-2023
+Meeting With: Taipeh Vertretung in der Bundesrepublik Deutschland
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 174
+Date: 22-09-2023
+Meeting With: GermanTrade Office Taipei
+Reason: Exchange
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 177
+Date: 21-09-2023
+Meeting With: CEPA China-EU-US Tech Working Group
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 195
+Date: 04-09-2023
+Meeting With: German Embassy in China
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 201
+Date: 28-08-2023
+Meeting With: European Forum Alpbach
+Reason: Speaker "Player or Playground? Europe and the US-China Tech War"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 240
+Date: 18-07-2023
+Meeting With: Taipei Representative Office inthe EU & Belgium
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 247
+Date: 12-07-2023
+Meeting With: Leibniz-Institut Hessische Stiftung Friedens- und Konfliktforschung (HSFK)
+Reason: Podiumsdiskussion " Die Risiken gegenüber China minimieren, aber wie? "
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 253
+Date: 04-07-2023
+Meeting With: Students of Hong Kong Baptist University + Universität Heidelberg
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 258
+Date: 29-06-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 269
+Date: 17-06-2023
+Meeting With: Institut Montaigne
+Reason: Speaker "EU-China: what can we still expect from engaging China on international security and global governance issues?"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 288
+Date: 31-05-2023
+Meeting With: German Marshall Fund
+Reason: "speaker Stockholm China Forum - Tensions in the Taiwan Strait – IImplications for the United States and Europe"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 289
+Date: 25-05-2023
+Meeting With: U.S.-China Economic and Security Review Commission, U.S. Mission to the EU
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 290
+Date: 25-05-2023
+Meeting With: Transatlantic Policy Network
+Reason: Speaker “US-EU and China: a common transatlantic approach on trade?”
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 300
+Date: 12-05-2023
+Meeting With: Dialogue China think tank
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 312
+Date: 25-04-2023
+Meeting With: Staatsministerium Baden-Württemberg
+Reason: Redner "Geopolitik/Abhängigkeit von China"
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 313
+Date: 25-04-2023
+Meeting With: Table Media GmbH
+Reason: speaker" China Strategy 2023"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 336
+Date: 03-04-2023
+Meeting With: Atlantic Council
+Reason: Speaker on President von der Leyen'svisit to China
+Language: nl
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 341
+Date: 30-03-2023
+Meeting With: BundeskanzlerHelmut Schmidt Stiftung in Hamburg
+Reason: Speaker on the evolution of German narratives on China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 367
+Date: 07-03-2023
+Meeting With: "Chineseexpats in Europe and China’s diaspora policy"
+Reason: Host Webinar
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 369
+Date: 07-03-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 370
+Date: 07-03-2023
+Meeting With: Inter-ParliamentaryAlliance on China
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 375
+Date: 02-03-2023
+Meeting With: Organisation for Research on China and Asia (ORCA)
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 388
+Date: 19-02-2023
+Meeting With: MSC Frühstücksevent
+Reason: speaker/co-host "Strategic Rival China, what does it mean?"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 410
+Date: 02-02-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: lunch meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 422
+Date: 18-01-2023
+Meeting With: Representative Taipei City
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 425
+Date: 11-01-2023
+Meeting With: European Union Chamber of Commerce in China + Members of the European Parliament
+Reason: Host of a lunch
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 429
+Date: 09-01-2023
+Meeting With: Centerfor European Policy Analysis (CEPA)
+Reason: speaker "Responding to Chinese influence"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 445
+Date: 18-12-2022
+Meeting With: Soochow University in Taipei
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 453
+Date: 08-12-2022
+Meeting With: Representatives of the EU Chamber of Commerce in China
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 455
+Date: 06-12-2022
+Meeting With: Taipei Representative
+Reason: Participant of a lunch
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 460
+Date: 02-12-2022
+Meeting With: Paul Tsai China Center
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 464
+Date: 29-11-2022
+Meeting With: Deutsches Institut Taipei
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 465
+Date: 29-11-2022
+Meeting With: Hongkong Diaspora
+Reason: Dinner
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 473
+Date: 27-10-2022
+Meeting With: Fairbank Center for Chinese Studies
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 477
+Date: 24-10-2022
+Meeting With: Supply Chain Legislation and Human Rights - Supply Chain Legislation and Human Rights
+Reason: Speaker Stockholm China Forum
+Language: sv
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 481
+Date: 19-10-2022
+Meeting With: China's role in the upcoming International Climate Conference, COP27
+Reason: Host
+Language: sk
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 482
+Date: 13-10-2022
+Meeting With: Dinner with China Experts
+Reason: Host
+Language: sk
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 483
+Date: 13-10-2022
+Meeting With: China Conference Xi Jinping's China: What Can We Expect?
+Reason: Host
+Language: sk
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 484
+Date: 12-10-2022
+Meeting With: ECFR/MERICS
+Reason: European Caucasus on China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 487
+Date: 11-10-2022
+Meeting With: Members of Hong Kong Watch Group
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 488
+Date: 11-10-2022
+Meeting With: Members of Hong Kong Watch Group
+Reason: Reception
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 489
+Date: 10-10-2022
+Meeting With: EEAS, China,Hong Kong, Macao, Taiwan, Mongolia
+Reason: Exchange
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 498
+Date: 05-10-2022
+Meeting With: Warsaw Security Forum
+Reason: Speaker: Beijing's splendid isolation: China between the changing Transatlantic Landscape and worldwide interests
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 523
+Date: 20-09-2022
+Meeting With: BusinessEurope
+Reason: speaker "Position Paper on EU-China relations"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 532
+Date: 07-09-2022
+Meeting With: Germanwatch e.V.
+Reason: Participant Roundtable "Climatein the EU-US-China Relationship"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 540
+Date: 05-09-2022
+Meeting With: Konferenz der Leiterinnen und Leiter der deutschen Auslandsvertretungen
+Reason: " Impuls zur Praxiswerkstatt 5 „China verändert sich – was muss sich an unserem Umgang mit China ändern?“
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 560
+Date: 19-08-2022
+Meeting With: National Foundation for Australia-China Relations
+Reason: Foreign Policy Roundtable
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 564
+Date: 14-07-2022
+Meeting With: EPRS (European Parliamentary Research Service)
+Reason: Speaker "Is China’s economy in decline? Long-term trends, vulnerabilities, reform agenda"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 577
+Date: 27-06-2022
+Meeting With: European Union Office to Hong Kong and Macao
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 578
+Date: 25-06-2022
+Meeting With: Institut Montaigne
+Reason: Participant China Strategy Group
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 579
+Date: 24-06-2022
+Meeting With: Institut Montaigne
+Reason: speaker "dinner conversation" China Strategy Group
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 583
+Date: 21-06-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 587
+Date: 19-06-2022
+Meeting With: European Council on Foreign Relations (ECFR)
+Reason: speaker "Policy Salon II > Turning point: How Beijing’s support for Russia’s war is transforming EU-China relations"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 588
+Date: 16-06-2022
+Meeting With: Stockholm China Forum (SCF), German Marshall Fund
+Reason: Speaker Stockholm China Forum "PANEL DISCUSSION: TRANSATLANTIC COORDINATION ON CHI"
+Language: sv
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 589
+Date: 16-06-2022
+Meeting With: Stockholm China Forum (SCF), German Marshall Fund
+Reason: Participant
+Language: it
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 590
+Date: 15-06-2022
+Meeting With: German Marshall Fund
+Reason: Speaker India Trilateral Forum "PANEL DISCUSSION: HOW WILL THE RUSSIA CRISIS CHANGE OUR APPROACH TO CHINA?""
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 603
+Date: 01-06-2022
+Meeting With: European Union Office to Hong Kong and Macao
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 610
+Date: 27-05-2022
+Meeting With: Defense Forum
+Reason: Speaker Transatlantic Defense Forum "China: Dividing and Uniting Factor in Transatlantic Relations? "
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 617
+Date: 23-05-2022
+Meeting With: Webinar
+Reason: Gastgeber: "Webinar zum Thema China-Kompetenz"
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 619
+Date: 19-05-2022
+Meeting With: Mercator Institute for China Studies (MERICS)
+Reason: Redner "China-Politik der EU "
+Language: de
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 621
+Date: 18-05-2022
+Meeting With: bruegel
+Reason: Speaker "Is China’s private sector advancing or retreating?"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 627
+Date: 17-05-2022
+Meeting With: Verein zur Förderung politischen Handelns e.V.
+Reason: Austausch zu EU-China-Beziehungen
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 631
+Date: 12-05-2022
+Meeting With: DGAP (Deutsche Gesellschaft für auswärtige Politik)
+Reason: Speaker "German China Strategy"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 632
+Date: 11-05-2022
+Meeting With: American Academy in Berlin GmbH
+Reason: Workshop “EU-China-US relations: Geopolitics and Global Supply Chains”
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 642
+Date: 26-04-2022
+Meeting With: Ministry of External Affairs Government of India + Observer Research Foundation (ORF)
+Reason: Speaker Raisina Dialogue "Dragon's Fire: Deciphering China after Ukraine"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 646
+Date: 24-04-2022
+Meeting With: Raisina Young Fellows
+Reason: Speaker "Eurasia Reconstructed: The New Equations between China, Russia and Europe"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 651
+Date: 21-04-2022
+Meeting With: Lib DemsSubcommittee on China.
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 655
+Date: 07-04-2022
+Meeting With: VUB, Centre for Security, Diplomacy and Strategy
+Reason: Speaker "China's challenge to the international order"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 656
+Date: 07-04-2022
+Meeting With: Heidelberg Center for American Studies (HCA) + Center for Asian and Transcultural Studies (CATS)
+Reason: Vortragsreihe: Beziehungen zwischen den USA und China,
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 661
+Date: 01-04-2022
+Meeting With: The Committee for Freedom in Hong Kong (CFHK)
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 666
+Date: 31-03-2022
+Meeting With: Embassy of the Federal Republic of Germany/CSIS
+Reason: Participant German-American Dialogue on China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 679
+Date: 21-03-2022
+Meeting With: The Situation of Foreign Journalists and Media Workers in China
+Reason: Host Webinar
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 685
+Date: 16-03-2022
+Meeting With: MERICS + Institut Montaigne
+Reason: speaker "Roundtable discussion: German-French impulse for a better European China Policy"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 686
+Date: 13-03-2022
+Meeting With: Badener-Badener Unternehmergespräche
+Reason: speaker China und der Westen – Europa dazwischen?
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 687
+Date: 12-03-2022
+Meeting With: Liberal Democrat European Group
+Reason: speaker Spring Conference on Europe’s Relationship with China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 693
+Date: 22-02-2022
+Meeting With: China.Table
+Reason: Speaker "# speaker Digitale Konferenz für China-Entscheider in Politik, Wirtschaft und Wissenschaft"
+Language: de
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 695
+Date: 21-02-2022
+Meeting With: "Legal Analysis of theEU-China CAI"
+Reason: Host Study Launch
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 703
+Date: 17-02-2022
+Meeting With: EuropeanCouncil on Foreign Relations (ECFR)
+Reason: Speaker "Lithuania, China & the EU"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 705
+Date: 14-02-2022
+Meeting With: AHK - German Trade Office Taipei
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 709
+Date: 09-02-2022
+Meeting With: Universität Trier
+Reason: speaker "„Wie Deutschland und Europa auf die technologische Herausforderung China reagieren sollte“ "
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 710
+Date: 08-02-2022
+Meeting With: EPC High-Level China Strategic Brainstorming
+Reason: speaker "The future starts now: Scenarios for EU-China relations”
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 726
+Date: 24-01-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Lunch
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 762
+Date: 08-12-2021
+Meeting With: Host Study Presentation
+Reason: "The Civil Society Blindspot in European China Policy"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 776
+Date: 17-11-2021
+Meeting With: The German Marshall Fund of the United States
+Reason: Speaker "Stockholm China Forum-Human Rights and Corporate Due Diligence"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 778
+Date: 16-11-2021
+Meeting With: Wilson Center
+Reason: Speaker "Transatlantic WG on China"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 779
+Date: 03-11-2021
+Meeting With: Mercator Institute for China Studies (Merics) + European Council on Foreign Relations (ECFR)
+Reason: Speaker "“Europe and China: Balancing Geopolitics, Competition and Innovation”"
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 782
+Date: 21-10-2021
+Meeting With: Mercator Institute for China Studies (Merics)
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 784
+Date: 13-10-2021
+Meeting With: Forum 2000 Conference
+Reason: Speaker "Workshop Systemic Competition with China: What should a common strategy of the West look like?
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 793
+Date: 30-09-2021
+Meeting With: 110th National Day of the Republic of China (Taiwan)
+Reason: Reception
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 797
+Date: 28-09-2021
+Meeting With: European UnionChamber of Commerce in China
+Reason: "Speaker ""German Elections: EU policy – with regard to China"" "
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 801
+Date: 17-09-2021
+Meeting With: Mercator Institute for China Studies (Merics)
+Reason: Speaker "Members Briefing: New Impetus for the EU’s strategy on China and Indo-Pacific"
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 805
+Date: 14-09-2021
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Dinner
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 806
+Date: 09-09-2021
+Meeting With: Center for the Study of Democracy
+Reason: Speaker "Chinese Economic Influence in Europe: The Governance and Climate Conundrum"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 808
+Date: 07-09-2021
+Meeting With: The European Values Center for Security Policy
+Reason: Speaker "Responding to hybrid threats: Future of European Policy on China and Taiwan"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 815
+Date: 26-08-2021
+Meeting With: Bertelsmann Stiftung + Merics + BDI
+Reason: Participant Conference on China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 819
+Date: 23-08-2021
+Meeting With: Mercator Institute for China Studies (Merics)
+Reason: Lunch
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 835
+Date: 21-07-2021
+Meeting With: Universität Hohenheim
+Reason: Podcast "China"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 843
+Date: 14-07-2021
+Meeting With: National Endowment for Democracy
+Reason: Speaker "What is the future of the EU-China relationship?"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 852
+Date: 09-07-2021
+Meeting With: Hudson Institute
+Reason: Speaker "Exploring the Effects of Chinese Sanctions on European MEPs"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 855
+Date: 07-07-2021
+Meeting With: The Beijing Olympics and Human Rights
+Reason: Host Online Event
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 858
+Date: 29-06-2021
+Meeting With: European Economic and Social Committee
+Reason: Speaker "Doing politics& business with China: at all costs?"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 867
+Date: 17-06-2021
+Meeting With: AICGS American Institute for Contemporary German Studies
+Reason: Speaker Transatlantic Workshop “Expanding the Transatlantic Toolbox for Economic and Strategic Competition with China: Export Control, Foreign Subsidy Rules, and Investment Screening”
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 870
+Date: 16-06-2021
+Meeting With: GMF Brussels Forum
+Reason: Speaker "Democratizing China Policy"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 874
+Date: 09-06-2021
+Meeting With: The Royal Institute of International Affairs Chatam House
+Reason: Speaker "The TransatlanticTriangle and China: Strategic choices for multilateralism"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 877
+Date: 06-06-2021
+Meeting With: Konrad-Adenauer-Stiftung
+Reason: Redner Podiumsdiskussion zu Hongkong
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 878
+Date: 04-06-2021
+Meeting With: Taipeh Vertretung(Taiwan) in der Bundesrepublik Deutschland
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 879
+Date: 03-06-2021
+Meeting With: 'EU Student Festival'
+Reason: Speaker workshop on EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 881
+Date: 01-06-2021
+Meeting With: Global Europe Program
+Reason: Transatlantic Working Group on US and EU responses to China's Arctic ambitions
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 884
+Date: 24-05-2021
+Meeting With: Seimas of the Republic of Lithuania
+Reason: Speaker International Conference on EU-USA & China:
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 897
+Date: 05-05-2021
+Meeting With: Universität Tübungen
+Reason: Veranstaltung zu EU-China
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 900
+Date: 26-04-2021
+Meeting With: Europa Institut Universität des Saarlandes
+Reason: Speaker "China 2025 and the European Union"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 902
+Date: 22-04-2021
+Meeting With: Hearing in Lithuanian Parliament
+Reason: Speaker "HUMAN RIGHTS SITUATION IN THE PEOPLE’S REPUBLIC OF CHINA"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 903
+Date: 22-04-2021
+Meeting With: AboutFiReSide
+Reason: Speaker "China and Europe"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 909
+Date: 19-04-2021
+Meeting With: EU-CHINA COMPREHENSIVE AGREEMENT ON INVESTMENT: POLITICAL AND ECONOMIC IMPLICATIONS FOR THE EUROPEAN UNION
+Reason: Presentation of study
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 912
+Date: 15-04-2021
+Meeting With: Hong Kong’s National Security Law and the case of the 12 detainees – What role for the EU in China’s Human Rights Abuses?
+Reason: Host
+Language: sk
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 914
+Date: 15-04-2021
+Meeting With: "Afrika China und Europa: zwischen Abhängigkeit Konkurrenz und Kooperation"
+Reason: Speaker
+Language: no
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 917
+Date: 14-04-2021
+Meeting With: European Forum for Manufacturing
+Reason: Speaker "China Trade Policy and the EU"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 922
+Date: 08-04-2021
+Meeting With: The Brookings Institution
+Reason: Speaker on China sanctions
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 923
+Date: 08-04-2021
+Meeting With: MERICS + Münchener Sicherheitskonferenz
+Reason: Discussion "Distinguished Reflection Group on Transatlantic China Policy"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 926
+Date: 25-03-2021
+Meeting With: China Center U.S. Chamber of Commerce
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 929
+Date: 22-03-2021
+Meeting With: Network SAP Labs China
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 954
+Date: 12-02-2021
+Meeting With: Datenna China Industry & Innovation Intelligence
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 961
+Date: 29-01-2021
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 963
+Date: 25-01-2021
+Meeting With: MercatorInstitute for China Studies (MERICS)
+Reason: Exchenge of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 972
+Date: 11-01-2021
+Meeting With: China Data Analysis & Research Hub
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1004
+Date: 10-09-2020
+Meeting With: Ambassador Ming-Yen TSAI Taipei Representative Office in the EU and Belgium Brüssel
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1005
+Date: 09-09-2020
+Meeting With: Klaus Supp BMZ Referatsleiter China Zentralasien Ostasien Laos Kambodscha
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1015
+Date: 26-08-2020
+Meeting With: Marco Felisati Head of the trade policy department at Confindustria Carlo Pirrone EU affairs Confindustria and Giovanni Dioguardi Senior Adviser trade policy/China Confindustria
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1020
+Date: 10-07-2020
+Meeting With: Thomas Gnocchi Deputy Head of Division Japan, Korea, Australia, New Zealand and Pacific Camille Larene, the EEAS desk officer for Hong Kong
+Reason: Meeting
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1022
+Date: 07-07-2020
+Meeting With: Botschfafter Harry Tseng, Taipei Representative Office in the EUand Belgium
+Reason: Meeting
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1032
+Date: 09-03-2020
+Meeting With: Außenministerium Finnland
+Reason: Redner beim Roundtable 'China - Awareness and Engagement'
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1034
+Date: 04-03-2020
+Meeting With: Mark Libby, Charge d’Affaires ad interim of the US Mission to the EU
+Reason: Abendessen "U.S. and EU relations with the People’s Republic of China",
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1035
+Date: 21-02-2020
+Meeting With: Transatlantic Symposium on U.S. & European Relations with China (SWP) “Europeans Views on U.S. Policies and Debates on China & What Are European”
+Reason: Speaker
+Language: no
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1055
+Date: 07-02-2020
+Meeting With: Dr. Sophie Richardson, China Director, Human Rights Watch
+Reason: Meeting
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1064
+Date: 04-02-2020
+Meeting With: Jörg Wuttke, Vice President Chief Representative, China BASF (China), Jens Eskelund, Sara Marchetta, Pierre-Yves Bonnet, Adam Dunnett, Davide Cucino, EUCCC
+Reason: Meeting
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1069
+Date: 30-01-2020
+Meeting With: Sophie Richardson, China director at Human Rights Watch
+Reason: Treffen
+Language: cy
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1075
+Date: 22-01-2020
+Meeting With: Business Europe
+Reason: Gastgeber einer Veranstaltung zur Vorstellung des Europe’s Strategy Paper on China von Business Europe
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1076
+Date: 22-01-2020
+Meeting With: VertreterInnen der Bewegung „Stand With Hong Kong“,
+Reason: Treffen
+Language: cy
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1082
+Date: 15-01-2020
+Meeting With: Harry Tseng, Ambassador Taipei Representative Office in the EU and Belgium
+Reason: Treffen
+Language: cy
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Reinhard BÜTIKOFER
+Meeting ID: 1085
+Date: 10-01-2020
+Meeting With: MERICS (Mercator Institute for China Studies gGmbH)
+Reason: Konferenz "India-China Dynamics: Reappraising the Significance for Europe"
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Pascal CANFIN
+Meeting ID: 140
+Date: 23-05-2023
+Meeting With: Volvo
+Reason: Green Deal
+Language: nl
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Pascal CANFIN
+Meeting ID: 491
+Date: 07-05-2020
+Meeting With: Volvo
+Reason: EU Green Recovery
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Pilar DEL CASTILLO VERA
+Meeting ID: 34
+Date: 04-05-2022
+Meeting With: Huawei Technologies
+Reason: Data Act
+Language: id
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Susanna CECCARDI
+Meeting ID: 0
+Date: 27-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: Meeting with TikTok
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Sara CERDAS
+Meeting ID: 15
+Date: 27-11-2023
+Meeting With: Huawei Technologies
+Reason: Reunião com a Huawei
+Language: pt
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Mohammed CHAHIM
+Meeting ID: 135
+Date: 25-10-2022
+Meeting With: ONE
+Reason: Green Deal
+Language: nl
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Mohammed CHAHIM
+Meeting ID: 227
+Date: 29-09-2020
+Meeting With: ONE
+Reason: Vaccines
+Language: it
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Dita CHARANZOVÁ
+Meeting ID: 1
+Date: 03-04-2024
+Meeting With: Representative of Taipei Representative Office in the European Union and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Dita CHARANZOVÁ
+Meeting ID: 22
+Date: 22-11-2023
+Meeting With: Representative, Taipei Representative Office in the European Union and Belgium
+Reason: General Relations with Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ellie CHOWNS
+Meeting ID: 12
+Date: 25-09-2019
+Meeting With: FERN EcoCare, Ghana Foundation for Community Initiatives, Liberia CIDT, UK Sustainable Development Initiative, Liberia Lao P.D.R, Laos SRD, Vietnam Green Carbon Foundation, China FLAG, Cameroon
+Reason: The role of the European Parliament in protecting forests
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David CORMAND
+Meeting ID: 79
+Date: 05-11-2019
+Meeting With: ONE
+Reason: Campagnes de ONE contre la pauvreté
+Language: fr
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Ciarán CUFFE
+Meeting ID: 181
+Date: 06-09-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Exchange of views, and semiconductors
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ciarán CUFFE
+Meeting ID: 275
+Date: 22-07-2021
+Meeting With: Global Witness
+Reason: Delegation for relations with China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Josianne CUTAJAR
+Meeting ID: 37
+Date: 10-10-2023
+Meeting With: Lenovo Group Limited
+Reason: Managed Security Services Regulation
+Language: en
+  - Company match found: Lenovo Group (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 29
+Date: 10-05-2021
+Meeting With: LO
+Reason: Digitalt möte om arbetet i Europaparlamentet
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 38
+Date: 09-04-2021
+Meeting With: LO
+Reason: Digitalt möte Minimilöner
+Language: et
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 58
+Date: 08-01-2021
+Meeting With: LO
+Reason: Digitalt möte med LO om Plattformsarbete
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 60
+Date: 10-12-2020
+Meeting With: LO
+Reason: Digitalt webinarium med LO
+Language: de
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 61
+Date: 10-12-2020
+Meeting With: LO
+Reason: Digitalt möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 72
+Date: 27-11-2020
+Meeting With: LO
+Reason: Digitalt möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 73
+Date: 25-11-2020
+Meeting With: LO
+Reason: Digitalt möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 74
+Date: 20-11-2020
+Meeting With: LO
+Reason: Digital föreläsning, LO-distriktet i Skånes årskonferens
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 88
+Date: 27-10-2020
+Meeting With: LO
+Reason: Digitalt möte LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 94
+Date: 22-09-2020
+Meeting With: LO
+Reason: Digitalt möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 111
+Date: 13-03-2020
+Meeting With: LO
+Reason: Möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 113
+Date: 03-03-2020
+Meeting With: LO
+Reason: Middagsmöte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 122
+Date: 07-02-2020
+Meeting With: LO
+Reason: Möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 137
+Date: 09-12-2019
+Meeting With: LO
+Reason: Möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 146
+Date: 21-11-2019
+Meeting With: Volvo Cars
+Reason: Möte med Volvo Cars
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Johan DANIELSSON
+Meeting ID: 187
+Date: 09-10-2019
+Meeting With: LO
+Reason: Möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Anna DEPARNAY-GRUNENBERG
+Meeting ID: 46
+Date: 22-09-2022
+Meeting With: ERA
+Reason: InnoTrans
+Language: tl
+  - Company match found: China General Nuclear Power Group (CGN) (Score: 100)
+
+
+MEP: Petra DE SUTTER
+Meeting ID: 26
+Date: 15-04-2020
+Meeting With: Huawei
+Reason: Data Strategy
+Language: id
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Petra DE SUTTER
+Meeting ID: 39
+Date: 02-03-2020
+Meeting With: BusinessEurope
+Reason: Trade relations with China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Pascal DURAND
+Meeting ID: 168
+Date: 29-01-2021
+Meeting With: GRI
+Reason: NFRD and Corporate Governance (APA only)
+Language: en
+  - Company match found: State Grid Corporation of China (Score: 100)
+
+
+MEP: Pascal DURAND
+Meeting ID: 202
+Date: 24-04-2020
+Meeting With: Hong Kong Watch
+Reason: Situation à Hong Kong (APA only)
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bas EICKHOUT
+Meeting ID: 9
+Date: 05-12-2023
+Meeting With: Chinese Mission to the EU
+Reason: EU-China summit
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bas EICKHOUT
+Meeting ID: 57
+Date: 11-01-2023
+Meeting With: European Union Chamber of Commerce China
+Reason: China commcerce
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bas EICKHOUT
+Meeting ID: 162
+Date: 15-07-2021
+Meeting With: ING
+Reason: EU Green Bonds
+Language: nl
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Engin EROGLU
+Meeting ID: 4
+Date: 22-01-2024
+Meeting With: Stand With Hong Kong Action Inc. Germany Stands with Hong Kong
+Reason: Exchange on Hong Kong activists groups in the EU
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Engin EROGLU
+Meeting ID: 12
+Date: 17-11-2023
+Meeting With: Hong Kong Watch Freiheit für Hongkong e. V.
+Reason: Panel discussion on Germany’s New China strategy and Hong Kong and Taiwan’s significance for the EU and the international order
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Engin EROGLU
+Meeting ID: 13
+Date: 08-11-2023
+Meeting With: Hong Kong Watch
+Reason: Suppression of religious freedom in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ismail ERTUG
+Meeting ID: 34
+Date: 30-11-2022
+Meeting With: Hamburger Hafen und Logistik Aktiengesellschaft
+Reason: China
+Language: sw
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Ismail ERTUG
+Meeting ID: 101
+Date: 13-07-2022
+Meeting With: European Council on Foreign Relations
+Reason: China
+Language: sw
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Laurence FARRENG
+Meeting ID: 0
+Date: 03-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: Régulation des plateformes et lutte contre la désinformation
+Language: fr
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Laurence FARRENG
+Meeting ID: 20
+Date: 30-08-2023
+Meeting With: TikTok Technology Ltd
+Reason: Streaming musical
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Fredrick FEDERLEY
+Meeting ID: 22
+Date: 05-02-2020
+Meeting With: Volvo Cars
+Reason: Möte med Volvo Cars
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Fredrick FEDERLEY
+Meeting ID: 43
+Date: 19-11-2019
+Meeting With: Volvo Cars Group
+Reason: Möte Volvo Cars Group
+Language: nl
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Markus FERBER
+Meeting ID: 1
+Date: 08-07-2024
+Meeting With: Huawei Technologies
+Reason: Outlook on the new legislative term
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Jonás FERNÁNDEZ
+Meeting ID: 32
+Date: 18-07-2023
+Meeting With: Huawei Technologies
+Reason: Technology
+Language: cy
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Pietro FIOCCHI
+Meeting ID: 37
+Date: 05-02-2020
+Meeting With: pirelli
+Reason: industry policy
+Language: en
+  - Company match found: Pirelli (Score: 100)
+
+
+MEP: Frances FITZGERALD
+Meeting ID: 228
+Date: 02-10-2020
+Meeting With: ONE
+Reason: Development
+Language: nl
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Anna FOTYGA
+Meeting ID: 2
+Date: 28-02-2024
+Meeting With: Hong Kong Watch
+Reason: Situation in Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Anna FOTYGA
+Meeting ID: 27
+Date: 07-11-2023
+Meeting With: Hong Kong Watch
+Reason: Suppression of the freedom of religion in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Anna FOTYGA
+Meeting ID: 33
+Date: 27-06-2023
+Meeting With: Hong Kong Watch
+Reason: Situation of human rights in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Cindy FRANSSEN
+Meeting ID: 222
+Date: 16-10-2019
+Meeting With: Hong Kong Trade Union Confederation
+Reason: Ontwikkelingen in Hong Kong
+Language: af
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Daniel FREUND
+Meeting ID: 42
+Date: 13-03-2024
+Meeting With: TikTok
+Reason: The role of Social Media platforms in the EU elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Heléne FRITZON
+Meeting ID: 78
+Date: 27-02-2023
+Meeting With: TikTok Technology Ltd
+Reason: Möte med Tiktok
+Language: sv
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Heléne FRITZON
+Meeting ID: 89
+Date: 12-01-2023
+Meeting With: DIGITALEUROPE Google Internet Watch Foundation Terre des Hommes International Federation Thorn EDRI VU Amsterdam Cispe Cloud INHOPE Discord Brave movement META GSMA Tiktok Eco Ecpat Dot europe Yahoo Microsoft Child Fund international EuroISPA German CCC Proton
+Reason: Rundabordssamtal
+Language: sv
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Heléne FRITZON
+Meeting ID: 99
+Date: 25-10-2022
+Meeting With: LO
+Reason: Möte med LO
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Niels FUGLSANG
+Meeting ID: 45
+Date: 21-11-2023
+Meeting With: Mission of China to the European Union
+Reason: Climate and industry
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Niels FUGLSANG
+Meeting ID: 167
+Date: 21-04-2023
+Meeting With: Embassy of the People's Republic of China in the Kingdom of Denmark
+Reason: Climate, energy and industry
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Niels FUGLSANG
+Meeting ID: 184
+Date: 17-02-2023
+Meeting With: Rasmussen Global
+Reason: China
+Language: sw
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Niels FUGLSANG
+Meeting ID: 193
+Date: 15-11-2022
+Meeting With: DI
+Reason: Energy
+Language: da
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Niels FUGLSANG
+Meeting ID: 330
+Date: 18-09-2019
+Meeting With: Chinese Mission to the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Niels FUGLSANG
+Meeting ID: 331
+Date: 18-09-2019
+Meeting With: Chinese Mission to the EU
+Reason: China-EU bilateral exchanges
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Lina GÁLVEZ
+Meeting ID: 59
+Date: 07-06-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Semiconductor Industry
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 3
+Date: 04-06-2024
+Meeting With: Chinese Mission to the EU
+Reason: Exchange of views on artificial intelligence and intellectual property law
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 15
+Date: 29-02-2024
+Meeting With: Chinese Mission to the EU
+Reason: Exchange of views on artificial intelligence and intellectual property law
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 16
+Date: 28-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: Exchange of views on the preparations to safeguard the EU elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 43
+Date: 14-11-2023
+Meeting With: Xiaomi
+Reason: Exchange of views on the use of augmented reality
+Language: en
+  - Company match found: Xiaomi Corporation (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 57
+Date: 27-06-2023
+Meeting With: Alibaba
+Reason: Exchange of views on Intelectual Property Protection
+Language: en
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 82
+Date: 22-03-2023
+Meeting With: Xiaomi
+Reason: Exchange of views on Licesing Package
+Language: en
+  - Company match found: Xiaomi Corporation (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 161
+Date: 31-05-2022
+Meeting With: Huawei Technologies
+Reason: EU Green week
+Language: af
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 189
+Date: 03-03-2022
+Meeting With: TikTok
+Reason: Exchange of views on AI
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 219
+Date: 26-11-2021
+Meeting With: Huawei
+Reason: Exchange of views on AI
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 233
+Date: 26-10-2021
+Meeting With: Huawei
+Reason: Exchange of views on AI
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Ibán GARCÍA DEL BLANCO
+Meeting ID: 259
+Date: 15-09-2021
+Meeting With: TikTok
+Reason: Exchange of views on the DSA
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Iratxe GARCÍA PÉREZ
+Meeting ID: 128
+Date: 27-02-2023
+Meeting With: Centre for American Progress
+Reason: How to advance on progressive politics, gender equality, the green transition and developing a multilateral agenda taking into account he geopolitical situation in Russia/Ukraine and economic relations with China?
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iratxe GARCÍA PÉREZ
+Meeting ID: 190
+Date: 24-10-2022
+Meeting With: Huawei Technologies
+Reason: The Women's Academy for Rural Innovation
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Iratxe GARCÍA PÉREZ
+Meeting ID: 290
+Date: 19-05-2022
+Meeting With: Huawei Technologies
+Reason: Huawei's work in Spain
+Language: af
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Iratxe GARCÍA PÉREZ
+Meeting ID: 445
+Date: 17-03-2021
+Meeting With: Vice-Ministry of the IDCPC in Charge of European Affairs
+Reason: The current situation in China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iratxe GARCÍA PÉREZ
+Meeting ID: 459
+Date: 03-02-2021
+Meeting With: Chinese Mission to the EU
+Reason: The current situation in China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Eider GARDIAZABAL RUBIAL
+Meeting ID: 3
+Date: 25-04-2023
+Meeting With: ONE
+Reason: Meeting between MEP Gardiazabal Team with representatives of ONE.org
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 20
+Date: 26-01-2021
+Meeting With: Vertreter der australischen Botschaft bei der EU
+Reason: EU-China-Beziehungen und aktuelle Entwicklungen zwischen Australien und China
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 21
+Date: 01-12-2020
+Meeting With: Alibaba
+Reason: aktuelle Arbeitsthemen aus den Bereichen E-commerce und digitale Dienstleistungen
+Language: de
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 49
+Date: 12-02-2020
+Meeting With: Chinesische Botschaft
+Reason: Treffen mit Chinesischer Botschaft zu EU-China-Beziehungen
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 53
+Date: 30-01-2020
+Meeting With: Human Rights Watch
+Reason: Treffen mit Human Rights Watch zu Menschenrechten in China
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 55
+Date: 29-01-2020
+Meeting With: Institut der Deutschen Wirtschaft
+Reason: Treffen mit Institut der Deutschen Wirtschaft zu EU-China-Beziehungen
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 57
+Date: 28-01-2020
+Meeting With: Taipeh Vertretung
+Reason: Treffen mit Taipeh Vertretung zu EU-China Beziehungen
+Language: de
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 61
+Date: 03-12-2019
+Meeting With: chinesische Journalisten
+Reason: Treffen mit chinesischen Journalisten zum Thema der EU-China-Beziehungen
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Evelyne GEBHARDT
+Meeting ID: 63
+Date: 22-11-2019
+Meeting With: Huawei
+Reason: Treffen mit Huawei zu digitalpolitischen Themen
+Language: de
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Pilar DEL CASTILLO VERA
+Meeting ID: 34
+Date: 04-05-2022
+Meeting With: Huawei Technologies
+Reason: Data Act
+Language: id
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Lina GÁLVEZ
+Meeting ID: 59
+Date: 07-06-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Semiconductor Industry
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alexandra GEESE
+Meeting ID: 18
+Date: 10-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: DSA implementation and election guidelines
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Alexandra GEESE
+Meeting ID: 34
+Date: 16-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: TikTok im Superwahljahr 2024
+Language: de
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Alexandra GEESE
+Meeting ID: 56
+Date: 18-10-2023
+Meeting With: Meta Platforms Ireland Limited and its various subsidiaries TikTok Technology Ltd Twitter International Unlimited Company
+Reason: IMCO Working group: Digital Services Act implementation
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Helmut GEUKING
+Meeting ID: 14
+Date: 08-11-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut GEUKING
+Meeting ID: 17
+Date: 24-10-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jens GIESEKE
+Meeting ID: 519
+Date: 15-12-2020
+Meeting With: Taipei Representative Office
+Reason: Austausch zur Europapolitik
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jens GIESEKE
+Meeting ID: 602
+Date: 14-01-2020
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Austausch mit dem Botschafter von Taiwan
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andreas GLÜCK
+Meeting ID: 130
+Date: 11-01-2022
+Meeting With: Volvo
+Reason: AFIR
+Language: tl
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 23
+Date: 04-07-2023
+Meeting With: Hong Kong Watch
+Reason: APA Level - National Security Law
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 28
+Date: 14-06-2023
+Meeting With: World Uyghur Congress
+Reason: Droits Humains en Chine
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 81
+Date: 26-11-2020
+Meeting With: Uyghur Tribunal
+Reason: Human rights violations in China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 103
+Date: 06-05-2020
+Meeting With: Sam Goodman - Hong Kong Watch
+Reason: HR and Rule of Law in Hong-Kong
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 111
+Date: 29-01-2020
+Meeting With: China Tribunal - ETAC
+Reason: HR in China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 114
+Date: 22-01-2020
+Meeting With: Stand with Hong Kong group
+Reason: Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 116
+Date: 15-01-2020
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 124
+Date: 05-11-2019
+Meeting With: Ambassador of Taipei Representative Office
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Raphaël GLUCKSMANN
+Meeting ID: 129
+Date: 24-09-2019
+Meeting With: UNPO
+Reason: China - Xinjiang
+Language: sw
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Nicolás GONZÁLEZ CASARES
+Meeting ID: 183
+Date: 03-01-2023
+Meeting With: ENCE
+Reason: Renewable energy Directive
+Language: en
+  - Company match found: Tencent Holdings (Score: 100)
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 1
+Date: 24-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: Moderating online content and combating disinformation ahead of the upcoming EP elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 6
+Date: 19-03-2024
+Meeting With: Hong Kong Watch
+Reason: Meeting with Hong Kong Watch
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 12
+Date: 13-02-2024
+Meeting With: ETAC (International Coalition to End Transplant Abuse in China)
+Reason: Forced organ harvesting from prisoners of conscience in China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 24
+Date: 27-06-2023
+Meeting With: Representatives of Hong Kong Watch
+Reason: Meeting with Hong Kong Watch
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 35
+Date: 19-01-2023
+Meeting With: Taipei City Councilor
+Reason: Meeting with Taipei City Councilor
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 43
+Date: 10-11-2022
+Meeting With: Chair of the US Commission on International Religious Freedom, Senior Fellow at Hudson Institute, author of the memoir book "NO ESCAPE: The true Story of China's Genocide of the Uyghurs"
+Reason: Meeting on China's Genocide of the Uyghurs
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 45
+Date: 19-10-2022
+Meeting With: Ambassador, Taipei Representative Office in the EU and Belgium
+Reason: Meeting with Taiwan's ambassador
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 46
+Date: 12-10-2022
+Meeting With: Hong Kong policy advocate and columnist
+Reason: Meeting on Hong Kong affairs
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Markéta GREGOROVÁ
+Meeting ID: 62
+Date: 03-12-2021
+Meeting With: Ambassador - Taipei Representative Office in the EU and Belgium
+Reason: Meeting with the Taipei Representative to the EU and Belgium
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Francisco GUERREIRO
+Meeting ID: 2
+Date: 28-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: TikTok in the EU
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Francisco GUERREIRO
+Meeting ID: 46
+Date: 09-02-2023
+Meeting With: Environmental Justice Foundation
+Reason: The implications of Chinese fishing operations on EU fisheries and the way forward
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Francisco GUERREIRO
+Meeting ID: 95
+Date: 05-10-2020
+Meeting With: White House Consulting
+Reason: Reunião online com a White House Consulting sobre a situação política em Hong Kong.
+Language: pt
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Francisco GUERREIRO
+Meeting ID: 100
+Date: 05-09-2020
+Meeting With: White House Consulting
+Reason: Exchange of views: Political situation in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Jytte GUTELAND
+Meeting ID: 40
+Date: 26-01-2022
+Meeting With: Volvo
+Reason: Fit for 55
+Language: da
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Jytte GUTELAND
+Meeting ID: 172
+Date: 05-02-2020
+Meeting With: Volvo
+Reason: Möte
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Jytte GUTELAND
+Meeting ID: 200
+Date: 21-11-2019
+Meeting With: Volvo cars
+Reason: Möte
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Jytte GUTELAND
+Meeting ID: 242
+Date: 17-09-2019
+Meeting With: Volvo
+Reason: Möte
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Márton GYÖNGYÖSI
+Meeting ID: 28
+Date: 20-11-2023
+Meeting With: Chinese Diplomat
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 34
+Date: 18-04-2023
+Meeting With: Taipei Representative to the EU and Belgium
+Reason: Exchange on EU Taiwan economic and trade relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 43
+Date: 14-12-2022
+Meeting With: Representative, Taipei Representative Office in the EU and Belgium
+Reason: Introductory meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 53
+Date: 10-11-2022
+Meeting With: Chair of the US Commission on International Religious Freedom
+Reason: Human right situation of Uyghurs in China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 54
+Date: 27-10-2022
+Meeting With: Bundesverband der Deutschen Industrie e.V.
+Reason: Trade, especially supply chain due diligence, transatlantic trade and China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 95
+Date: 22-03-2022
+Meeting With: Representative, Taipei Representative Office in the EU and Belgium
+Reason: Indo-Pacific strategy, EU-Taiwan trade relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 106
+Date: 16-12-2021
+Meeting With: Representative, Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 107
+Date: 07-12-2021
+Meeting With: Representatives of the Organisation 'Fight for Freedom. Stand with Hong Kong'
+Reason: Human Rights
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 132
+Date: 10-05-2021
+Meeting With: New Zealand Ambassador to Germany
+Reason: EU Trade Strategy, EU-China relations (CAI), EU-NZ FTA, NZ Foreign Policy Priorities
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 139
+Date: 08-04-2021
+Meeting With: Hong Kong Watch
+Reason: Human rights and political situation in Hong Kong, National Security Law
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 140
+Date: 18-03-2021
+Meeting With: Hikvision
+Reason: Human Rights and the surveillance technology used in Xinjiang, China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Svenja HAHN
+Meeting ID: 174
+Date: 10-06-2020
+Meeting With: Huawei
+Reason: Civil liability regime for artificial intelligence
+Language: it
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Svenja HAHN
+Meeting ID: 194
+Date: 28-01-2020
+Meeting With: DJI
+Reason: Current and upcoming legislation regarding drones
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Svenja HAHN
+Meeting ID: 199
+Date: 14-01-2020
+Meeting With: Representative, Taipei Representative Office in the EU and Belgium
+Reason: Taiwan election results
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Henrike HAHN
+Meeting ID: 95
+Date: 12-12-2019
+Meeting With: European Diplomacy Department, Chinese Academy of Social Sciences
+Reason: EU-China relation
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Martin HÄUSLING
+Meeting ID: 369
+Date: 19-07-2019
+Meeting With: No
+Reason: Studienvorstellung "Neue Gentechnik"
+Language: de
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Heidi HAUTALA
+Meeting ID: 228
+Date: 13-07-2021
+Meeting With: CDP World Wide
+Reason: China-EU cooperation on deforestation
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Heidi HAUTALA
+Meeting ID: 340
+Date: 18-11-2020
+Meeting With: Huawei
+Reason: 5G security in Europe
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Heidi HAUTALA
+Meeting ID: 409
+Date: 29-05-2020
+Meeting With: Stand with Hong Kong
+Reason: Fundamental Freedom of Honkongers
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Valérie HAYER
+Meeting ID: 18
+Date: 07-07-2023
+Meeting With: ATE
+Reason: Réglementation chimique
+Language: fr
+  - Company match found: State Grid Corporation of China (Score: 100)
+
+
+MEP: Eero HEINÄLUOMA
+Meeting ID: 116
+Date: 18-12-2023
+Meeting With: Embassy of China in Finland
+Reason: EU-Kiina-suhteet
+Language: fi
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Eero HEINÄLUOMA
+Meeting ID: 143
+Date: 17-11-2023
+Meeting With: National People's Congress delegation from China
+Reason: Topical issues
+Language: ca
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Eero HEINÄLUOMA
+Meeting ID: 344
+Date: 18-03-2022
+Meeting With: ING
+Reason: Anti-money laundering
+Language: da
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Monika HOHLMEIER
+Meeting ID: 1
+Date: 26-03-2024
+Meeting With: TikTok Technology Ltd
+Reason: Outreach activities & EU elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Martin HOJSÍK
+Meeting ID: 48
+Date: 11-12-2023
+Meeting With: Special Representative for Climate Change Affairs of China
+Reason: COP 28
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Martin HOJSÍK
+Meeting ID: 151
+Date: 30-05-2023
+Meeting With: Taipei Representative Office Bratislava, Ministry of Foreign Affairs Republic of China (Taiwan)
+Reason: Taiwan & EU relationaship
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Pär HOLMGREN
+Meeting ID: 84
+Date: 11-10-2022
+Meeting With: ONE
+Reason: Discussion with young activists before COP27
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Pär HOLMGREN
+Meeting ID: 127
+Date: 10-11-2021
+Meeting With: Chinese Government
+Reason: EP Official Delegation: COP26 & Climate Policy
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alicia HOMS GINEL
+Meeting ID: 52
+Date: 20-05-2022
+Meeting With: Huawei Technologies
+Reason: Evento Huawei UNESCO World Higher Education Conference - Digital Skills for a Digital Europe
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Antony HOOK
+Meeting ID: 4
+Date: 10-10-2019
+Meeting With: Hong Kong Higher Institutions International Affairs Delegation
+Reason: Current situation in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Danuta Maria HÜBNER
+Meeting ID: 229
+Date: 03-06-2020
+Meeting With: Transatlantic Policy Network
+Reason: EU-US Cooperation on China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Jan HUITEMA
+Meeting ID: 86
+Date: 15-11-2021
+Meeting With: Volvo
+Reason: CO2 emission standards
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Evin INCIR
+Meeting ID: 110
+Date: 19-07-2023
+Meeting With: LO
+Reason: Sommaravslutning
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Evin INCIR
+Meeting ID: 244
+Date: 22-04-2021
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Zoom-möte
+Language: sv
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Evin INCIR
+Meeting ID: 288
+Date: 06-02-2020
+Meeting With: LO
+Reason: Möte
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Agnes JONGERIUS
+Meeting ID: 248
+Date: 04-02-2021
+Meeting With: Representatives Aegis Europa
+Reason: EU-China Comprehensive Agreement on Investment
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Irena JOVEVA
+Meeting ID: 99
+Date: 01-09-2021
+Meeting With: Taipei office
+Reason: Courtesy meeting with the representative of the Taipei office
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Rasa JUKNEVIČIENĖ
+Meeting ID: 0
+Date: 09-04-2024
+Meeting With: Taipei Representative office in the EU
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Rasa JUKNEVIČIENĖ
+Meeting ID: 1
+Date: 25-03-2024
+Meeting With: TikTok Technology Ltd
+Reason: TikTok and upcoming elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Rasa JUKNEVIČIENĖ
+Meeting ID: 2
+Date: 19-03-2024
+Meeting With: Hong Kong Watch
+Reason: Situation in Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Rasa JUKNEVIČIENĖ
+Meeting ID: 6
+Date: 27-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: What TikTok is doing for 2024 elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Rasa JUKNEVIČIENĖ
+Meeting ID: 16
+Date: 29-11-2023
+Meeting With: Taipei Representative Office
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Rasa JUKNEVIČIENĖ
+Meeting ID: 47
+Date: 05-11-2019
+Meeting With: ONE
+Reason: NDICI
+Language: vi
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Marina KALJURAND
+Meeting ID: 83
+Date: 09-10-2019
+Meeting With: Huawei
+Reason: Exchange of views on cyber security
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Pierre KARLESKIND
+Meeting ID: 7
+Date: 16-10-2023
+Meeting With: Ambassade de la Chine aurpès de l'Union européenne
+Reason: Impact des pêcheries chinoises sur la pêche européenne
+Language: fr
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Karin KARLSBRO
+Meeting ID: 31
+Date: 18-04-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan economic and trade relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Karin KARLSBRO
+Meeting ID: 79
+Date: 08-12-2021
+Meeting With: Volvo Cars
+Reason: Exchange of views CBAM
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Karin KARLSBRO
+Meeting ID: 94
+Date: 18-06-2021
+Meeting With: Volvo cars
+Reason: Batteries regulation
+Language: it
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Karin KARLSBRO
+Meeting ID: 155
+Date: 17-09-2019
+Meeting With: Volvo
+Reason: Exchange of views
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Fabienne KELLER
+Meeting ID: 531
+Date: 09-12-2020
+Meeting With: ENS
+Reason: Séminaire géopolitique du Risque: Frontières et technologies
+Language: fr
+  - Company match found: Hisense Group (Score: 100)
+
+
+MEP: Fabienne KELLER
+Meeting ID: 626
+Date: 27-09-2019
+Meeting With: Fondation Prospective & Innovation-FPI, Jean-Pierre Raffarin Nicolas Chapuis, Ambassadeur de l'UE en Chine China Centre for Urban Developement-CCUD National Development and Reform Commission-NDRC
+Reason: Forum d'échange entre collectivités européennes et chinoises "Euro-China Greens & Smart Cities", dans le cadre des programmes européens de coopération UE-Chine. Invitation en lien avec mon expérience de Maire de Strasbourg et de Députée européenne, aux côtés de l'Ambassadeur de l'UE en Chine et de Jean-Pierre Raffarin, Président de la Fondation Prospective & Innovation
+Language: fr
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Pilar DEL CASTILLO VERA
+Meeting ID: 34
+Date: 04-05-2022
+Meeting With: Huawei Technologies
+Reason: Data Act
+Language: id
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Lina GÁLVEZ
+Meeting ID: 59
+Date: 07-06-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Semiconductor Industry
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Seán KELLY
+Meeting ID: 125
+Date: 12-10-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan Relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marcel KOLAJA
+Meeting ID: 45
+Date: 09-11-2021
+Meeting With: Huawei Technologies (114467111412-38)
+Reason: discussion about the Artificial Intelligence Act
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Kateřina KONEČNÁ
+Meeting ID: 1
+Date: 22-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: Company introduction
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Kateřina KONEČNÁ
+Meeting ID: 40
+Date: 22-11-2022
+Meeting With: TikTok Technology Ltd
+Reason: AI Act
+Language: ro
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Moritz KÖRNER
+Meeting ID: 1
+Date: 23-04-2024
+Meeting With: Chinese Mission to the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Moritz KÖRNER
+Meeting ID: 2
+Date: 11-04-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan and EU relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Moritz KÖRNER
+Meeting ID: 4
+Date: 03-04-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan and EU relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Moritz KÖRNER
+Meeting ID: 47
+Date: 08-10-2020
+Meeting With: Representatives TikTok
+Reason: Introductory Meeting
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Stelios KOULOGLOU
+Meeting ID: 1
+Date: 13-06-2023
+Meeting With: TikTok Technology Ltd
+Reason: European Media Freedom Act
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Elena KOUNTOURA
+Meeting ID: 2
+Date: 12-06-2023
+Meeting With: Huawei Technologies
+Reason: Gigabit Infrastructure Act
+Language: ro
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Andrey KOVATCHEV
+Meeting ID: 0
+Date: 23-04-2024
+Meeting With: Mission of the People's Republic of China to the European Union
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andrey KOVATCHEV
+Meeting ID: 4
+Date: 17-01-2024
+Meeting With: Mission of the People's Republic of China to the European Union
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andrey KOVATCHEV
+Meeting ID: 5
+Date: 10-01-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andrey KOVATCHEV
+Meeting ID: 8
+Date: 08-11-2023
+Meeting With: Mission of the People's Republic of China to the European Union
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andrey KOVATCHEV
+Meeting ID: 21
+Date: 17-08-2023
+Meeting With: Ambassador Dong Xiaojun
+Reason: Meeting with the Ambassador of the People's Republic of China to Bulgaria
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Andrey KOVATCHEV
+Meeting ID: 36
+Date: 13-01-2022
+Meeting With: Xiaomi
+Reason: Revised Radio Equipment Directive
+Language: en
+  - Company match found: Xiaomi Corporation (Score: 100)
+
+
+MEP: Andrius KUBILIUS
+Meeting ID: 8
+Date: 28-02-2024
+Meeting With: Hong Kong Watch
+Reason: Situtation in Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Sergey LAGODINSKY
+Meeting ID: 114
+Date: 19-07-2022
+Meeting With: Alibaba
+Reason: Data Act
+Language: id
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Sergey LAGODINSKY
+Meeting ID: 130
+Date: 03-05-2022
+Meeting With: TikTok Technology Ltd
+Reason: Artificial Intelligence Act
+Language: it
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Philippe LAMBERTS
+Meeting ID: 13
+Date: 25-10-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: visit delegation Chamber of Commerce in China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bernd LANGE
+Meeting ID: 10
+Date: 15-02-2024
+Meeting With: Chinese embassy
+Reason: General exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bernd LANGE
+Meeting ID: 77
+Date: 29-03-2023
+Meeting With: SHEIN Group
+Reason: General exchange of view
+Language: en
+  - Company match found: Shein (Score: 100)
+
+
+MEP: Bernd LANGE
+Meeting ID: 102
+Date: 11-01-2023
+Meeting With: European Chamber of Commerce to China
+Reason: General exchange of view
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bernd LANGE
+Meeting ID: 139
+Date: 05-10-2022
+Meeting With: European Chamber of Commerce in China
+Reason: General exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bernd LANGE
+Meeting ID: 306
+Date: 16-11-2020
+Meeting With: CoR
+Reason: General Exchange of Views
+Language: en
+  - Company match found: ZTE Corporation (Score: 100)
+
+
+MEP: Bernd LANGE
+Meeting ID: 367
+Date: 03-02-2020
+Meeting With: European Union Chamber of Commerce in China
+Reason: General exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Bernd LANGE
+Meeting ID: 391
+Date: 03-12-2019
+Meeting With: Huawei
+Reason: General exchange of views
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Bernd LANGE
+Meeting ID: 441
+Date: 17-07-2019
+Meeting With: Huawei
+Reason: General exchange of views
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Esther DE LANGE
+Meeting ID: 76
+Date: 21-09-2022
+Meeting With: ING
+Reason: AML - APA
+Language: tl
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Esther DE LANGE
+Meeting ID: 104
+Date: 06-05-2022
+Meeting With: ING
+Reason: Banking Package - APA
+Language: tl
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Esther DE LANGE
+Meeting ID: 133
+Date: 01-02-2022
+Meeting With: ING
+Reason: AML Package
+Language: tl
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Esther DE LANGE
+Meeting ID: 215
+Date: 28-04-2021
+Meeting With: ING
+Reason: Proposal for a directive of the European Parliament and of the Council on credit servicers, credit purchasers and the recovery of collateral - meeting with APA
+Language: en
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Maria NOICHL
+Meeting ID: 0
+Date: 10-07-2024
+Meeting With: Friedrich-Ebert-Stiftung Women's University of China
+Reason: Women's Rights and Gender Equality policies in the EU and China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Grace O'SULLIVAN
+Meeting ID: 0
+Date: 24-04-2024
+Meeting With: TikTok Technology Ltd Register number: 165202837974-32
+Reason: Election Integrity Measures
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Grace O'SULLIVAN
+Meeting ID: 302
+Date: 01-10-2019
+Meeting With: The Nature Conversancy (TNC)
+Reason: Comparison on Chinese and EU fisheries management
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Grace O'SULLIVAN
+Meeting ID: 303
+Date: 01-10-2019
+Meeting With: Chinese state Delegation
+Reason: Fisheries policy
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jan-Christoph OETJEN
+Meeting ID: 17
+Date: 09-04-2024
+Meeting With: DJI
+Reason: Lobby Meeting
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Jan-Christoph OETJEN
+Meeting ID: 142
+Date: 14-10-2020
+Meeting With: DJI
+Reason: Single European Sky (Recast) / Performance Review Body of Single European Sky
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Pilar DEL CASTILLO VERA
+Meeting ID: 34
+Date: 04-05-2022
+Meeting With: Huawei Technologies
+Reason: Data Act
+Language: id
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Lina GÁLVEZ
+Meeting ID: 59
+Date: 07-06-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Semiconductor Industry
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Esther DE LANGE
+Meeting ID: 76
+Date: 21-09-2022
+Meeting With: ING
+Reason: AML - APA
+Language: tl
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Esther DE LANGE
+Meeting ID: 104
+Date: 06-05-2022
+Meeting With: ING
+Reason: Banking Package - APA
+Language: tl
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Esther DE LANGE
+Meeting ID: 133
+Date: 01-02-2022
+Meeting With: ING
+Reason: AML Package
+Language: tl
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Esther DE LANGE
+Meeting ID: 215
+Date: 28-04-2021
+Meeting With: ING
+Reason: Proposal for a directive of the European Parliament and of the Council on credit servicers, credit purchasers and the recovery of collateral - meeting with APA
+Language: en
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: David LEGA
+Meeting ID: 3
+Date: 07-05-2024
+Meeting With: China Strategic Risks Institute
+Reason: Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 4
+Date: 07-05-2024
+Meeting With: Hong Kong Watch
+Reason: Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 13
+Date: 22-03-2024
+Meeting With: Inter-Parliamentary Alliance on China
+Reason: Foreign Affairs
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 14
+Date: 20-03-2024
+Meeting With: Stand with Hong Kong
+Reason: Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 15
+Date: 20-03-2024
+Meeting With: The Taipei Representative Office in the EU and Belgium
+Reason: Foreign Affairs
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 24
+Date: 28-02-2024
+Meeting With: Taipei Representative Office
+Reason: Foreign Affairs
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 37
+Date: 24-01-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Foreign Affairs
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 39
+Date: 22-01-2024
+Meeting With: Stand With Hong Kong
+Reason: Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 40
+Date: 05-12-2023
+Meeting With: International Republican Institute
+Reason: China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 50
+Date: 30-10-2023
+Meeting With: World Uyghur Congress Japan-Uyghur Parliament Caucus Japan Uyghur Congress Inter-Parliamentary Alliance on China
+Reason: World Uyghur Congress
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 51
+Date: 25-10-2023
+Meeting With: Front Line Defenders
+Reason: Human Rights, Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 56
+Date: 20-09-2023
+Meeting With: Ms. Rigzin Genkhang: Representative of His Holiness the Dalai Lama to the EU, Western Europe and the Maghreb
+Reason: Tibet, China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 58
+Date: 19-09-2023
+Meeting With: Mr. Alexander Tah-ray Yui: Representative, Taipei Representative Office in the EU and Belgium
+Reason: Taiwan, China
+Language: sw
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 69
+Date: 04-07-2023
+Meeting With: World Uyghur Congress
+Reason: Uyghurs, China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 78
+Date: 07-06-2023
+Meeting With: China Strategic Risks Institute (CSRI)
+Reason: China
+Language: sw
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 80
+Date: 06-06-2023
+Meeting With: Stand with Hong Kong
+Reason: Hong Kong. China
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 81
+Date: 31-05-2023
+Meeting With: World Uyghur Congress
+Reason: Uyghur rights. China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 84
+Date: 24-05-2023
+Meeting With: Ambassador Remus Li-Kuo CHEN, Head of the Taipei Representative Office in the EU and Belgium
+Reason: Taiwan, China
+Language: sw
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 90
+Date: 02-05-2023
+Meeting With: Christian Democratic International Center (KIC) European Network of political foundations (ENoP)
+Reason: Human rights, notably the situation in Belarus, China and Nicaragua
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 98
+Date: 28-03-2023
+Meeting With: International Republican Institute' Center for International Private Enterprise Central European Institute of Asian Studies
+Reason: China, Trade
+Language: pt
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 103
+Date: 08-03-2023
+Meeting With: World Uyghur Congress
+Reason: Uyghurs, China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: David LEGA
+Meeting ID: 111
+Date: 07-02-2023
+Meeting With: TikTok Technology Ltd
+Reason: Internet safety, children, antisemitism
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: David LEGA
+Meeting ID: 132
+Date: 04-10-2022
+Meeting With: The Taipei Representative in the EU and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Maria-Manuel LEITÃO-MARQUES
+Meeting ID: 37
+Date: 06-07-2023
+Meeting With: TikTok Technology Ltd
+Reason: Political Ads
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Maria-Manuel LEITÃO-MARQUES
+Meeting ID: 123
+Date: 22-11-2022
+Meeting With: TikTok Technology Ltd
+Reason: Political Advertising
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Maria-Manuel LEITÃO-MARQUES
+Meeting ID: 133
+Date: 18-10-2022
+Meeting With: TikTok Technology Ltd
+Reason: Political Advertising
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Sylvia LIMMER
+Meeting ID: 2
+Date: 21-11-2023
+Meeting With: Chinesische EU-Vertretung in Brüssel
+Reason: Wissenschaftsbeziehungen EU-China
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Nathalie LOISEAU
+Meeting ID: 35
+Date: 23-01-2024
+Meeting With: Stand With Hong Kong Action Inc.
+Reason: Situation des droits de l'homme à Hong-Kong
+Language: fr
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nathalie LOISEAU
+Meeting ID: 52
+Date: 27-09-2023
+Meeting With: Alexander Yui, Chef de la mission de Taïwan auprès de l'Union européenne
+Reason: Situation à Taïwan, relations UE-Chine
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Nathalie LOISEAU
+Meeting ID: 73
+Date: 31-05-2022
+Meeting With: World Uyghurs Congress
+Reason: Uyghurs / China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Norbert LINS
+Meeting ID: 47
+Date: 13-02-2024
+Meeting With: Diehl Stiftung & Co. KG
+Reason: Heat Pump Action Plan, De Risking China, Stärkung der Wettbewerbsfähigkeit
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Leopoldo LÓPEZ GIL
+Meeting ID: 4
+Date: 07-12-2023
+Meeting With: TAIPEI REPRESENTATIVE OFFICE IN THE EU AND BELGIUM
+Reason: ACTUAL POLITICAL SITUATION IN TAIWAN
+Language: tl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Leopoldo LÓPEZ GIL
+Meeting ID: 10
+Date: 21-11-2023
+Meeting With: TAIPEI REPRESENTATIVE OFFICE IN THE EU AND BELGIUM
+Reason: TAIWAN DEMOCRACY & COMMMON ELECTIONS
+Language: so
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Juan Fernando LÓPEZ AGUILAR
+Meeting ID: 60
+Date: 13-04-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Courtesy Meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Juan Fernando LÓPEZ AGUILAR
+Meeting ID: 183
+Date: 15-09-2021
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Courtesy Meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: David MCALLISTER
+Meeting ID: 101
+Date: 31-05-2023
+Meeting With: Fu Cong, Ambassador Extraordinary and Plenipotentiary and Head of Mission of the People's Republic of China to the European Union
+Reason: Relations between the EU and China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Adriana MALDONADO LÓPEZ
+Meeting ID: 80
+Date: 11-05-2022
+Meeting With: HUAWEI
+Reason: Cooperación tecnológica
+Language: es
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Lukas MANDL
+Meeting ID: 6
+Date: 30-04-2024
+Meeting With: Chinese Embassy Austria
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Lukas MANDL
+Meeting ID: 9
+Date: 23-04-2024
+Meeting With: Chinese Mission to the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Lukas MANDL
+Meeting ID: 17
+Date: 19-03-2024
+Meeting With: Mission of the People's Republic of China to the EU Delegation of IDCPC
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Lukas MANDL
+Meeting ID: 20
+Date: 12-03-2024
+Meeting With: Mission of the People's Republic of China to the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Lukas MANDL
+Meeting ID: 27
+Date: 28-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: AI-Act
+Language: ro
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Thierry MARIANI
+Meeting ID: 5
+Date: 23-04-2024
+Meeting With: Mission de la Chine auprès de l'Union européenne
+Reason: La signature de la convention sur l’interdiction du travail forcé par la Chine en 2022 et ses conséquences vis-à-vis de la résolution interdisant la mise sur le marché des produits issus du travail forcé au sein de l’UE
+Language: fr
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Thierry MARIANI
+Meeting ID: 13
+Date: 13-12-2023
+Meeting With: Représentants de l'Ambassade chinoise auprès de l'UE
+Reason: Débat sur les relations UE-Chine
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Thierry MARIANI
+Meeting ID: 17
+Date: 22-11-2023
+Meeting With: Représentants de la mission de Chine auprès de l'UE
+Reason: Echanges de vue sur les récentes visites de commissaires européens en Chine, les préparatifs du prochain sommet UE-Chine et un échange de vues sur certaines questions d'actualité entre l'UE et la Chine.
+Language: fr
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marian-Jean MARINESCU
+Meeting ID: 15
+Date: 21-03-2023
+Meeting With: VOLVO
+Reason: Euro 7
+Language: es
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Marian-Jean MARINESCU
+Meeting ID: 82
+Date: 01-02-2022
+Meeting With: ERA
+Reason: Fit for 55
+Language: da
+  - Company match found: China General Nuclear Power Group (CGN) (Score: 100)
+
+
+MEP: Marian-Jean MARINESCU
+Meeting ID: 110
+Date: 06-05-2021
+Meeting With: GIE
+Reason: Revision of the TEN-E Regulation
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Erik MARQUARDT
+Meeting ID: 3
+Date: 20-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: Exchange of views
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Dace MELBĀRDE
+Meeting ID: 0
+Date: 17-01-2024
+Meeting With: TikTok Technology Ltd
+Reason: User guide to TikTok
+Language: no
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Joëlle MÉLIN
+Meeting ID: 47
+Date: 11-02-2020
+Meeting With: Mission of China to the European Union
+Reason: update on coronavirus
+Language: ro
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Francisco José MILLÁN MON
+Meeting ID: 11
+Date: 07-02-2023
+Meeting With: ANFACO-CECOPESCA
+Reason: The implications of Chinese fishing operations on EU fisheries and the way forward
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Javier MORENO SÁNCHEZ
+Meeting ID: 50
+Date: 09-06-2022
+Meeting With: Taipei Embassy
+Reason: UE-Taipei relations
+Language: it
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Caroline NAGTEGAAL
+Meeting ID: 177
+Date: 28-09-2020
+Meeting With: ING
+Reason: Benchmark Review
+Language: de
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Angelika NIEBLER
+Meeting ID: 20
+Date: 18-01-2024
+Meeting With: China Risks Limited
+Reason: EU competitiveness, general exchange
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Younous OMARJEE
+Meeting ID: 0
+Date: 12-03-2024
+Meeting With: Consul général de Chine à Strasbourg
+Reason: Relations Franco-Chinoises
+Language: fr
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Niklas NIENASS
+Meeting ID: 529
+Date: 19-11-2019
+Meeting With: Open Dialogue Foundation Italian Federation for Human Rights World Uyghur Congress Qaharman human rights initiative
+Reason: Discussion: Strengthened China - Kazakhstan Relations: What Impact on Human Rights?
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Ville NIINISTÖ
+Meeting ID: 29
+Date: 17-01-2024
+Meeting With: TikTok Technology Ltd
+Reason: Social media
+Language: es
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Ville NIINISTÖ
+Meeting ID: 386
+Date: 28-04-2021
+Meeting With: ONE
+Reason: Vaccine equity
+Language: ca
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Dimitrios PAPADIMOULIS
+Meeting ID: 3
+Date: 02-02-2023
+Meeting With: New Ambassador of China to the EU
+Reason: Meeting with Ambassador of China to the EU
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kris PEETERS
+Meeting ID: 23
+Date: 28-01-2020
+Meeting With: Hong Kong Economic & Trade Office, Belgium Hong Kong Society, several invitees
+Reason: New Year Reception Hong Kong Economic & Trade Office & Belgium Hong Kong Society
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kris PEETERS
+Meeting ID: 31
+Date: 16-01-2020
+Meeting With: Misson of China to the EU
+Reason: Meeting Mission of China to the EU
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kris PEETERS
+Meeting ID: 80
+Date: 13-09-2019
+Meeting With: Special Representative for Hong Kong Economic & Trade Affairs to the EU
+Reason: Lunch meeting
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Mikuláš PEKSA
+Meeting ID: 1
+Date: 27-02-2024
+Meeting With: Chinese mission to the EU
+Reason: Tibetan boarding schools
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Tsvetelina PENKOVA
+Meeting ID: 4
+Date: 10-10-2023
+Meeting With: Huawei Technologies
+Reason: Meeting with Huawei on NZIA
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Tsvetelina PENKOVA
+Meeting ID: 57
+Date: 18-01-2023
+Meeting With: ING
+Reason: Meeting Between Mihael MIHOV (APA) and ING on the financial aspects of the EPBD
+Language: en
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Jutta PAULUS
+Meeting ID: 79
+Date: 14-12-2022
+Meeting With: COP 15 President Huang Runqiu, Minister of Ecology and Environment, China
+Reason: Exchange of views on biodiversity
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Morten PETERSEN
+Meeting ID: 18
+Date: 21-11-2023
+Meeting With: Chinese Minister Counselor
+Reason: China-EU science and technology cooperation
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Morten PETERSEN
+Meeting ID: 179
+Date: 12-11-2021
+Meeting With: Representatives from NGO's from Africa, China and India
+Reason: Ongoing LIBE-related work in EU
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Pina PICIERNO
+Meeting ID: 5
+Date: 30-11-2023
+Meeting With: Federazione Italiana Diritti Umani - Comitato Italiano Helsinki Ente del Terzo Settore International Campaign for Tibet World Uyghur Congress
+Reason: China's growing influence in the EU
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Pina PICIERNO
+Meeting ID: 15
+Date: 04-05-2023
+Meeting With: Li-Kuo Chen Taipei Amabassador to the EU
+Reason: EU policies
+Language: es
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Manu PINEDA
+Meeting ID: 129
+Date: 20-02-2023
+Meeting With: PCE
+Reason: Meeting with Chinese Embassy
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Manuel PIZARRO
+Meeting ID: 18
+Date: 19-02-2021
+Meeting With: IPP
+Reason: The right to be forgotten
+Language: en
+  - Company match found: China COSCO Shipping Corporation (Score: 100)
+
+
+MEP: Manuel PIZARRO
+Meeting ID: 29
+Date: 21-10-2020
+Meeting With: IPP
+Reason: The Right to be forgotten
+Language: en
+  - Company match found: China COSCO Shipping Corporation (Score: 100)
+
+
+MEP: Sirpa PIETIKÄINEN
+Meeting ID: 30
+Date: 27-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: EU elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Sirpa PIETIKÄINEN
+Meeting ID: 269
+Date: 03-09-2021
+Meeting With: Bank of Finland Institute for Emerging Economies (BOFIT)
+Reason: China relations and economics
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Nicola PROCACCINI
+Meeting ID: 3
+Date: 22-01-2020
+Meeting With: Stand With Hong Kong
+Reason: role of the European Parliament in the debate on the situation in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Dennis RADTKE
+Meeting ID: 9
+Date: 14-11-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Genereller Austausch
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Samira RAFAELA
+Meeting ID: 19
+Date: 18-04-2023
+Meeting With: Taipei Representative Office
+Reason: International trade
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Terry REINTKE
+Meeting ID: 28
+Date: 16-11-2023
+Meeting With: Representative of the Republic of China
+Reason: EU-Taiwan Relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Frédérique RIES
+Meeting ID: 86
+Date: 14-11-2019
+Meeting With: Fei Shengchao, Mission of China to the EU
+Reason: Les relations UE-Chine et droits de l'homme
+Language: fr
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Rob ROOKEN
+Meeting ID: 10
+Date: 03-05-2022
+Meeting With: TikTok Technology Ltd
+Reason: AI
+Language: tl
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Catherine ROWETT
+Meeting ID: 3
+Date: 04-09-2019
+Meeting With: EU Ambassadors to China, Colombia, Egypt, Kazakhstan, Nigeria, Russia, Tunisia and Vietnam
+Reason: Informal dinner organised by DROI subcommittee with a select number of EU Ambassadors and DROI Members
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Caroline ROOSE
+Meeting ID: 264
+Date: 01-10-2019
+Meeting With: The Nature Conservation Europe Ministère chinois de l'Agriculture
+Reason: Rencontre sur les politiques chinoise et européenne de la pêche.
+Language: fr
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Isabel SANTOS
+Meeting ID: 5
+Date: 13-02-2024
+Meeting With: International Coalition to End Transplant Abuse in China
+Reason: Forced organ harvesting from prisoners of conscience in China
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Isabel SANTOS
+Meeting ID: 10
+Date: 22-01-2024
+Meeting With: Stand With Hong Kong Action Inc.
+Reason: Situation in Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Isabel SANTOS
+Meeting ID: 20
+Date: 08-11-2023
+Meeting With: EU Delegation to Hong Kong and Macau
+Reason: Exchange of views on the situation in both SARs
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nacho SÁNCHEZ AMOR
+Meeting ID: 11
+Date: 27-02-2024
+Meeting With: Hong Kong Watch
+Reason: Human Rights situation in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nacho SÁNCHEZ AMOR
+Meeting ID: 44
+Date: 10-09-2023
+Meeting With: Chinese Ambassador
+Reason: Electoral Observation Mission
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nacho SÁNCHEZ AMOR
+Meeting ID: 96
+Date: 08-06-2023
+Meeting With: Human Rights defender
+Reason: Human Rights in Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Alfred SANT
+Meeting ID: 64
+Date: 05-04-2023
+Meeting With: Chinese Ambassador to Malta
+Reason: EU- China Relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alfred SANT
+Meeting ID: 90
+Date: 27-09-2022
+Meeting With: China mission to the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alfred SANT
+Meeting ID: 109
+Date: 24-02-2022
+Meeting With: Fight for Freedom. Stand With Hong Kong
+Reason: Foreign Subsidies Regulation
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alfred SANT
+Meeting ID: 158
+Date: 07-04-2021
+Meeting With: ING
+Reason: Digital finance strategy
+Language: it
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Christel SCHALDEMOSE
+Meeting ID: 185
+Date: 12-10-2022
+Meeting With: Huawei Technologies
+Reason: GDPR and DSA
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Christel SCHALDEMOSE
+Meeting ID: 350
+Date: 21-04-2021
+Meeting With: DR
+Reason: DSA and DMA
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Christel SCHALDEMOSE
+Meeting ID: 408
+Date: 15-02-2021
+Meeting With: Alibaba Group David Baumgart
+Reason: DSA
+Language: de
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 2
+Date: 26-06-2024
+Meeting With: Chinese Mission to the EU
+Reason: APA Level: Exchange of Views on EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 37
+Date: 03-10-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: APA Level: Exchange of Views on Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 58
+Date: 25-04-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: APA Level: Exchange of Views on Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 182
+Date: 08-02-2022
+Meeting With: Hong Kong Watch
+Reason: Exchange of Views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 268
+Date: 23-02-2021
+Meeting With: Representatives of the Protest Movement
+Reason: Exchange of Views - Situation of Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Andreas SCHIEDER
+Meeting ID: 348
+Date: 14-01-2020
+Meeting With: Mission of P.R. China to the European Union
+Reason: Exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Liesje SCHREINEMACHER
+Meeting ID: 11
+Date: 11-05-2021
+Meeting With: Facebook Google TikTok
+Reason: Child safety online
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Liesje SCHREINEMACHER
+Meeting ID: 13
+Date: 15-03-2021
+Meeting With: Hong Kong Watch
+Reason: Hong Kong, Human rights
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Liesje SCHREINEMACHER
+Meeting ID: 15
+Date: 03-03-2021
+Meeting With: VNO-NCW
+Reason: EU-China investment agreement
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Liesje SCHREINEMACHER
+Meeting ID: 18
+Date: 13-01-2021
+Meeting With: VNO-NCW
+Reason: Brexit, China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 4
+Date: 06-06-2024
+Meeting With: Chinese Mission
+Reason: EU China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 5
+Date: 27-05-2024
+Meeting With: Chinese mission to Germany
+Reason: Relations China Germany
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 23
+Date: 11-01-2024
+Meeting With: Mission of China to the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 26
+Date: 29-11-2023
+Meeting With: Europe Asia Center
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 28
+Date: 22-11-2023
+Meeting With: Mission of China to the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 41
+Date: 11-09-2023
+Meeting With: Mission of China
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 43
+Date: 03-07-2023
+Meeting With: Mission of China
+Reason: EU - China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 49
+Date: 23-05-2023
+Meeting With: Representative of IDCPC
+Reason: EU - China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 64
+Date: 10-01-2023
+Meeting With: Mission of China
+Reason: EU - China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 83
+Date: 18-10-2022
+Meeting With: Chinese mission to the EU
+Reason: EU - China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 87
+Date: 04-11-2021
+Meeting With: US government
+Reason: EU - US trade relations, China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 152
+Date: 23-10-2020
+Meeting With: Mission of China
+Reason: contemporary EU - China economic and political relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 169
+Date: 15-07-2020
+Meeting With: EU - Asia Centre European Policy Centre
+Reason: The EU-China Strategic Partnership
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 184
+Date: 16-06-2020
+Meeting With: Bürgerlobby Klimaschutz M-V
+Reason: EU Green Deal und die deutsche EU-China Politik
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 203
+Date: 21-02-2020
+Meeting With: Embassy of China
+Reason: Political Challenges 2020-2024
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 242
+Date: 23-10-2019
+Meeting With: Mission of China
+Reason: Political Challenges 2019-2024
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 259
+Date: 24-09-2019
+Meeting With: Peoples Republic of China
+Reason: Welcome reception
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Helmut SCHOLZ
+Meeting ID: 270
+Date: 05-09-2019
+Meeting With: Stiftung Wissenschaft und Politik
+Reason: The current state of EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Andreas SCHWAB
+Meeting ID: 67
+Date: 15-06-2021
+Meeting With: TikTok
+Reason: DMA
+Language: de
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Pedro SILVA PEREIRA
+Meeting ID: 10
+Date: 15-06-2022
+Meeting With: Huawei Technologies Liu Kang
+Reason: Green Deal and Digitalization
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Pedro SILVA PEREIRA
+Meeting ID: 13
+Date: 16-03-2021
+Meeting With: Huawei
+Reason: 5G and Cybersecurity
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Radosław SIKORSKI
+Meeting ID: 104
+Date: 17-06-2021
+Meeting With: Americans For Tax Reform
+Reason: EU-China Relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Radosław SIKORSKI
+Meeting ID: 116
+Date: 07-04-2021
+Meeting With: Americans for Tax Reform
+Reason: Panel debate: “EU-China Relations Towards A Fair And Reciprocal Partnership”
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Radosław SIKORSKI
+Meeting ID: 141
+Date: 16-09-2020
+Meeting With: Mercator Institute for China Studies
+Reason: Charting a new course for European China policy
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Radosław SIKORSKI
+Meeting ID: 146
+Date: 08-07-2020
+Meeting With: Association Européenne des Cadres de l'Assurance - AECA - European Federation of Executives and Managerial Staff of the Insurance Sector Atlantic Council of the United States, Inc
+Reason: Panel debate: “The Geopolitics of the U.S.-EU-China Triangular Relationship - Managing the New World Order”
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Stéphane SÉJOURNÉ
+Meeting ID: 201
+Date: 07-01-2020
+Meeting With: Vice-Ministre des affaires étrangères chinois
+Reason: Diplomatie
+Language: af
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Stéphane SÉJOURNÉ
+Meeting ID: 202
+Date: 07-01-2020
+Meeting With: Ministre du département international du Comité central du Parti Communiste chinois
+Reason: Diplomatie
+Language: af
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ivan Vilibor SINČIĆ
+Meeting ID: 63
+Date: 10-12-2020
+Meeting With: MEPs Experts
+Reason: The Pandemic and Forced Organ Harvesting - Europe's Opportunity to End its Illusions about China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Birgit SIPPEL
+Meeting ID: 550
+Date: 20-10-2020
+Meeting With: Nuctech/ EPPA
+Reason: Exchange of views on AI and public security
+Language: en
+  - Company match found: Nuctech (Score: 100)
+
+
+MEP: Ivan ŠTEFANEC
+Meeting ID: 4
+Date: 13-03-2024
+Meeting With: TikTok Technology Ltd
+Reason: Presentation of TT work to safeguard election integrity
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Ivan ŠTEFANEC
+Meeting ID: 5
+Date: 05-03-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: General Outlook for Elections, EU-Taiwan Relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Ivan ŠTEFANEC
+Meeting ID: 10
+Date: 31-01-2024
+Meeting With: Alibaba
+Reason: SMEs cross-border activities, EU Customs Union, Toy Safety
+Language: en
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Marc TARABELLA
+Meeting ID: 24
+Date: 13-07-2022
+Meeting With: Ambassadeur Taipei
+Reason: Courtesy meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marc TARABELLA
+Meeting ID: 102
+Date: 28-04-2021
+Meeting With: ONE
+Reason: Vaccination
+Language: it
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Marc TARABELLA
+Meeting ID: 148
+Date: 29-09-2020
+Meeting With: One
+Reason: Global response to COVID-19
+Language: es
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Marc TARABELLA
+Meeting ID: 225
+Date: 14-10-2019
+Meeting With: CSW
+Reason: Droits de l'Homme en Chine
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marc TARABELLA
+Meeting ID: 241
+Date: 11-09-2019
+Meeting With: ONE
+Reason: Pledge developpement humain
+Language: fr
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Vera TAX
+Meeting ID: 1
+Date: 28-11-2023
+Meeting With: NS
+Reason: Meeting on rail in Europe
+Language: en
+  - Company match found: Hisense Group (Score: 100)
+
+
+MEP: Vera TAX
+Meeting ID: 59
+Date: 16-11-2022
+Meeting With: NS
+Reason: General exchange of views
+Language: en
+  - Company match found: Hisense Group (Score: 100)
+
+
+MEP: Paul TANG
+Meeting ID: 44
+Date: 16-11-2023
+Meeting With: 5Rights Foundation Snap, Inc. TikTok Technology Ltd Twitter International Unlimited Company
+Reason: Panel discussion IAPP 2023 Congress: "Children Online”
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Paul TANG
+Meeting ID: 120
+Date: 26-02-2023
+Meeting With: AT&T, Inc. Amazon Europe Core SARL Cisco Systems Inc. DIGITALEUROPE Deutsche Telekom GSMA Europe Google Huawei Technologies InterDigital, Inc. KPN Liberty Global Corporate B.V. MVNO Europe Microsoft Corporation Motion Picture Association EMEA Netflix International B.V. Nokia Oracle Orange Proximus SA de droit public QUALCOMM Incorporated ServiceNow Telekom Austria AG Telenor Telia Company AB Verizon Communications Inc Vodafone Belgium SA Europan Internet Forum BEREC ACT Apple Allied for Statups ETNO ICANN ITI Meta Telefónica TIM United Group Youth IGF ZTE
+Reason: Participant at EIF-GSMA Roundtable discussion: "‘Connecting Europe to its 2030 Digital Decade Targets’"
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Paul TANG
+Meeting ID: 148
+Date: 12-01-2023
+Meeting With: Amazon Europe Core SARL Centre for Democracy & Technology, Europe Chaos Computer Club e.V. DOT Europe Discord Inc. ECO Platform AISBL European Digital Rights European Federation for Missing and Sexually Exploited Children (Missing Children Europe) GSMA Europe Google INHOPE - International Association of Internet Hotlines Internet Watch Foundation Microsoft Corporation Proton AG Stichting ECPAT International Terre des Hommes International Federation Thorn TikTok Technology Ltd Yahoo! EMEA Ltd. Meta Platforms Ireland Limited and its various subsidiaries (f/k/a Facebook Ireland Limited) Digital Europe Vrije Universiteit van Amsterdam (VU) Cispe Cloud Amazon Web Services CISPE Brave Movement Childfund International EuroISPA
+Reason: Closed door stakeholders meeting on Child Sexual Abuse Regulation with MEP Alex Agius Saliba and MEP Helene Fritzon
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Paul TANG
+Meeting ID: 159
+Date: 23-11-2022
+Meeting With: TikTok Technology Ltd
+Reason: Staff Level: Child Sexual Abuse Regulation
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Paul TANG
+Meeting ID: 189
+Date: 06-07-2022
+Meeting With: TikTok Technology Ltd
+Reason: Political Advertising Regulation / Child Sexual Abuse Regulation and other files (assistant participated)
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Barbara THALER
+Meeting ID: 6
+Date: 13-12-2023
+Meeting With: EC
+Reason: TEN-T
+Language: vi
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Barbara THALER
+Meeting ID: 39
+Date: 02-10-2023
+Meeting With: EC
+Reason: TEN-T
+Language: vi
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Barbara THALER
+Meeting ID: 169
+Date: 08-02-2021
+Meeting With: ERA
+Reason: ERTMS
+Language: es
+  - Company match found: China General Nuclear Power Group (CGN) (Score: 100)
+
+
+MEP: Jana TOOM
+Meeting ID: 30
+Date: 17-12-2019
+Meeting With: Mission of China to the EU
+Reason: EU-China Relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Nils TORVALDS
+Meeting ID: 21
+Date: 28-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: EP elections
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Nils TORVALDS
+Meeting ID: 87
+Date: 08-11-2023
+Meeting With: IE
+Reason: UWWTD
+Language: sw
+  - Company match found: Haier Group Corporation (Score: 100)
+
+
+MEP: Dragoş TUDORACHE
+Meeting ID: 40
+Date: 05-03-2024
+Meeting With: Alibaba
+Reason: Artificial Intelligence
+Language: it
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Dragoş TUDORACHE
+Meeting ID: 70
+Date: 12-12-2023
+Meeting With: Mission of P.R. China to the European Union
+Reason: Artificial Intelligence
+Language: it
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Milan UHRÍK
+Meeting ID: 0
+Date: 18-03-2024
+Meeting With: Mission of China to the European Union
+Reason: Formal diplomatic meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Milan UHRÍK
+Meeting ID: 1
+Date: 12-03-2024
+Meeting With: TikTok Technology Ltd
+Reason: Informational meeting
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Milan UHRÍK
+Meeting ID: 2
+Date: 06-03-2024
+Meeting With: Embassy of the People's Republic of China in the Slovak Republic - Ambassador
+Reason: Formal diplomatic meeting
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: István UJHELYI
+Meeting ID: 4
+Date: 21-02-2024
+Meeting With: NIO
+Reason: Transportation and Tourism
+Language: en
+  - Company match found: NIO Inc. (Score: 100)
+
+
+MEP: István UJHELYI
+Meeting ID: 10
+Date: 24-01-2024
+Meeting With: Chinese mission
+Reason: Tourism
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: István UJHELYI
+Meeting ID: 20
+Date: 29-11-2023
+Meeting With: Huawei Technologies
+Reason: Transportation
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: István UJHELYI
+Meeting ID: 85
+Date: 26-04-2023
+Meeting With: Chinese Mission to the EU
+Reason: EU-China coperation on tourism
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: István UJHELYI
+Meeting ID: 106
+Date: 07-02-2023
+Meeting With: Meeting with Ambassador Fu Cong
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: István UJHELYI
+Meeting ID: 130
+Date: 11-07-2022
+Meeting With: Huawei Technologies
+Reason: Transportation and telecommunication
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: István UJHELYI
+Meeting ID: 168
+Date: 11-12-2020
+Meeting With: HUAWEI
+Reason: Digitalisation in transport
+Language: it
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 22
+Date: 24-10-2023
+Meeting With: European Chamber of Commerce China
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 29
+Date: 11-10-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan trade relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 30
+Date: 04-10-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU Taiwan Relations (APA)
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 35
+Date: 29-09-2023
+Meeting With: Vrije Universiteit Brussel
+Reason: China Maritime Policy (APA)
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 37
+Date: 26-09-2023
+Meeting With: China Strategic Risks Institute
+Reason: Business derisking in China
+Language: de
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 47
+Date: 30-08-2023
+Meeting With: Ambassador Taipei Representative Office in the EU and Belgium
+Reason: Trade relations between the EU and Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 89
+Date: 03-05-2023
+Meeting With: European Dredging Association
+Reason: Maritime security and Chinese investments in strategic port infrastructure in Europe
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 138
+Date: 02-02-2023
+Meeting With: Ambassador Taipei Representative Office in the EU and Belgium
+Reason: The situation in the Taiwan Strait & trade partnership with Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 156
+Date: 11-01-2023
+Meeting With: European Union Chamber of Commerce in China FINCANTIERI SpA SAFRAN Schneider Electric Progetto Maersk
+Reason: Business lunch & conversation on EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 158
+Date: 09-01-2023
+Meeting With: Taipei Representative Office
+Reason: EU-Taiwan bilateral relations: follow-up - APA
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 180
+Date: 29-09-2022
+Meeting With: Taipei Representation EU
+Reason: Relaties met Taiwan - APA
+Language: af
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 224
+Date: 23-05-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Lunch on EU-Taiwan Relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 233
+Date: 02-03-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Trade relations between the European Union and Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 235
+Date: 28-01-2022
+Meeting With: ONE
+Reason: Vaccine Equity and the performance of COVAX
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Kathleen VAN BREMPT
+Meeting ID: 236
+Date: 28-01-2022
+Meeting With: ONE
+Reason: How to address inequality in the access to vaccines in the global south
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 1
+Date: 19-03-2024
+Meeting With: International Coalition to End Transplant Abuse in China
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 5
+Date: 08-11-2023
+Meeting With: Hong Kong Watch
+Reason: Human Rights situation in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 8
+Date: 21-09-2023
+Meeting With: Hong Kong Watch
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 9
+Date: 21-09-2023
+Meeting With: Taipei Representative office in the EU
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Hilde VAUTMANS
+Meeting ID: 22
+Date: 24-10-2022
+Meeting With: TikTok Technology Ltd
+Reason: Regulation to prevent and combat child sexual abuse
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Kim VAN SPARRENTAK
+Meeting ID: 166
+Date: 27-04-2021
+Meeting With: ONE
+Reason: Vaccines
+Language: it
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 7
+Date: 23-10-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: Relations commerciales UE-Chine
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 47
+Date: 07-02-2022
+Meeting With: Datenna B.V.
+Reason: Filtrage des investissements étrangers, politique de défense commerciale, relations commerciales UE-Chine
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 63
+Date: 14-09-2021
+Meeting With: Fight For Freedom. Stand With Hong Kong.
+Reason: Relations UE-Chine, Droits de l'homme, Accord global sur les investissements UE-Chine
+Language: fr
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 67
+Date: 10-05-2021
+Meeting With: CEEV spiritsEUROPE Pernod Ricard FEVS BNC
+Reason: Sujets commerciaux - Chine, Etats-Unis
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 70
+Date: 28-04-2021
+Meeting With: First Solar
+Reason: Relations UE-Chine, Accord sur les investissements, Siutation des droits de l'Homme
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 76
+Date: 15-02-2021
+Meeting With: Institut Jacques Delors
+Reason: Accord global sur les investissements UE-Chine
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 80
+Date: 19-01-2021
+Meeting With: Gide
+Reason: Accord global sur les investissements UE-Chine
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 81
+Date: 19-01-2021
+Meeting With: Renault
+Reason: Accord global sur les investissements UE-Chine
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 83
+Date: 06-11-2020
+Meeting With: BEUC
+Reason: Relations Commerciales UE-Chine et Extraterritorialité
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marie-Pierre VEDRENNE
+Meeting ID: 102
+Date: 22-01-2020
+Meeting With: Fondapol
+Reason: Présentation étude « l'europe face aux nationalismes économiques américain et chinois »
+Language: fr
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Sabine VERHEYEN
+Meeting ID: 192
+Date: 29-03-2022
+Meeting With: Huawei
+Reason: Artificial Intelligence; Digital Literacy and promotion of Digital Skills
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Petar VITANOV
+Meeting ID: 72
+Date: 15-02-2022
+Meeting With: TikTok Technology Ltd
+Reason: AI Act
+Language: ro
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Henna VIRKKUNEN
+Meeting ID: 6
+Date: 23-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: EU digital policy
+Language: it
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Henna VIRKKUNEN
+Meeting ID: 145
+Date: 06-03-2023
+Meeting With: Huawei Technologies
+Reason: EU Cyber Resilience Act
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Henna VIRKKUNEN
+Meeting ID: 159
+Date: 07-02-2023
+Meeting With: Lenovo Group Limited
+Reason: Cyber Resilience Act
+Language: en
+  - Company match found: Lenovo Group (Score: 100)
+
+
+MEP: Henna VIRKKUNEN
+Meeting ID: 166
+Date: 26-01-2023
+Meeting With: Xiaomi
+Reason: EU Cyber Resilience Act
+Language: en
+  - Company match found: Xiaomi Corporation (Score: 100)
+
+
+MEP: Henna VIRKKUNEN
+Meeting ID: 229
+Date: 12-05-2022
+Meeting With: TikTok Technology Ltd
+Reason: EU Digital Policy
+Language: ca
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Henna VIRKKUNEN
+Meeting ID: 382
+Date: 20-04-2021
+Meeting With: TikTok
+Reason: Digital Services Act
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Viola VON CRAMON-TAUBADEL
+Meeting ID: 61
+Date: 23-05-2023
+Meeting With: Association of International Affairs
+Reason: China's Involvement in Central eastern and South eastern Europe
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Viola VON CRAMON-TAUBADEL
+Meeting ID: 65
+Date: 26-04-2023
+Meeting With: Volkswagen AG
+Reason: Exchange about VW's China Business
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Viola VON CRAMON-TAUBADEL
+Meeting ID: 86
+Date: 24-01-2023
+Meeting With: Carnegie Europe Centre for the Future of Democracy
+Reason: Presentation of a new Report on the political situation between the West, Russia and China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Viola VON CRAMON-TAUBADEL
+Meeting ID: 136
+Date: 30-03-2021
+Meeting With: Amnesty International Limited
+Reason: Uyghurs and Human Rights violations in China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Viola VON CRAMON-TAUBADEL
+Meeting ID: 137
+Date: 29-03-2021
+Meeting With: Athleten Deutschland e.V.
+Reason: Strategy on Olympic Games in China 2022
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Viola VON CRAMON-TAUBADEL
+Meeting ID: 138
+Date: 29-03-2021
+Meeting With: Human Rights Watch
+Reason: Uyghurs and Human Rights violations in China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Veronika VRECIONOVÁ
+Meeting ID: 51
+Date: 11-02-2020
+Meeting With: Taipei Representative Office in the EU and Belgium - Second Secretary
+Reason: Political situation in Taipei
+Language: it
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Mick WALLACE
+Meeting ID: 6
+Date: 27-04-2023
+Meeting With: Ambassador Fu Cong, Head of the Chinese Mission to the EU
+Reason: EU China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Axel VOSS
+Meeting ID: 230
+Date: 10-02-2022
+Meeting With: Huawei Technologies
+Reason: Artificial Intelligence
+Language: it
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Marion WALSMANN
+Meeting ID: 11
+Date: 08-12-2023
+Meeting With: DIN
+Reason: Toy Safety Regulation
+Language: en
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Marion WALSMANN
+Meeting ID: 14
+Date: 04-12-2023
+Meeting With: Alibaba
+Reason: Toy Safety Regulation
+Language: en
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 12
+Date: 30-08-2023
+Meeting With: Taipei Representative Office in the EU
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 16
+Date: 20-06-2023
+Meeting With: China Strategic Risks Institute
+Reason: China and their neighbors
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 20
+Date: 26-05-2023
+Meeting With: China Strategic Risks Institute
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 21
+Date: 24-05-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 36
+Date: 18-10-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU - Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 54
+Date: 26-04-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 55
+Date: 29-03-2022
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 64
+Date: 02-03-2021
+Meeting With: European Union Delegation in Taipei Taiwan
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 66
+Date: 25-02-2021
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: EU-Taiwan relations
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Charlie WEIMERS
+Meeting ID: 70
+Date: 03-06-2020
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Medical Diplomacy
+Language: es
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 12
+Date: 29-01-2024
+Meeting With: Alibaba
+Reason: Småföretagar- och handelsfrågor (STAFF LEVEL)
+Language: sv
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 35
+Date: 24-10-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: Handelsfrågor
+Language: sv
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 57
+Date: 11-01-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: Handelsfrågor
+Language: sv
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 59
+Date: 14-12-2022
+Meeting With: Taipei Representative Office in the EU, Remus Li-Kuo CHEN
+Reason: EU-Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 172
+Date: 28-10-2021
+Meeting With: Volvo
+Reason: Fordonsindustrins klimatomställning och konkurrenskraft
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 191
+Date: 30-06-2021
+Meeting With: Volvo
+Reason: Autonoma och uppkopplade fordon / AI-frågor / fordonsindustrins konkurrenskraft
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 222
+Date: 12-02-2021
+Meeting With: Sweden-China Trade Council
+Reason: Investeringsavtal EU - Kina (CAI)
+Language: no
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 224
+Date: 10-02-2021
+Meeting With: Nederman Holding AB - The Clean Air Company
+Reason: Investeringsavtal EU - Kina (CAI)
+Language: no
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 276
+Date: 05-02-2020
+Meeting With: Volvo
+Reason: Swedish automotive industry / climate and trade policy
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 290
+Date: 19-11-2019
+Meeting With: Volvo
+Reason: Swedish automotive industry
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Jörgen WARBORN
+Meeting ID: 318
+Date: 18-09-2019
+Meeting With: Volvo
+Reason: Swedish automotive industry
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 0
+Date: 05-12-2023
+Meeting With: Institut Montaigne
+Reason: EU-China affairs
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 1
+Date: 28-11-2023
+Meeting With: Chinese Mission to the EU
+Reason: EU-China affairs
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 2
+Date: 21-11-2023
+Meeting With: Chinese National People's Congress
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 5
+Date: 29-06-2023
+Meeting With: EU Chamber of Commerce in China
+Reason: Meeting with new President of EUCCC
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 6
+Date: 09-12-2022
+Meeting With: EU Chamber of Commerce in China EU SME Center in China
+Reason: EU-China affairs
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 9
+Date: 07-09-2022
+Meeting With: Chinese Mission to the EU
+Reason: Meeting with Chinese Mission
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 12
+Date: 14-01-2022
+Meeting With: Australian Mission to the EU
+Reason: EU-Australia FTA negotiations/ China economic coercion
+Language: it
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 13
+Date: 13-10-2021
+Meeting With: Australian Minister for Trade
+Reason: EU-Australia Trade negotiations/ China economic coercion
+Language: it
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 14
+Date: 14-07-2021
+Meeting With: BusinessEurope
+Reason: EU-China affairs / economic coercion
+Language: it
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 15
+Date: 26-03-2021
+Meeting With: EU Delegation in China (HoD)
+Reason: EU-China affairs
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 16
+Date: 10-03-2021
+Meeting With: Ericsson
+Reason: Digitization & EU China affairs
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 18
+Date: 13-01-2021
+Meeting With: Joerg Wuttke President of EUCCC
+Reason: EU-China relations - EUCCC report on decoupling
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 19
+Date: 09-12-2020
+Meeting With: Chinese Mission to EU
+Reason: EU-China Realtions
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 20
+Date: 02-09-2020
+Meeting With: Huawei Romania
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 21
+Date: 14-07-2020
+Meeting With: EU-China Hub
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 22
+Date: 18-06-2020
+Meeting With: EuroCommerce
+Reason: EU Trade Policy/ EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 25
+Date: 05-02-2020
+Meeting With: EUCCC
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Iuliu WINKLER
+Meeting ID: 33
+Date: 16-10-2019
+Meeting With: Hong Kong Civil Society
+Reason: EU value-based engagement
+Language: nl
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Isabel WISELER-LIMA
+Meeting ID: 4
+Date: 20-02-2024
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Salima YENBOU
+Meeting ID: 94
+Date: 23-03-2022
+Meeting With: Activistes hongkongais pro-démocratie Hong Kong Watch
+Reason: Statut des prisonniers politiques de Hong Kong
+Language: fr
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Salima YENBOU
+Meeting ID: 148
+Date: 17-11-2020
+Meeting With: Huawei Technologies
+Reason: Echange
+Language: de
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Salima YENBOU
+Meeting ID: 159
+Date: 28-09-2020
+Meeting With: Hong Kong Watch Lord Patten, dernier gouverneur de Hong Kong et Patron de HKW
+Reason: Echange de vues
+Language: fr
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Lara WOLTERS
+Meeting ID: 244
+Date: 06-07-2020
+Meeting With: GRI
+Reason: Due diligence
+Language: nl
+  - Company match found: State Grid Corporation of China (Score: 100)
+
+
+MEP: Lara WOLTERS
+Meeting ID: 256
+Date: 20-02-2020
+Meeting With: Taipei Representative Office in the EU
+Reason: Taiwan and Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Stéphanie YON-COURTIN
+Meeting ID: 0
+Date: 17-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: Tiktok lite, DMA, DSA
+Language: no
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Chrysoula ZACHAROPOULOU
+Meeting ID: 86
+Date: 05-11-2019
+Meeting With: One
+Reason: ONE Campaign on the fight against extreme poverty
+Language: en
+  - Company match found: Drone DJI (Score: 100)
+
+
+MEP: Jan ZAHRADIL
+Meeting ID: 18
+Date: 06-03-2023
+Meeting With: Embassy of China in Czech republic
+Reason: EU-China relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jan ZAHRADIL
+Meeting ID: 19
+Date: 01-03-2023
+Meeting With: Mission of China to EU
+Reason: EU-China trade relations
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jan ZAHRADIL
+Meeting ID: 27
+Date: 26-10-2022
+Meeting With: The Carter Centre
+Reason: US strategy vis-a-vis China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Jan ZAHRADIL
+Meeting ID: 28
+Date: 11-10-2022
+Meeting With: Mission of Australia to EU
+Reason: Role of China in multipolar world
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Tiemo WÖLKEN
+Meeting ID: 586
+Date: 16-06-2021
+Meeting With: TikTok
+Reason: Digital Markets Act & Digital Services Act
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Bernhard ZIMNIOK
+Meeting ID: 3
+Date: 16-01-2024
+Meeting With: Xia Xiaoyang, counseler of the Chinese mission
+Reason: Chinesische Entwicklungspolitik, insbesondere in Afrika
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Carlos ZORRINHO
+Meeting ID: 5
+Date: 21-11-2023
+Meeting With: Mission of China to the EU
+Reason: Research and innovation
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Sunčana GLAVAK
+Meeting ID: 7
+Date: 06-09-2023
+Meeting With: Lenovo Group Limited
+Reason: Right to repair ENVI Opinion
+Language: en
+  - Company match found: Lenovo Group (Score: 100)
+
+
+MEP: Nicola DANTI
+Meeting ID: 96
+Date: 25-01-2023
+Meeting With: APPLiA (Home Appliance Europe) BUSINESSEUROPE Broadcom DIGITALEUROPE Ericsson European Cyber Security Organisation European Telecommunications Network Operators' Association GSMA Europe Huawei Technologies IBM Corporation Microsoft Corporation SMEunited aisbl Siemens AG Splunk TIC Council Xiaomi Technology Netherlands B.V.
+Reason: Stakeholder consultation on the CRA
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Nicola DANTI
+Meeting ID: 98
+Date: 10-01-2023
+Meeting With: European Union Chamber of Commerce in China
+Reason: Situazione politica ed economica in Cina
+Language: it
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Marc ANGEL
+Meeting ID: 81
+Date: 06-06-2023
+Meeting With: Institut français des relations internationales
+Reason: Exchange your views on the current geopolitical situation and China
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Marc ANGEL
+Meeting ID: 100
+Date: 02-03-2023
+Meeting With: TikTok Technology Ltd
+Reason: Cibersecurity measures
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Marc ANGEL
+Meeting ID: 185
+Date: 11-12-2020
+Meeting With: Huawei
+Reason: 5G network
+Language: af
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Marianne VIND
+Meeting ID: 181
+Date: 02-03-2021
+Meeting With: DI
+Reason: Competitiveness
+Language: it
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Marianne VIND
+Meeting ID: 221
+Date: 25-11-2020
+Meeting With: EC
+Reason: Platform Workers
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Alviina ALAMETSÄ
+Meeting ID: 17
+Date: 14-05-2024
+Meeting With: China Office of Finnish Industries
+Reason: Chinese foreign policy, economy and politics
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alviina ALAMETSÄ
+Meeting ID: 210
+Date: 30-04-2020
+Meeting With: Stand With Hong Kong
+Reason: Civil society resistance movement activities in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Barry ANDREWS
+Meeting ID: 13
+Date: 27-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: TikTok
+Language: id
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Barry ANDREWS
+Meeting ID: 180
+Date: 11-12-2020
+Meeting With: Huawei Technologies
+Reason: Trade
+Language: pt
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Jakop G. DALUNDE
+Meeting ID: 261
+Date: 14-04-2021
+Meeting With: Volvo Cars (74574295642-60)
+Reason: Transportation policy, green transition of transportation
+Language: en
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Sandro GOZI
+Meeting ID: 42
+Date: 23-02-2022
+Meeting With: TikTok
+Reason: Political advertising
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Sandro GOZI
+Meeting ID: 54
+Date: 02-02-2022
+Meeting With: Meta Yahoo ACT CCIA Europe Twitter Google Numeum Digital Europe Microsoft Seznam Mozilla European Tech Alliance Apple Amazon AFNUM TikTok
+Reason: Political advertising
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Sandro GOZI
+Meeting ID: 115
+Date: 01-12-2020
+Meeting With: TikTok
+Reason: Disinformation
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Salvatore DE MEO
+Meeting ID: 170
+Date: 03-11-2021
+Meeting With: Pirelli & C. SpA
+Reason: Various
+Language: lt
+  - Company match found: Pirelli (Score: 100)
+
+
+MEP: Salvatore DE MEO
+Meeting ID: 175
+Date: 13-10-2021
+Meeting With: Alibaba
+Reason: Various
+Language: lt
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Salvatore DE MEO
+Meeting ID: 187
+Date: 23-09-2021
+Meeting With: Alibaba
+Reason: Various
+Language: lt
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Salvatore DE MEO
+Meeting ID: 211
+Date: 18-03-2021
+Meeting With: Alibaba
+Reason: DSA-DMA
+Language: af
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Bart GROOTHUIS
+Meeting ID: 57
+Date: 09-02-2024
+Meeting With: Huawei Technologies
+Reason: Cybersecurity and economic security
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Bart GROOTHUIS
+Meeting ID: 198
+Date: 27-05-2021
+Meeting With: Huawei
+Reason: Meeting on NIS II report
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Bart GROOTHUIS
+Meeting ID: 236
+Date: 23-03-2021
+Meeting With: Huawei
+Reason: meeting on NIS report
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Miriam LEXMANN
+Meeting ID: 5
+Date: 23-01-2024
+Meeting With: Taipei Representative Office
+Reason: Meeting with the new Representative of Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Miriam LEXMANN
+Meeting ID: 6
+Date: 23-01-2024
+Meeting With: Hong Kong Watch
+Reason: Briefing/Meeting to discuss human rights situation in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Gabriel MATO
+Meeting ID: 6
+Date: 14-02-2024
+Meeting With: Huawei Technologies
+Reason: Meeting with Directives of HUAWEI
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Dominik TARCZYŃSKI
+Meeting ID: 0
+Date: 24-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: TikTok's preparations for the EU elections, including rules for political account holders, provide an overview of TikTok as a platform
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Linea SØGAARD-LIDELL
+Meeting ID: 12
+Date: 11-01-2022
+Meeting With: DI
+Reason: CSRD
+Language: en
+  - Company match found: Geely Automobile Holdings (Score: 100)
+
+
+MEP: Riho TERRAS
+Meeting ID: 3
+Date: 21-11-2023
+Meeting With: Taipei Representative Office in the EU and Belgium
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Adrián VÁZQUEZ LÁZARA
+Meeting ID: 39
+Date: 04-05-2022
+Meeting With: Huawei Technologies
+Reason: General exchange of views
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Adrián VÁZQUEZ LÁZARA
+Meeting ID: 62
+Date: 03-03-2021
+Meeting With: ENCE
+Reason: Exchange of views
+Language: en
+  - Company match found: Tencent Holdings (Score: 100)
+
+
+MEP: Thomas WAITZ
+Meeting ID: 1
+Date: 18-04-2024
+Meeting With: TikTok Technology Ltd
+Reason: Tiktok Hass im Netz
+Language: de
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Ilan DE BASSO
+Meeting ID: 94
+Date: 20-06-2023
+Meeting With: LO
+Reason: Möte om plattformsdirektivet (APA level)
+Language: no
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Ilan DE BASSO
+Meeting ID: 174
+Date: 11-01-2023
+Meeting With: Klarna Bank AB Nokia Spotify Swappie Telenor Telia Company AB Tetra Pak Group Carlsberg Group Electrolux Equinor Essity H&M Ingka/IKEA Novo Nordisk Schibsted Volvo Group Wolt Volvo Cars
+Reason: Event
+Language: nl
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Ilan DE BASSO
+Meeting ID: 195
+Date: 24-10-2022
+Meeting With: LO
+Reason: Möte
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Ilan DE BASSO
+Meeting ID: 197
+Date: 11-10-2022
+Meeting With: LO
+Reason: Frukostmöte
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Ilan DE BASSO
+Meeting ID: 219
+Date: 25-05-2022
+Meeting With: Volvo Cars Aurobay
+Reason: Halvledarproblematiken och svenska företag
+Language: sv
+  - Company match found: Volvo Cars (Score: 100)
+
+
+MEP: Ilan DE BASSO
+Meeting ID: 233
+Date: 26-04-2022
+Meeting With: LO
+Reason: Möte: aktuella arbetsmarknadsfrågor på EU-nivå
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Ilan DE BASSO
+Meeting ID: 234
+Date: 23-04-2022
+Meeting With: LO
+Reason: Valkickoff: LO-distriktet i Småland och Blekinge
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Cyrus ENGERER
+Meeting ID: 78
+Date: 26-01-2022
+Meeting With: Huawei Technologies
+Reason: Circular Economy
+Language: es
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Cyrus ENGERER
+Meeting ID: 121
+Date: 13-05-2021
+Meeting With: GIE
+Reason: TEN-E Regulation
+Language: en
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Malte GALLÉE
+Meeting ID: 0
+Date: 27-02-2024
+Meeting With: TikTok Technology Ltd 165202837974-32
+Reason: Tiktoks work to safeguard EU election integrity
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Camilla LAURETI
+Meeting ID: 53
+Date: 22-03-2023
+Meeting With: Pirelli & C. SpA
+Reason: Dossier 2023
+Language: de
+  - Company match found: Pirelli (Score: 100)
+
+
+MEP: Karsten LUCKE
+Meeting ID: 70
+Date: 20-10-2022
+Meeting With: Taipeh-Vertretung
+Reason: außenpolitischer Austausch
+Language: de
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Alin MITUȚA
+Meeting ID: 35
+Date: 22-06-2023
+Meeting With: Huawei Technologies
+Reason: Gigabit Infrastructure Act
+Language: ro
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Alin MITUȚA
+Meeting ID: 137
+Date: 11-07-2022
+Meeting With: Alibaba
+Reason: Data Act
+Language: id
+  - Company match found: Alibaba Group (Score: 100)
+
+
+MEP: Alin MITUȚA
+Meeting ID: 160
+Date: 30-05-2022
+Meeting With: Huawei Technologies
+Reason: Data Act
+Language: id
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Katarína ROTH NEVEĎALOVÁ
+Meeting ID: 2
+Date: 12-03-2024
+Meeting With: TikTok Technology Ltd
+Reason: TikTok as a platform, rules for political account holders
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Carina OHLSSON
+Meeting ID: 77
+Date: 28-06-2023
+Meeting With: LO
+Reason: Seminarium och dialog: Krissamtal om arbetslivskriminalitet
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Carina OHLSSON
+Meeting ID: 136
+Date: 11-01-2023
+Meeting With: LO
+Reason: Möte med LO om sexuella trakasserier i EU och utvärdering av MeToo
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Carina OHLSSON
+Meeting ID: 142
+Date: 11-10-2022
+Meeting With: LO
+Reason: Möte med LO om aktuella frågor
+Language: sv
+  - Company match found: Huawei Technologies (Score: 100)
+
+
+MEP: Thijs REUTEN
+Meeting ID: 14
+Date: 23-01-2024
+Meeting With: Stand With Hong Kong Action Inc.
+Reason: Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Thijs REUTEN
+Meeting ID: 15
+Date: 17-01-2024
+Meeting With: Chinese Mission to the EU
+Reason: General exchange of views
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Catharina RINZEMA
+Meeting ID: 66
+Date: 12-01-2023
+Meeting With: EU Chamber of Commerce in China
+Reason: EU-China trade
+Language: pt
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Catharina RINZEMA
+Meeting ID: 77
+Date: 18-10-2022
+Meeting With: TikTok Technology Ltd
+Reason: CSAM
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Catharina RINZEMA
+Meeting ID: 107
+Date: 28-04-2022
+Meeting With: Bruegel
+Reason: EU-China trade relations
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Catharina RINZEMA
+Meeting ID: 109
+Date: 26-04-2022
+Meeting With: TikTok Technology Ltd
+Reason: Child safety online
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: René REPASI
+Meeting ID: 186
+Date: 02-02-2023
+Meeting With: Friedrich-Ebert-Stiftung
+Reason: Austausch zu China’s Regulations on Algorithms - Staff Level
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: René REPASI
+Meeting ID: 230
+Date: 02-09-2022
+Meeting With: Friedrich-Ebert-Stiftung
+Reason: Roundtable Discussion on "Chinese and German Perspectives on Safeguarding Global Supply Chains"
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: René REPASI
+Meeting ID: 257
+Date: 20-05-2022
+Meeting With: Friedrich-Ebert-Stiftung Stiftung Wissenschaft und Politik
+Reason: China
+Language: sw
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: René REPASI
+Meeting ID: 260
+Date: 18-05-2022
+Meeting With: Friedrich-Ebert-Stiftung Deutscher Städte- und Gemeindebund
+Reason: Podiumsdiskussion „China, die EU und die deutschen Kommunen“
+Language: de
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: René REPASI
+Meeting ID: 269
+Date: 27-04-2022
+Meeting With: Friedrich-Ebert-Stiftung
+Reason: China
+Language: sw
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: René REPASI
+Meeting ID: 272
+Date: 26-04-2022
+Meeting With: Friedrich-Ebert-Stiftung
+Reason: China
+Language: sw
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Anders VISTISEN
+Meeting ID: 13
+Date: 20-09-2023
+Meeting With: Taipei Representation
+Reason: Taiwan
+Language: sw
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 33
+Date: 20-11-2023
+Meeting With: Chinese Mission to the EU
+Reason: China-EU science and technology cooperation
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 88
+Date: 27-06-2023
+Meeting With: Hong Kong Watch
+Reason: Rights and freedoms in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 100
+Date: 31-05-2023
+Meeting With: Hong Kong Watch
+Reason: Freedoms situation in Hong Kong
+Language: en
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 304
+Date: 29-10-2021
+Meeting With: Minister of Foreign Affairs of the Republic of China
+Reason: Relations EU-Taiwan
+Language: en
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 314
+Date: 14-09-2021
+Meeting With: Fight For Freedom. Stand With Hong Kong (SWHK)
+Reason: Situation in Hong Kong
+Language: tl
+  - Keyword match found in reason.
+  - Keyword match found in meeting with.
+  - No company match found.
+
+
+MEP: Jordi SOLÉ
+Meeting ID: 381
+Date: 13-10-2020
+Meeting With: Taiwan's ambassador
+Reason: Situation in the South China Sea
+Language: en
+  - Keyword match found in reason.
+  - No company match found.
+
+
+MEP: Niels GEUKING
+Meeting ID: 15
+Date: 10-04-2024
+Meeting With: TikTok
+Reason: Social Media
+Language: es
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Niels GEUKING
+Meeting ID: 19
+Date: 14-03-2024
+Meeting With: Tiktok
+Reason: Media
+Language: cy
+  - Company match found: Tiktok (Score: 100)
+
+
+MEP: Martine KEMP
+Meeting ID: 4
+Date: 28-02-2024
+Meeting With: TikTok Technology Ltd
+Reason: Opportunities of TikTok
+Language: en
+  - Company match found: Tiktok (Score: 100)
+
