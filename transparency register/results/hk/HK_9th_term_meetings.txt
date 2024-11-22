@@ -18,7 +18,9 @@ Meeting With: Hong Kong Higher Institutions International Affairs Delegation (HK
 Reason: The Hong Kong protests
   - Keywords matched in reason: Hong Kong
   - Keywords matched in meeting with: Hong Kong
-  - No match found in transparency registry.
+  - Company match: nsf international (Score: 94.11764705882352)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
 
 
 MEP: Nicola BEER
@@ -305,7 +307,9 @@ Meeting With: Stand with Hong Kong group
 Reason: Hong Kong
   - Keywords matched in reason: Hong Kong
   - Keywords matched in meeting with: Hong Kong
-  - No match found in transparency registry.
+  - Company match: ing group (Score: 94.11764705882352)
+    - HQ Country: NETHERLANDS
+    - Registration Category: Companies & groups
 
 
 MEP: Markéta GREGOROVÁ
@@ -352,7 +356,9 @@ Date: 05-10-2020
 Meeting With: White House Consulting
 Reason: Reunião online com a White House Consulting sobre a situação política em Hong Kong.
   - Keywords matched in reason: Hong Kong
-  - No match found in transparency registry.
+  - Company match: euk consulting (Score: 92.3076923076923)
+    - HQ Country: BELGIUM
+    - Registration Category: Professional consultancies
 
 
 MEP: Francisco GUERREIRO
@@ -362,7 +368,9 @@ Date: 05-09-2020
 Meeting With: White House Consulting
 Reason: Exchange of views: Political situation in Hong Kong
   - Keywords matched in reason: Hong Kong
-  - No match found in transparency registry.
+  - Company match: euk consulting (Score: 92.3076923076923)
+    - HQ Country: BELGIUM
+    - Registration Category: Professional consultancies
 
 
 MEP: Svenja HAHN
@@ -408,7 +416,9 @@ Meeting With: Hong Kong Higher Institutions International Affairs Delegation
 Reason: Current situation in Hong Kong
   - Keywords matched in reason: Hong Kong
   - Keywords matched in meeting with: Hong Kong
-  - No match found in transparency registry.
+  - Company match: nsf international (Score: 94.11764705882352)
+    - HQ Country: UNITED STATES
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
 
 
 MEP: Rasa JUKNEVIČIENĖ
@@ -444,7 +454,9 @@ Date: 07-05-2024
 Meeting With: China Strategic Risks Institute
 Reason: Hong Kong
   - Keywords matched in reason: Hong Kong
-  - No match found in transparency registry.
+  - Company match: sas institute (Score: 92.3076923076923)
+    - HQ Country: UNITED STATES
+    - Registration Category: Companies & groups
 
 
 MEP: David LEGA

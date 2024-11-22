@@ -492,28 +492,6 @@ Reason: Huawei's work in Spain
     - Registration Category: Companies & groups
 
 
-MEP: Pilar DEL CASTILLO VERA
-Meeting ID: 1
-Capacity: Rapporteur
-Date: 25-04-2023
-Meeting With: Andurand, Balyasny Asset managment, commonwealth bank, ENI, Exxon, EY, Generali,HSBC, JP Morgan, MFS, Oliver Wyman, PGGM, Point 72, QBE, Raytheon, Rokos, Sarasin, Shein, SSiemens, Temasek, Wellington
-Reason: Data Act
-  - Keywords matched in meeting with: Shein
-  - No match found in transparency registry.
-
-
-MEP: Pilar DEL CASTILLO VERA
-Meeting ID: 34
-Capacity: Rapporteur
-Date: 04-05-2022
-Meeting With: Huawei Technologies
-Reason: Data Act
-  - Keywords matched in meeting with: Huawei Technologies
-  - Company match: huawei technologies (Score: 100.0)
-    - HQ Country: CHINA
-    - Registration Category: Companies & groups
-
-
 MEP: Alexandra GEESE
 Meeting ID: 18
 Capacity: Member
@@ -698,28 +676,6 @@ Reason: Proposal for a Regulation on Digital Operation Resilience (DORA)
     - Registration Category: Companies & groups
 
 
-MEP: Pilar DEL CASTILLO VERA
-Meeting ID: 1
-Capacity: Rapporteur
-Date: 25-04-2023
-Meeting With: Andurand, Balyasny Asset managment, commonwealth bank, ENI, Exxon, EY, Generali,HSBC, JP Morgan, MFS, Oliver Wyman, PGGM, Point 72, QBE, Raytheon, Rokos, Sarasin, Shein, SSiemens, Temasek, Wellington
-Reason: Data Act
-  - Keywords matched in meeting with: Shein
-  - No match found in transparency registry.
-
-
-MEP: Pilar DEL CASTILLO VERA
-Meeting ID: 34
-Capacity: Rapporteur
-Date: 04-05-2022
-Meeting With: Huawei Technologies
-Reason: Data Act
-  - Keywords matched in meeting with: Huawei Technologies
-  - Company match: huawei technologies (Score: 100.0)
-    - HQ Country: CHINA
-    - Registration Category: Companies & groups
-
-
 MEP: Marcel KOLAJA
 Meeting ID: 45
 Capacity: Rapporteur
@@ -823,28 +779,6 @@ Reason: Election Integrity Measures
   - Keywords matched in meeting with: TikTok
   - Company match: tiktok technology ltd (Score: 100.0)
     - HQ Country: IRELAND
-    - Registration Category: Companies & groups
-
-
-MEP: Pilar DEL CASTILLO VERA
-Meeting ID: 1
-Capacity: Rapporteur
-Date: 25-04-2023
-Meeting With: Andurand, Balyasny Asset managment, commonwealth bank, ENI, Exxon, EY, Generali,HSBC, JP Morgan, MFS, Oliver Wyman, PGGM, Point 72, QBE, Raytheon, Rokos, Sarasin, Shein, SSiemens, Temasek, Wellington
-Reason: Data Act
-  - Keywords matched in meeting with: Shein
-  - No match found in transparency registry.
-
-
-MEP: Pilar DEL CASTILLO VERA
-Meeting ID: 34
-Capacity: Rapporteur
-Date: 04-05-2022
-Meeting With: Huawei Technologies
-Reason: Data Act
-  - Keywords matched in meeting with: Huawei Technologies
-  - Company match: huawei technologies (Score: 100.0)
-    - HQ Country: CHINA
     - Registration Category: Companies & groups
 
 

@@ -275,7 +275,9 @@ Date: 28-07-2023
 Meeting With: Taiwan-Asia-Exchange Foundation
 Reason: Exchange of views
   - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
+  - Company match: edge foundation (Score: 92.85714285714286)
+    - HQ Country: BELGIUM
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
 
 
 MEP: Reinhard BÜTIKOFER
@@ -306,7 +308,9 @@ Meeting With: American Institute in Taiwan
 Reason: Exchange of views (AFET Delegation to Taiwan)
   - Keywords matched in reason: Taiwan
   - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
+  - Company match: cfa institute (Score: 92.3076923076923)
+    - HQ Country: UNITED STATES
+    - Registration Category: Trade and business associations
 
 
 MEP: Reinhard BÜTIKOFER
@@ -357,7 +361,9 @@ Date: 20-07-2023
 Meeting With: American Institute in Taiwan
 Reason: Exchange of views (US Delegation to Washington)
   - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
+  - Company match: cfa institute (Score: 92.3076923076923)
+    - HQ Country: UNITED STATES
+    - Registration Category: Trade and business associations
 
 
 MEP: Reinhard BÜTIKOFER
@@ -423,7 +429,9 @@ Date: 11-04-2023
 Meeting With: Universität Jena, Institut für Politikwissenschaft
 Reason: Redner zu Taiwan
   - Keywords matched in reason: Taiwan
-  - No match found in transparency registry.
+  - Company match: universität wien (Score: 90.32258064516128)
+    - HQ Country: AUSTRIA
+    - Registration Category: Academic institutions
 
 
 MEP: Reinhard BÜTIKOFER
@@ -493,7 +501,9 @@ Date: 20-12-2022
 Meeting With: European Chamber of Commerce in Taiwan
 Reason: Exchange of views
   - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
+  - Company match: european chamber of commerce taiwan (Score: 93.93939393939394)
+    - HQ Country: TAIWAN
+    - Registration Category: Non-governmental organisations, platforms and networks and similar
 
 
 MEP: Reinhard BÜTIKOFER
@@ -886,26 +896,6 @@ Reason: Treffen mit Taipeh Vertretung zu EU-China Beziehungen
   - No match found in transparency registry.
 
 
-MEP: Lina GÁLVEZ
-Meeting ID: 46
-Capacity: Member
-Date: 01-03-2023
-Meeting With: Taiwan ambassador
-Reason: Chips Joint Undertaking
-  - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
-
-
-MEP: Lina GÁLVEZ
-Meeting ID: 59
-Capacity: Shadow rapporteur
-Date: 07-06-2022
-Meeting With: Taipei Representative Office in the EU and Belgium
-Reason: Semiconductor Industry
-  - Keywords matched in meeting with: Taipei
-  - No match found in transparency registry.
-
-
 MEP: Helmut GEUKING
 Meeting ID: 14
 Capacity: Member
@@ -957,7 +947,9 @@ Meeting With: Taiwan Representation to the EU
 Reason: EU-Taiwan Relations
   - Keywords matched in reason: Taiwan
   - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
+  - Company match: finnish trade union representation to the eu (Score: 91.52542372881356)
+    - HQ Country: BELGIUM
+    - Registration Category: Trade unions and professional associations
 
 
 MEP: Raphaël GLUCKSMANN
@@ -1193,26 +1185,6 @@ Reason: Exchange of views
   - No match found in transparency registry.
 
 
-MEP: Lina GÁLVEZ
-Meeting ID: 46
-Capacity: Member
-Date: 01-03-2023
-Meeting With: Taiwan ambassador
-Reason: Chips Joint Undertaking
-  - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
-
-
-MEP: Lina GÁLVEZ
-Meeting ID: 59
-Capacity: Shadow rapporteur
-Date: 07-06-2022
-Meeting With: Taipei Representative Office in the EU and Belgium
-Reason: Semiconductor Industry
-  - Keywords matched in meeting with: Taipei
-  - No match found in transparency registry.
-
-
 MEP: Seán KELLY
 Meeting ID: 125
 Capacity: Member
@@ -1368,26 +1340,6 @@ Date: 20-02-2024
 Meeting With: Ambassador of Taiwan
 Reason: General Exchange
   - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
-
-
-MEP: Lina GÁLVEZ
-Meeting ID: 46
-Capacity: Member
-Date: 01-03-2023
-Meeting With: Taiwan ambassador
-Reason: Chips Joint Undertaking
-  - Keywords matched in meeting with: Taiwan
-  - No match found in transparency registry.
-
-
-MEP: Lina GÁLVEZ
-Meeting ID: 59
-Capacity: Shadow rapporteur
-Date: 07-06-2022
-Meeting With: Taipei Representative Office in the EU and Belgium
-Reason: Semiconductor Industry
-  - Keywords matched in meeting with: Taipei
   - No match found in transparency registry.
 
 
@@ -2030,7 +1982,9 @@ Date: 26-05-2023
 Meeting With: China Strategic Risks Institute
 Reason: EU-Taiwan relations
   - Keywords matched in reason: Taiwan
-  - No match found in transparency registry.
+  - Company match: sas institute (Score: 92.3076923076923)
+    - HQ Country: UNITED STATES
+    - Registration Category: Companies & groups
 
 
 MEP: Charlie WEIMERS
