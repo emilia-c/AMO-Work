@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Udo BULLMANN",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "origin_country": "Germany",
+        "national_party": "Sozialdemokratische Partei Deutschlands",
+        "meeting_id": "0",
+        "meeting_info": {
+            "reason": "APA meeting with representatives of civil society organizations",
+            "date": "24-10-2024",
+            "place": "Brussels",
+            "capacity": "Member",
+            "meeting_with": "European Trade Justice Coalition"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    },
+    {
+        "name": "Udo BULLMANN",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "origin_country": "Germany",
+        "national_party": "Sozialdemokratische Partei Deutschlands",
+        "meeting_id": "2",
+        "meeting_info": {
+            "reason": "APA meeting with Civil Society Organisations from Argentina",
+            "date": "16-10-2024",
+            "place": "Brussels",
+            "capacity": "Member",
+            "meeting_with": "Heinrich-Böll-Stiftung FARN CELS Via Libre"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    },
+    {
+        "name": "Udo BULLMANN",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "origin_country": "Germany",
+        "national_party": "Sozialdemokratische Partei Deutschlands",
+        "meeting_id": "4",
+        "meeting_info": {
+            "reason": "Exchange of views on situation of Bahá’i, especially women (APA meeting)",
+            "date": "10-10-2024",
+            "place": "Brussels",
+            "capacity": "Member",
+            "meeting_with": "Bahá'í International Community"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    },
+    {
+        "name": "Udo BULLMANN",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "origin_country": "Germany",
+        "national_party": "Sozialdemokratische Partei Deutschlands",
+        "meeting_id": "8",
+        "meeting_info": {
+            "reason": "APA attendance on Situation in Gaza and the Middle East",
+            "date": "25-09-2024",
+            "place": "Brussels",
+            "capacity": "Member",
+            "meeting_with": "UNRWA"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    },
+    {
+        "name": "Udo BULLMANN",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "origin_country": "Germany",
+        "national_party": "Sozialdemokratische Partei Deutschlands",
+        "meeting_id": "9",
+        "meeting_info": {
+            "reason": "APA meeting NGO representatives",
+            "date": "18-09-2024",
+            "place": "Brussels",
+            "capacity": "Member",
+            "meeting_with": "International Commission of Jurists"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    },
+    {
+        "name": "Dirk GOTINK",
+        "group": "Group of the European People's Party (Christian Democrats)",
+        "origin_country": "Netherlands",
+        "national_party": "Nieuw Sociaal Contract",
+        "meeting_id": "27",
+        "meeting_info": {
+            "reason": "AGRI/ENVI - APA",
+            "date": "19-06-2024",
+            "place": "Brussels",
+            "capacity": "Member",
+            "meeting_with": "Glastuinbouw Nederland"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    },
+    {
+        "name": "Kathleen VAN BREMPT",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "origin_country": "Belgium",
+        "national_party": "Vooruit",
+        "meeting_id": "20",
+        "meeting_info": {
+            "reason": "Introductory meeting on the workings of IPAC (APA)",
+            "date": "08-07-2024",
+            "place": "Brussels",
+            "capacity": "Member",
+            "meeting_with": "Inter-Parliamentary Alliance on China (IPAC)"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    },
+    {
+        "name": "Kathleen VAN BREMPT",
+        "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+        "origin_country": "Belgium",
+        "national_party": "Vooruit",
+        "meeting_id": "30",
+        "meeting_info": {
+            "reason": "Werkomstandigheden thuiszorgpersoneel uit derde landen (APA)",
+            "date": "04-06-2024",
+            "place": "Online",
+            "capacity": "Member",
+            "meeting_with": "BBTK"
+        },
+        "matched_keywords": [
+            "apa"
+        ]
+    }
+]
